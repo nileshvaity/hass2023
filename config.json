@@ -1,0 +1,12 @@
+{
+  "addons_custom_list": [],
+  "debug": false,
+  "debug_block": false,
+  "diagnostics": false,
+  "version": "2023.01.1",
+  "wait_boot": 5,
+  "logging": "info",
+  "last_boot": "2023-02-21T01:16:38",
+  "timezone": "Asia/Calcutta",
+  "image": "ghcr.io/home-assistant/armv7-hassio-supervisor"
+}

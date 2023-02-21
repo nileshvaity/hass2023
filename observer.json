@@ -1,0 +1,5 @@
+{
+  "version": "2021.10.0",
+  "image": "ghcr.io/home-assistant/armv7-hassio-observer",
+  "access_token": "7c01541c749bf3dd0ef9599c5c40fabb437419af52e0aa3fc9f906936e9e8ac8892474d1caed8b1db6d9a2fb27ed49a58cd82d4e280a4b82"
+}

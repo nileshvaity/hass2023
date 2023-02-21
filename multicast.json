@@ -1,0 +1,4 @@
+{
+  "version": "2022.02.0",
+  "image": "ghcr.io/home-assistant/armv7-hassio-multicast"
+}

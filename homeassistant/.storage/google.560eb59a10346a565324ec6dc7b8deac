@@ -1,0 +1,3610 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "google.560eb59a10346a565324ec6dc7b8deac",
+  "data": {
+    "nileshvaity@gmail.com-nileshvaity@gmail.com": {
+      "event_sync": {
+        "nileshvaity@gmail.com": {
+          "items": {
+            "_6srjad9mcos6abb3c4o3ab9k60o38bb261j32b9k68p3ad1lcorj4d9l6o": {
+              "id": "_6srjad9mcos6abb3c4o3ab9k60o38bb261j32b9k68p3ad1lcorj4d9l6o",
+              "ical_uuid": "77556f8e-ca05-4004-b0f1-422545f72556",
+              "summary": "hriyan birthday",
+              "start": {
+                "date": "2015-01-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2015-01-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": null,
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "default",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [
+                "RRULE:FREQ=YEARLY;INTERVAL=1"
+              ],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "_6tlnaqrle5p6cpb4dhmj4phpegs7cp9gddm6etj871h78p9lcdn3edjbcpm3espkchomcrrd61p7aeb7ekqn4chncpjj4t3575jncebf6gpj0": {
+              "id": "_6tlnaqrle5p6cpb4dhmj4phpegs7cp9gddm6etj871h78p9lcdn3edjbcpm3espkchomcrrd61p7aeb7ekqn4chncpjj4t3575jncebf6gpj0",
+              "ical_uuid": "7kukuqrfedlm2f9t8ve0klgvh8bte5cn76kfl7s4dqfom0ru9gu5r27fg2te9gv9o430",
+              "summary": "nileshvaity@gmail.com,  JioMart offerss available in November 2022.",
+              "start": {
+                "date": "2023-11-30",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-12-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DPe9_c5HH2paIqRDJhk1b7lqI_ZiRv2f_Y\n",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "private",
+              "attendees": [
+                {
+                  "id": null,
+                  "email": "nileshvaity@gmail.com",
+                  "display_name": null,
+                  "optional": false,
+                  "comment": null,
+                  "response_status": "accepted"
+                }
+              ],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            }
+          },
+          "sync_token": "CNiNx77rof0CENiNx77rof0CGAUgsZuD8gE=",
+          "sync_token_version": 2
+        }
+      }
+    },
+    "nileshvaity@gmail.com-en.indian#holiday@group.v.calendar.google.com": {
+      "event_sync": {
+        "en.indian#holiday@group.v.calendar.google.com": {
+          "items": {
+            "20221124_ghphle7ppfmvfiq2g5humb2me8": {
+              "id": "20221124_ghphle7ppfmvfiq2g5humb2me8",
+              "ical_uuid": "20221124_ghphle7ppfmvfiq2g5humb2me8@google.com",
+              "summary": "Guru Tegh Bahadur's Martyrdom Day",
+              "start": {
+                "date": "2022-11-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2022-11-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20221224_lcgg8m1359roqe05tvnnafbt2s": {
+              "id": "20221224_lcgg8m1359roqe05tvnnafbt2s",
+              "ical_uuid": "20221224_lcgg8m1359roqe05tvnnafbt2s@google.com",
+              "summary": "Christmas Eve",
+              "start": {
+                "date": "2022-12-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2022-12-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20221225_apfbln527i1qpgefsv8lh81uug": {
+              "id": "20221225_apfbln527i1qpgefsv8lh81uug",
+              "ical_uuid": "20221225_apfbln527i1qpgefsv8lh81uug@google.com",
+              "summary": "Christmas",
+              "start": {
+                "date": "2022-12-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2022-12-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20221229_ueqrermmn8re3h4unpof3k6fs4": {
+              "id": "20221229_ueqrermmn8re3h4unpof3k6fs4",
+              "ical_uuid": "20221229_ueqrermmn8re3h4unpof3k6fs4@google.com",
+              "summary": "Guru Govind Singh Jayanti",
+              "start": {
+                "date": "2022-12-29",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2022-12-30",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230101_jt8j4gjd25cnbq5mu4uugkeo9k": {
+              "id": "20230101_jt8j4gjd25cnbq5mu4uugkeo9k",
+              "ical_uuid": "20230101_jt8j4gjd25cnbq5mu4uugkeo9k@google.com",
+              "summary": "New Year's Day",
+              "start": {
+                "date": "2023-01-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-01-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230114_irvsh4fr3t2n4fcl6b10otha6k": {
+              "id": "20230114_irvsh4fr3t2n4fcl6b10otha6k",
+              "ical_uuid": "20230114_irvsh4fr3t2n4fcl6b10otha6k@google.com",
+              "summary": "Makar Sankranti",
+              "start": {
+                "date": "2023-01-14",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-01-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230115_i2g0rg6bon2j8me0u7sjm7tka4": {
+              "id": "20230115_i2g0rg6bon2j8me0u7sjm7tka4",
+              "ical_uuid": "20230115_i2g0rg6bon2j8me0u7sjm7tka4@google.com",
+              "summary": "Pongal",
+              "start": {
+                "date": "2023-01-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-01-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230126_32k1n90r06la29e8te70c1u40s": {
+              "id": "20230126_32k1n90r06la29e8te70c1u40s",
+              "ical_uuid": "20230126_32k1n90r06la29e8te70c1u40s@google.com",
+              "summary": "Republic Day",
+              "start": {
+                "date": "2023-01-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-01-27",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230126_jop3t0vt8i1anit5e8d8tisr24": {
+              "id": "20230126_jop3t0vt8i1anit5e8d8tisr24",
+              "ical_uuid": "20230126_jop3t0vt8i1anit5e8d8tisr24@google.com",
+              "summary": "Vasant Panchami",
+              "start": {
+                "date": "2023-01-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-01-27",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230205_9or44lpflu8s17jug6paodpvck": {
+              "id": "20230205_9or44lpflu8s17jug6paodpvck",
+              "ical_uuid": "20230205_9or44lpflu8s17jug6paodpvck@google.com",
+              "summary": "Hazarat Ali's Birthday",
+              "start": {
+                "date": "2023-02-05",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-02-06",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230205_n1qgojhglm6jjiml166hi307rs": {
+              "id": "20230205_n1qgojhglm6jjiml166hi307rs",
+              "ical_uuid": "20230205_n1qgojhglm6jjiml166hi307rs@google.com",
+              "summary": "Guru Ravidas Jayanti",
+              "start": {
+                "date": "2023-02-05",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-02-06",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230215_chb58fvbbo4qgg10g5nrvgteeo": {
+              "id": "20230215_chb58fvbbo4qgg10g5nrvgteeo",
+              "ical_uuid": "20230215_chb58fvbbo4qgg10g5nrvgteeo@google.com",
+              "summary": "Maharishi Dayanand Saraswati Jayanti",
+              "start": {
+                "date": "2023-02-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-02-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230218_ml54actfam30b0c7n1qjunm24o": {
+              "id": "20230218_ml54actfam30b0c7n1qjunm24o",
+              "ical_uuid": "20230218_ml54actfam30b0c7n1qjunm24o@google.com",
+              "summary": "Maha Shivaratri/Shivaratri",
+              "start": {
+                "date": "2023-02-18",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-02-19",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230219_sm4rfm9h8flptl1tupiqoq5n7s": {
+              "id": "20230219_sm4rfm9h8flptl1tupiqoq5n7s",
+              "ical_uuid": "20230219_sm4rfm9h8flptl1tupiqoq5n7s@google.com",
+              "summary": "Shivaji Jayanti",
+              "start": {
+                "date": "2023-02-19",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-02-20",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230307_i7tvofq9hjbg4l6pd9d3dd5t7o": {
+              "id": "20230307_i7tvofq9hjbg4l6pd9d3dd5t7o",
+              "ical_uuid": "20230307_i7tvofq9hjbg4l6pd9d3dd5t7o@google.com",
+              "summary": "Dolyatra",
+              "start": {
+                "date": "2023-03-07",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-03-08",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230307_n0r4j5rjlogu5hucbjeevbk4hs": {
+              "id": "20230307_n0r4j5rjlogu5hucbjeevbk4hs",
+              "ical_uuid": "20230307_n0r4j5rjlogu5hucbjeevbk4hs@google.com",
+              "summary": "Holika Dahana",
+              "start": {
+                "date": "2023-03-07",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-03-08",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230308_49j459mvsi48u5vntig8ipehi4": {
+              "id": "20230308_49j459mvsi48u5vntig8ipehi4",
+              "ical_uuid": "20230308_49j459mvsi48u5vntig8ipehi4@google.com",
+              "summary": "Holi",
+              "start": {
+                "date": "2023-03-08",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-03-09",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230322_hp60tusd486sbhb0b2149cc3ko": {
+              "id": "20230322_hp60tusd486sbhb0b2149cc3ko",
+              "ical_uuid": "20230322_hp60tusd486sbhb0b2149cc3ko@google.com",
+              "summary": "Chaitra Sukhladi",
+              "start": {
+                "date": "2023-03-22",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-03-23",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230322_rvcepa0hb1o5185g08bjdr6grc": {
+              "id": "20230322_rvcepa0hb1o5185g08bjdr6grc",
+              "ical_uuid": "20230322_rvcepa0hb1o5185g08bjdr6grc@google.com",
+              "summary": "Gudi Padwa",
+              "start": {
+                "date": "2023-03-22",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-03-23",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230322_sst1hfmrn3jubgca811240610g": {
+              "id": "20230322_sst1hfmrn3jubgca811240610g",
+              "ical_uuid": "20230322_sst1hfmrn3jubgca811240610g@google.com",
+              "summary": "Ugadi",
+              "start": {
+                "date": "2023-03-22",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-03-23",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230330_ulg1qqfo5rtv4oalupifaa6n9c": {
+              "id": "20230330_ulg1qqfo5rtv4oalupifaa6n9c",
+              "ical_uuid": "20230330_ulg1qqfo5rtv4oalupifaa6n9c@google.com",
+              "summary": "Rama Navami",
+              "start": {
+                "date": "2023-03-30",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-03-31",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230404_lj3i9vhf73fv3omj63nsa5u6d0": {
+              "id": "20230404_lj3i9vhf73fv3omj63nsa5u6d0",
+              "ical_uuid": "20230404_lj3i9vhf73fv3omj63nsa5u6d0@google.com",
+              "summary": "Mahavir Jayanti",
+              "start": {
+                "date": "2023-04-04",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-04-05",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230407_ov2s16sui03ojeldvcrgs4o4m8": {
+              "id": "20230407_ov2s16sui03ojeldvcrgs4o4m8",
+              "ical_uuid": "20230407_ov2s16sui03ojeldvcrgs4o4m8@google.com",
+              "summary": "Good Friday",
+              "start": {
+                "date": "2023-04-07",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-04-08",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230409_ctdrlkuhdne96iqgm7bq87bni4": {
+              "id": "20230409_ctdrlkuhdne96iqgm7bq87bni4",
+              "ical_uuid": "20230409_ctdrlkuhdne96iqgm7bq87bni4@google.com",
+              "summary": "Easter Day",
+              "start": {
+                "date": "2023-04-09",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-04-10",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230414_7nh7vol57irs9lk4umo3s1drck": {
+              "id": "20230414_7nh7vol57irs9lk4umo3s1drck",
+              "ical_uuid": "20230414_7nh7vol57irs9lk4umo3s1drck@google.com",
+              "summary": "Ambedkar Jayanti",
+              "start": {
+                "date": "2023-04-14",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-04-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230414_gkv869gkg9e1hr0tiftkpje2r4": {
+              "id": "20230414_gkv869gkg9e1hr0tiftkpje2r4",
+              "ical_uuid": "20230414_gkv869gkg9e1hr0tiftkpje2r4@google.com",
+              "summary": "Vaisakhi",
+              "start": {
+                "date": "2023-04-14",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-04-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230415_0qhjgr255bde37901gcia166vo": {
+              "id": "20230415_0qhjgr255bde37901gcia166vo",
+              "ical_uuid": "20230415_0qhjgr255bde37901gcia166vo@google.com",
+              "summary": "Mesadi / Vaisakhadi",
+              "start": {
+                "date": "2023-04-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-04-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230421_krdodl1tn389lbnjtlhng4e12k": {
+              "id": "20230421_krdodl1tn389lbnjtlhng4e12k",
+              "ical_uuid": "20230421_krdodl1tn389lbnjtlhng4e12k@google.com",
+              "summary": "Jamat Ul-Vida",
+              "start": {
+                "date": "2023-04-21",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-04-22",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230422_0gebcino6muoblvpdf274ptdmg": {
+              "id": "20230422_0gebcino6muoblvpdf274ptdmg",
+              "ical_uuid": "20230422_0gebcino6muoblvpdf274ptdmg@google.com",
+              "summary": "Ramzan Id/Eid-ul-Fitar",
+              "start": {
+                "date": "2023-04-22",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-04-23",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230505_86m3s6dnv0r58un4s9u87cm4jc": {
+              "id": "20230505_86m3s6dnv0r58un4s9u87cm4jc",
+              "ical_uuid": "20230505_86m3s6dnv0r58un4s9u87cm4jc@google.com",
+              "summary": "Buddha Purnima/Vesak",
+              "start": {
+                "date": "2023-05-05",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-05-06",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230509_opg7v6r80md6hu8ru0reord5pk": {
+              "id": "20230509_opg7v6r80md6hu8ru0reord5pk",
+              "ical_uuid": "20230509_opg7v6r80md6hu8ru0reord5pk@google.com",
+              "summary": "Birthday of Rabindranath",
+              "start": {
+                "date": "2023-05-09",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-05-10",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230620_njbb5582o3mog39askdgtg9lg4": {
+              "id": "20230620_njbb5582o3mog39askdgtg9lg4",
+              "ical_uuid": "20230620_njbb5582o3mog39askdgtg9lg4@google.com",
+              "summary": "Rath Yatra",
+              "start": {
+                "date": "2023-06-20",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-06-21",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230629_98ps9fnvhlasv30jis8hsgjoc8": {
+              "id": "20230629_98ps9fnvhlasv30jis8hsgjoc8",
+              "ical_uuid": "20230629_98ps9fnvhlasv30jis8hsgjoc8@google.com",
+              "summary": "Bakrid/Eid ul-Adha",
+              "start": {
+                "date": "2023-06-29",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-06-30",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230729_ek7pmarjtj44d5ui4ipsnh9b2c": {
+              "id": "20230729_ek7pmarjtj44d5ui4ipsnh9b2c",
+              "ical_uuid": "20230729_ek7pmarjtj44d5ui4ipsnh9b2c@google.com",
+              "summary": "Muharram/Ashura",
+              "start": {
+                "date": "2023-07-29",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-07-30",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230815_pic1jqopjio982j3g1kamgo7oc": {
+              "id": "20230815_pic1jqopjio982j3g1kamgo7oc",
+              "ical_uuid": "20230815_pic1jqopjio982j3g1kamgo7oc@google.com",
+              "summary": "Independence Day",
+              "start": {
+                "date": "2023-08-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-08-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230816_2mrsr018fj2olnqovqnsqjdhbg": {
+              "id": "20230816_2mrsr018fj2olnqovqnsqjdhbg",
+              "ical_uuid": "20230816_2mrsr018fj2olnqovqnsqjdhbg@google.com",
+              "summary": "Parsi New Year",
+              "start": {
+                "date": "2023-08-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-08-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230820_p0osh4rg9o1e8e0nnbcgpm44j8": {
+              "id": "20230820_p0osh4rg9o1e8e0nnbcgpm44j8",
+              "ical_uuid": "20230820_p0osh4rg9o1e8e0nnbcgpm44j8@google.com",
+              "summary": "Vinayaka Chathurthi",
+              "start": {
+                "date": "2023-08-20",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-08-21",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230829_paop508c2mdiq9v157bt60ju0o": {
+              "id": "20230829_paop508c2mdiq9v157bt60ju0o",
+              "ical_uuid": "20230829_paop508c2mdiq9v157bt60ju0o@google.com",
+              "summary": "Onam",
+              "start": {
+                "date": "2023-08-29",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-08-30",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230830_i9okorg6bs30eokho8t87uta28": {
+              "id": "20230830_i9okorg6bs30eokho8t87uta28",
+              "ical_uuid": "20230830_i9okorg6bs30eokho8t87uta28@google.com",
+              "summary": "Raksha Bandhan (Rakhi)",
+              "start": {
+                "date": "2023-08-30",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-08-31",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230906_25g2aeva0npd765gu9mb9bi1kc": {
+              "id": "20230906_25g2aeva0npd765gu9mb9bi1kc",
+              "ical_uuid": "20230906_25g2aeva0npd765gu9mb9bi1kc@google.com",
+              "summary": "Janmashtami (Smarta)",
+              "start": {
+                "date": "2023-09-06",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-09-07",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230907_a22tsueuq1si4p3u7ha9sqlimk": {
+              "id": "20230907_a22tsueuq1si4p3u7ha9sqlimk",
+              "ical_uuid": "20230907_a22tsueuq1si4p3u7ha9sqlimk@google.com",
+              "summary": "Janmashtami",
+              "start": {
+                "date": "2023-09-07",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-09-08",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230919_ikp0lms0a3tbsl0icu7luihvv8": {
+              "id": "20230919_ikp0lms0a3tbsl0icu7luihvv8",
+              "ical_uuid": "20230919_ikp0lms0a3tbsl0icu7luihvv8@google.com",
+              "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
+              "start": {
+                "date": "2023-09-19",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-09-20",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20230928_b946i0p07urvr85fqe01fnfbns": {
+              "id": "20230928_b946i0p07urvr85fqe01fnfbns",
+              "ical_uuid": "20230928_b946i0p07urvr85fqe01fnfbns@google.com",
+              "summary": "Milad un-Nabi/Id-e-Milad",
+              "start": {
+                "date": "2023-09-28",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-09-29",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231002_atg9ii7gjikmi5jh70kffdugvo": {
+              "id": "20231002_atg9ii7gjikmi5jh70kffdugvo",
+              "ical_uuid": "20231002_atg9ii7gjikmi5jh70kffdugvo@google.com",
+              "summary": "Mahatma Gandhi Jayanti",
+              "start": {
+                "date": "2023-10-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-10-03",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231015_2hmf8nsvctr5v9mjcit6tjroe0": {
+              "id": "20231015_2hmf8nsvctr5v9mjcit6tjroe0",
+              "ical_uuid": "20231015_2hmf8nsvctr5v9mjcit6tjroe0@google.com",
+              "summary": "First Day of Sharad Navratri",
+              "start": {
+                "date": "2023-10-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-10-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231020_dah5dd91o9lroinmttrdqdkbos": {
+              "id": "20231020_dah5dd91o9lroinmttrdqdkbos",
+              "ical_uuid": "20231020_dah5dd91o9lroinmttrdqdkbos@google.com",
+              "summary": "First Day of Durga Puja Festivities",
+              "start": {
+                "date": "2023-10-20",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-10-21",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231021_pcfksadj7kecvhjle73c1j03u4": {
+              "id": "20231021_pcfksadj7kecvhjle73c1j03u4",
+              "ical_uuid": "20231021_pcfksadj7kecvhjle73c1j03u4@google.com",
+              "summary": "Maha Saptami",
+              "start": {
+                "date": "2023-10-21",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-10-22",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231022_erf4sfb2svbdd6pjlcqb0o96i4": {
+              "id": "20231022_erf4sfb2svbdd6pjlcqb0o96i4",
+              "ical_uuid": "20231022_erf4sfb2svbdd6pjlcqb0o96i4@google.com",
+              "summary": "Maha Ashtami",
+              "start": {
+                "date": "2023-10-22",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-10-23",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231023_ulgc14vrv8re10503iaptnc91k": {
+              "id": "20231023_ulgc14vrv8re10503iaptnc91k",
+              "ical_uuid": "20231023_ulgc14vrv8re10503iaptnc91k@google.com",
+              "summary": "Maha Navami",
+              "start": {
+                "date": "2023-10-23",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-10-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231024_r5akmnailu5rtena6nhbo3ejn8": {
+              "id": "20231024_r5akmnailu5rtena6nhbo3ejn8",
+              "ical_uuid": "20231024_r5akmnailu5rtena6nhbo3ejn8@google.com",
+              "summary": "Dussehra",
+              "start": {
+                "date": "2023-10-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-10-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231028_ava2dd3oaabgk0rmjvbng43n9s": {
+              "id": "20231028_ava2dd3oaabgk0rmjvbng43n9s",
+              "ical_uuid": "20231028_ava2dd3oaabgk0rmjvbng43n9s@google.com",
+              "summary": "Maharishi Valmiki Jayanti",
+              "start": {
+                "date": "2023-10-28",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-10-29",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231101_j2a0plvcdb58a6e9ma1ja2noao": {
+              "id": "20231101_j2a0plvcdb58a6e9ma1ja2noao",
+              "ical_uuid": "20231101_j2a0plvcdb58a6e9ma1ja2noao@google.com",
+              "summary": "Karaka Chaturthi (Karva Chauth)",
+              "start": {
+                "date": "2023-11-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231112_fqpf08gculh3mhh1urkb5u0c58": {
+              "id": "20231112_fqpf08gculh3mhh1urkb5u0c58",
+              "ical_uuid": "20231112_fqpf08gculh3mhh1urkb5u0c58@google.com",
+              "summary": "Diwali/Deepavali",
+              "start": {
+                "date": "2023-11-12",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-13",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231112_j3151ns8fvkt8ci2oog9d9u0ps": {
+              "id": "20231112_j3151ns8fvkt8ci2oog9d9u0ps",
+              "ical_uuid": "20231112_j3151ns8fvkt8ci2oog9d9u0ps@google.com",
+              "summary": "Naraka Chaturdasi",
+              "start": {
+                "date": "2023-11-12",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-13",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231113_2alkmleq3qq424vlk2htahn8qo": {
+              "id": "20231113_2alkmleq3qq424vlk2htahn8qo",
+              "ical_uuid": "20231113_2alkmleq3qq424vlk2htahn8qo@google.com",
+              "summary": "Govardhan Puja",
+              "start": {
+                "date": "2023-11-13",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-14",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231115_d9k3f3ogj11ml01e601al1rcck": {
+              "id": "20231115_d9k3f3ogj11ml01e601al1rcck",
+              "ical_uuid": "20231115_d9k3f3ogj11ml01e601al1rcck@google.com",
+              "summary": "Bhai Duj",
+              "start": {
+                "date": "2023-11-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231119_k3fg8p74ekr1hi45ck2r5445oo": {
+              "id": "20231119_k3fg8p74ekr1hi45ck2r5445oo",
+              "ical_uuid": "20231119_k3fg8p74ekr1hi45ck2r5445oo@google.com",
+              "summary": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)",
+              "start": {
+                "date": "2023-11-19",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-20",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231124_i1fnn5c5kufbh14e5pt888seng": {
+              "id": "20231124_i1fnn5c5kufbh14e5pt888seng",
+              "ical_uuid": "20231124_i1fnn5c5kufbh14e5pt888seng@google.com",
+              "summary": "Guru Tegh Bahadur's Martyrdom Day",
+              "start": {
+                "date": "2023-11-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231127_94ga05eptl8tfigjv118i1m1bg": {
+              "id": "20231127_94ga05eptl8tfigjv118i1m1bg",
+              "ical_uuid": "20231127_94ga05eptl8tfigjv118i1m1bg@google.com",
+              "summary": "Guru Nanak Jayanti",
+              "start": {
+                "date": "2023-11-27",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-28",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231224_fp8q5erpftb2s6lr50bnntu3v0": {
+              "id": "20231224_fp8q5erpftb2s6lr50bnntu3v0",
+              "ical_uuid": "20231224_fp8q5erpftb2s6lr50bnntu3v0@google.com",
+              "summary": "Christmas Eve",
+              "start": {
+                "date": "2023-12-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-12-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20231225_t07g7jettnk0avmbvns4dn4afc": {
+              "id": "20231225_t07g7jettnk0avmbvns4dn4afc",
+              "ical_uuid": "20231225_t07g7jettnk0avmbvns4dn4afc@google.com",
+              "summary": "Christmas",
+              "start": {
+                "date": "2023-12-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-12-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240101_hq57srvd2vmvlkd8kef9id1194": {
+              "id": "20240101_hq57srvd2vmvlkd8kef9id1194",
+              "ical_uuid": "20240101_hq57srvd2vmvlkd8kef9id1194@google.com",
+              "summary": "New Year's Day",
+              "start": {
+                "date": "2024-01-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-01-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240114_0gedlkddumvh5ndrcpraukfah4": {
+              "id": "20240114_0gedlkddumvh5ndrcpraukfah4",
+              "ical_uuid": "20240114_0gedlkddumvh5ndrcpraukfah4@google.com",
+              "summary": "Lohri",
+              "start": {
+                "date": "2024-01-14",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-01-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240115_d4vlnleoqb6af04j0uqu005vh0": {
+              "id": "20240115_d4vlnleoqb6af04j0uqu005vh0",
+              "ical_uuid": "20240115_d4vlnleoqb6af04j0uqu005vh0@google.com",
+              "summary": "Makar Sankranti",
+              "start": {
+                "date": "2024-01-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-01-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240115_vasn62a9dftsrug1n2jbpgp8eo": {
+              "id": "20240115_vasn62a9dftsrug1n2jbpgp8eo",
+              "ical_uuid": "20240115_vasn62a9dftsrug1n2jbpgp8eo@google.com",
+              "summary": "Pongal",
+              "start": {
+                "date": "2024-01-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-01-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240117_6uit3jd62gnd37g6opbjjr9nr4": {
+              "id": "20240117_6uit3jd62gnd37g6opbjjr9nr4",
+              "ical_uuid": "20240117_6uit3jd62gnd37g6opbjjr9nr4@google.com",
+              "summary": "Guru Govind Singh Jayanti",
+              "start": {
+                "date": "2024-01-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-01-18",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240125_gq3utbei676oga1ud83p230agk": {
+              "id": "20240125_gq3utbei676oga1ud83p230agk",
+              "ical_uuid": "20240125_gq3utbei676oga1ud83p230agk@google.com",
+              "summary": "Hazarat Ali's Birthday",
+              "start": {
+                "date": "2024-01-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-01-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240126_b4h0o1umvgngcgb8s9r91fgfjs": {
+              "id": "20240126_b4h0o1umvgngcgb8s9r91fgfjs",
+              "ical_uuid": "20240126_b4h0o1umvgngcgb8s9r91fgfjs@google.com",
+              "summary": "Republic Day",
+              "start": {
+                "date": "2024-01-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-01-27",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240214_n0gmbn3fcriko6884crd2l4sk4": {
+              "id": "20240214_n0gmbn3fcriko6884crd2l4sk4",
+              "ical_uuid": "20240214_n0gmbn3fcriko6884crd2l4sk4@google.com",
+              "summary": "Vasant Panchami",
+              "start": {
+                "date": "2024-02-14",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-02-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240219_kh48thdfi4kssavblahib4upvg": {
+              "id": "20240219_kh48thdfi4kssavblahib4upvg",
+              "ical_uuid": "20240219_kh48thdfi4kssavblahib4upvg@google.com",
+              "summary": "Shivaji Jayanti",
+              "start": {
+                "date": "2024-02-19",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-02-20",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240224_8khsoun20n0o2833t6fhed9q7c": {
+              "id": "20240224_8khsoun20n0o2833t6fhed9q7c",
+              "ical_uuid": "20240224_8khsoun20n0o2833t6fhed9q7c@google.com",
+              "summary": "Guru Ravidas Jayanti",
+              "start": {
+                "date": "2024-02-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-02-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240305_v7bn0ck8cvainspup0t7a8hkcs": {
+              "id": "20240305_v7bn0ck8cvainspup0t7a8hkcs",
+              "ical_uuid": "20240305_v7bn0ck8cvainspup0t7a8hkcs@google.com",
+              "summary": "Maharishi Dayanand Saraswati Jayanti",
+              "start": {
+                "date": "2024-03-05",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-03-06",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240308_3rjt1i6o0g5qp1kv41g5hqsrmc": {
+              "id": "20240308_3rjt1i6o0g5qp1kv41g5hqsrmc",
+              "ical_uuid": "20240308_3rjt1i6o0g5qp1kv41g5hqsrmc@google.com",
+              "summary": "Maha Shivaratri/Shivaratri",
+              "start": {
+                "date": "2024-03-08",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-03-09",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240324_tq78j2vb0hgimvkhl098oqpb4o": {
+              "id": "20240324_tq78j2vb0hgimvkhl098oqpb4o",
+              "ical_uuid": "20240324_tq78j2vb0hgimvkhl098oqpb4o@google.com",
+              "summary": "Holika Dahana",
+              "start": {
+                "date": "2024-03-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-03-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240325_f0dg9jc0mc64470s21foo3a23o": {
+              "id": "20240325_f0dg9jc0mc64470s21foo3a23o",
+              "ical_uuid": "20240325_f0dg9jc0mc64470s21foo3a23o@google.com",
+              "summary": "Dolyatra",
+              "start": {
+                "date": "2024-03-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-03-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240325_hpb8d5mahisva5e5sli9q1e7p8": {
+              "id": "20240325_hpb8d5mahisva5e5sli9q1e7p8",
+              "ical_uuid": "20240325_hpb8d5mahisva5e5sli9q1e7p8@google.com",
+              "summary": "Holi",
+              "start": {
+                "date": "2024-03-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-03-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240329_ds899pmvoukumv7nalsa11sp4g": {
+              "id": "20240329_ds899pmvoukumv7nalsa11sp4g",
+              "ical_uuid": "20240329_ds899pmvoukumv7nalsa11sp4g@google.com",
+              "summary": "Good Friday",
+              "start": {
+                "date": "2024-03-29",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-03-30",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240331_0mn91sbculvn4h1b4pdf8e1vnc": {
+              "id": "20240331_0mn91sbculvn4h1b4pdf8e1vnc",
+              "ical_uuid": "20240331_0mn91sbculvn4h1b4pdf8e1vnc@google.com",
+              "summary": "Easter Day",
+              "start": {
+                "date": "2024-03-31",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240405_2qshql82e5rq9b4lefah9bvt1c": {
+              "id": "20240405_2qshql82e5rq9b4lefah9bvt1c",
+              "ical_uuid": "20240405_2qshql82e5rq9b4lefah9bvt1c@google.com",
+              "summary": "Jamat Ul-Vida",
+              "start": {
+                "date": "2024-04-05",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-06",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240409_fcehf7ein07u8ave7qovsam454": {
+              "id": "20240409_fcehf7ein07u8ave7qovsam454",
+              "ical_uuid": "20240409_fcehf7ein07u8ave7qovsam454@google.com",
+              "summary": "Ugadi",
+              "start": {
+                "date": "2024-04-09",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-10",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240409_hnpauks50gcmtj6nfvnee7svb0": {
+              "id": "20240409_hnpauks50gcmtj6nfvnee7svb0",
+              "ical_uuid": "20240409_hnpauks50gcmtj6nfvnee7svb0@google.com",
+              "summary": "Chaitra Sukhladi",
+              "start": {
+                "date": "2024-04-09",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-10",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240409_ptr4smvrfp78hgrod29nkivpeg": {
+              "id": "20240409_ptr4smvrfp78hgrod29nkivpeg",
+              "ical_uuid": "20240409_ptr4smvrfp78hgrod29nkivpeg@google.com",
+              "summary": "Gudi Padwa",
+              "start": {
+                "date": "2024-04-09",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-10",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240411_0hl80vk0icsvod3lh2ir6tj610": {
+              "id": "20240411_0hl80vk0icsvod3lh2ir6tj610",
+              "ical_uuid": "20240411_0hl80vk0icsvod3lh2ir6tj610@google.com",
+              "summary": "Ramzan Id/Eid-ul-Fitar",
+              "start": {
+                "date": "2024-04-11",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-12",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240413_3ke39sbirj8nor82bjs2r1e054": {
+              "id": "20240413_3ke39sbirj8nor82bjs2r1e054",
+              "ical_uuid": "20240413_3ke39sbirj8nor82bjs2r1e054@google.com",
+              "summary": "Vaisakhi",
+              "start": {
+                "date": "2024-04-13",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-14",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240414_t6bil2oac890loodm1fr0d9t9s": {
+              "id": "20240414_t6bil2oac890loodm1fr0d9t9s",
+              "ical_uuid": "20240414_t6bil2oac890loodm1fr0d9t9s@google.com",
+              "summary": "Ambedkar Jayanti",
+              "start": {
+                "date": "2024-04-14",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240417_esv4o79q1i4sbcent3kupgvcg4": {
+              "id": "20240417_esv4o79q1i4sbcent3kupgvcg4",
+              "ical_uuid": "20240417_esv4o79q1i4sbcent3kupgvcg4@google.com",
+              "summary": "Rama Navami",
+              "start": {
+                "date": "2024-04-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-18",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240421_uhq0mve2jftnot6ajog0ofq2g8": {
+              "id": "20240421_uhq0mve2jftnot6ajog0ofq2g8",
+              "ical_uuid": "20240421_uhq0mve2jftnot6ajog0ofq2g8@google.com",
+              "summary": "Mahavir Jayanti",
+              "start": {
+                "date": "2024-04-21",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-22",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240508_1ekflunv2ultlen1u48mjmt9ms": {
+              "id": "20240508_1ekflunv2ultlen1u48mjmt9ms",
+              "ical_uuid": "20240508_1ekflunv2ultlen1u48mjmt9ms@google.com",
+              "summary": "Birthday of Rabindranath",
+              "start": {
+                "date": "2024-05-08",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-05-09",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240523_tc87280l0ahermrtjqimlg5kuk": {
+              "id": "20240523_tc87280l0ahermrtjqimlg5kuk",
+              "ical_uuid": "20240523_tc87280l0ahermrtjqimlg5kuk@google.com",
+              "summary": "Buddha Purnima/Vesak",
+              "start": {
+                "date": "2024-05-23",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-05-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240617_0scfl5p5tsieepfsbtjpjtqljo": {
+              "id": "20240617_0scfl5p5tsieepfsbtjpjtqljo",
+              "ical_uuid": "20240617_0scfl5p5tsieepfsbtjpjtqljo@google.com",
+              "summary": "Bakrid/Eid ul-Adha",
+              "start": {
+                "date": "2024-06-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-06-18",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240707_35fe3rsbddld7ojhgl3iskda7k": {
+              "id": "20240707_35fe3rsbddld7ojhgl3iskda7k",
+              "ical_uuid": "20240707_35fe3rsbddld7ojhgl3iskda7k@google.com",
+              "summary": "Rath Yatra",
+              "start": {
+                "date": "2024-07-07",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-07-08",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240717_c45i2523mibsl5eohi0j8msi94": {
+              "id": "20240717_c45i2523mibsl5eohi0j8msi94",
+              "ical_uuid": "20240717_c45i2523mibsl5eohi0j8msi94@google.com",
+              "summary": "Muharram/Ashura",
+              "start": {
+                "date": "2024-07-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-07-18",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240815_1dk4afrs7q1oov3639jcf8kgns": {
+              "id": "20240815_1dk4afrs7q1oov3639jcf8kgns",
+              "ical_uuid": "20240815_1dk4afrs7q1oov3639jcf8kgns@google.com",
+              "summary": "Parsi New Year",
+              "start": {
+                "date": "2024-08-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-08-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240815_qdsu8bvmtomkn9c8qq8jbro62o": {
+              "id": "20240815_qdsu8bvmtomkn9c8qq8jbro62o",
+              "ical_uuid": "20240815_qdsu8bvmtomkn9c8qq8jbro62o@google.com",
+              "summary": "Independence Day",
+              "start": {
+                "date": "2024-08-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-08-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240819_m1t0lhrdmrnc56vn3c9fjjib6s": {
+              "id": "20240819_m1t0lhrdmrnc56vn3c9fjjib6s",
+              "ical_uuid": "20240819_m1t0lhrdmrnc56vn3c9fjjib6s@google.com",
+              "summary": "Raksha Bandhan (Rakhi)",
+              "start": {
+                "date": "2024-08-19",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-08-20",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240826_8fmj8sv0oq9n40b7m796qhi3nc": {
+              "id": "20240826_8fmj8sv0oq9n40b7m796qhi3nc",
+              "ical_uuid": "20240826_8fmj8sv0oq9n40b7m796qhi3nc@google.com",
+              "summary": "Janmashtami (Smarta)",
+              "start": {
+                "date": "2024-08-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-08-27",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240826_ge12o19jm1csndg1tdosrcoiu4": {
+              "id": "20240826_ge12o19jm1csndg1tdosrcoiu4",
+              "ical_uuid": "20240826_ge12o19jm1csndg1tdosrcoiu4@google.com",
+              "summary": "Janmashtami",
+              "start": {
+                "date": "2024-08-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-08-27",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240907_8njq4gvtb1nqq4vol60lkqsbc4": {
+              "id": "20240907_8njq4gvtb1nqq4vol60lkqsbc4",
+              "ical_uuid": "20240907_8njq4gvtb1nqq4vol60lkqsbc4@google.com",
+              "summary": "Ganesh Chaturthi/Vinayaka Chaturthi",
+              "start": {
+                "date": "2024-09-07",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-09-08",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240915_1u4db28qebt0ld33un1nl4dm6k": {
+              "id": "20240915_1u4db28qebt0ld33un1nl4dm6k",
+              "ical_uuid": "20240915_1u4db28qebt0ld33un1nl4dm6k@google.com",
+              "summary": "Onam",
+              "start": {
+                "date": "2024-09-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-09-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20240916_67l9ctal3dopjcuoeppdun3ji8": {
+              "id": "20240916_67l9ctal3dopjcuoeppdun3ji8",
+              "ical_uuid": "20240916_67l9ctal3dopjcuoeppdun3ji8@google.com",
+              "summary": "Milad un-Nabi/Id-e-Milad",
+              "start": {
+                "date": "2024-09-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-09-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241002_vnfo7gnek494spq2mfvmp0ce5g": {
+              "id": "20241002_vnfo7gnek494spq2mfvmp0ce5g",
+              "ical_uuid": "20241002_vnfo7gnek494spq2mfvmp0ce5g@google.com",
+              "summary": "Mahatma Gandhi Jayanti",
+              "start": {
+                "date": "2024-10-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-10-03",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241003_697sco50igqdkc01u3d9oflcoo": {
+              "id": "20241003_697sco50igqdkc01u3d9oflcoo",
+              "ical_uuid": "20241003_697sco50igqdkc01u3d9oflcoo@google.com",
+              "summary": "First Day of Sharad Navratri",
+              "start": {
+                "date": "2024-10-03",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-10-04",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241009_n1pnkkadfq016oa1spcoto9fm8": {
+              "id": "20241009_n1pnkkadfq016oa1spcoto9fm8",
+              "ical_uuid": "20241009_n1pnkkadfq016oa1spcoto9fm8@google.com",
+              "summary": "First Day of Durga Puja Festivities",
+              "start": {
+                "date": "2024-10-09",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-10-10",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241010_2uh09vmktppptql4l6157srbgk": {
+              "id": "20241010_2uh09vmktppptql4l6157srbgk",
+              "ical_uuid": "20241010_2uh09vmktppptql4l6157srbgk@google.com",
+              "summary": "Maha Saptami",
+              "start": {
+                "date": "2024-10-10",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-10-11",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241011_oo3s8q47k52bq5n5cdu3fa4t8o": {
+              "id": "20241011_oo3s8q47k52bq5n5cdu3fa4t8o",
+              "ical_uuid": "20241011_oo3s8q47k52bq5n5cdu3fa4t8o@google.com",
+              "summary": "Maha Ashtami",
+              "start": {
+                "date": "2024-10-11",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-10-12",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241012_8jpo5bfb297120ong5pnli25rc": {
+              "id": "20241012_8jpo5bfb297120ong5pnli25rc",
+              "ical_uuid": "20241012_8jpo5bfb297120ong5pnli25rc@google.com",
+              "summary": "Maha Navami",
+              "start": {
+                "date": "2024-10-12",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-10-13",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241012_egjb3ichmunek054p9rp1mcuag": {
+              "id": "20241012_egjb3ichmunek054p9rp1mcuag",
+              "ical_uuid": "20241012_egjb3ichmunek054p9rp1mcuag@google.com",
+              "summary": "Dussehra",
+              "start": {
+                "date": "2024-10-12",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-10-13",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241017_hpigsainfef48ihffvlh1bocsk": {
+              "id": "20241017_hpigsainfef48ihffvlh1bocsk",
+              "ical_uuid": "20241017_hpigsainfef48ihffvlh1bocsk@google.com",
+              "summary": "Maharishi Valmiki Jayanti",
+              "start": {
+                "date": "2024-10-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-10-18",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241020_quhk0jqkkfd4boaknil3plkubo": {
+              "id": "20241020_quhk0jqkkfd4boaknil3plkubo",
+              "ical_uuid": "20241020_quhk0jqkkfd4boaknil3plkubo@google.com",
+              "summary": "Karaka Chaturthi (Karva Chauth)",
+              "start": {
+                "date": "2024-10-20",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-10-21",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241031_8trl2d3dcf10qb6qgd8okigers": {
+              "id": "20241031_8trl2d3dcf10qb6qgd8okigers",
+              "ical_uuid": "20241031_8trl2d3dcf10qb6qgd8okigers@google.com",
+              "summary": "Naraka Chaturdasi",
+              "start": {
+                "date": "2024-10-31",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-11-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241101_k6p5t3am2dnpearth7ppvofrrc": {
+              "id": "20241101_k6p5t3am2dnpearth7ppvofrrc",
+              "ical_uuid": "20241101_k6p5t3am2dnpearth7ppvofrrc@google.com",
+              "summary": "Diwali/Deepavali",
+              "start": {
+                "date": "2024-11-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-11-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241102_9mqcd5jrd6dct130r11lufktl0": {
+              "id": "20241102_9mqcd5jrd6dct130r11lufktl0",
+              "ical_uuid": "20241102_9mqcd5jrd6dct130r11lufktl0@google.com",
+              "summary": "Govardhan Puja",
+              "start": {
+                "date": "2024-11-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-11-03",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241103_qbi2qcb43ua5tt9b8oeb4ccib0": {
+              "id": "20241103_qbi2qcb43ua5tt9b8oeb4ccib0",
+              "ical_uuid": "20241103_qbi2qcb43ua5tt9b8oeb4ccib0@google.com",
+              "summary": "Bhai Duj",
+              "start": {
+                "date": "2024-11-03",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-11-04",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241107_cp9qhmg0lu3d7mtmacg68sgfis": {
+              "id": "20241107_cp9qhmg0lu3d7mtmacg68sgfis",
+              "ical_uuid": "20241107_cp9qhmg0lu3d7mtmacg68sgfis@google.com",
+              "summary": "Chhat Puja (Pratihar Sashthi/Surya Sashthi)",
+              "start": {
+                "date": "2024-11-07",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-11-08",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241115_j0oopi8fd2gv3o2vp3a7qu3hck": {
+              "id": "20241115_j0oopi8fd2gv3o2vp3a7qu3hck",
+              "ical_uuid": "20241115_j0oopi8fd2gv3o2vp3a7qu3hck@google.com",
+              "summary": "Guru Nanak Jayanti",
+              "start": {
+                "date": "2024-11-15",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-11-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241124_sll9benghg3t5dkpb92k9iilpc": {
+              "id": "20241124_sll9benghg3t5dkpb92k9iilpc",
+              "ical_uuid": "20241124_sll9benghg3t5dkpb92k9iilpc@google.com",
+              "summary": "Guru Tegh Bahadur's Martyrdom Day",
+              "start": {
+                "date": "2024-11-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-11-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241224_92hua4c6fqklgbufrd6u6hg60o": {
+              "id": "20241224_92hua4c6fqklgbufrd6u6hg60o",
+              "ical_uuid": "20241224_92hua4c6fqklgbufrd6u6hg60o@google.com",
+              "summary": "Christmas Eve",
+              "start": {
+                "date": "2024-12-24",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-12-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20241225_a6pnarvpc972si0ru4lpnurteg": {
+              "id": "20241225_a6pnarvpc972si0ru4lpnurteg",
+              "ical_uuid": "20241225_a6pnarvpc972si0ru4lpnurteg@google.com",
+              "summary": "Christmas",
+              "start": {
+                "date": "2024-12-25",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-12-26",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Public holiday",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "20250101_3v4eqe0inj3ts6dn5uj3dnnh38": {
+              "id": "20250101_3v4eqe0inj3ts6dn5uj3dnnh38",
+              "ical_uuid": "20250101_3v4eqe0inj3ts6dn5uj3dnnh38@google.com",
+              "summary": "New Year's Day",
+              "start": {
+                "date": "2025-01-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2025-01-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Observance\nTo hide observances, go to Google Calendar Settings > Holidays in India",
+              "location": null,
+              "transparency": "transparent",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            }
+          },
+          "sync_token": "CMC94p6spP0CENiNx77rof0CGAEgsZuD8gE=",
+          "sync_token_version": 2
+        }
+      }
+    },
+    "nileshvaity@gmail.com-addressbook#contacts@group.v.calendar.google.com": {
+      "event_sync": {
+        "addressbook#contacts@group.v.calendar.google.com": {
+          "items": {
+            "2023_BIRTHDAY_5b5e4f6e0da6e141": {
+              "id": "2023_BIRTHDAY_5b5e4f6e0da6e141",
+              "ical_uuid": "2023_BIRTHDAY_5b5e4f6e0da6e141@google.com",
+              "summary": "Dad's birthday",
+              "start": {
+                "date": "2023-11-06",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-07",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Dad's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2024_BIRTHDAY_5b5e4f6e0da6e141": {
+              "id": "2024_BIRTHDAY_5b5e4f6e0da6e141",
+              "ical_uuid": "2024_BIRTHDAY_5b5e4f6e0da6e141@google.com",
+              "summary": "Dad's birthday",
+              "start": {
+                "date": "2024-11-06",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-11-07",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Dad's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2023_BIRTHDAY_4b8225170da3a463": {
+              "id": "2023_BIRTHDAY_4b8225170da3a463",
+              "ical_uuid": "2023_BIRTHDAY_4b8225170da3a463@google.com",
+              "summary": "Nilesh Vaity's birthday",
+              "start": {
+                "date": "2023-03-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-03-03",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Nilesh Vaity's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2024_BIRTHDAY_4b8225170da3a463": {
+              "id": "2024_BIRTHDAY_4b8225170da3a463",
+              "ical_uuid": "2024_BIRTHDAY_4b8225170da3a463@google.com",
+              "summary": "Nilesh Vaity's birthday",
+              "start": {
+                "date": "2024-03-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-03-03",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Nilesh Vaity's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2023_BIRTHDAY_19ba3920e1d739b": {
+              "id": "2023_BIRTHDAY_19ba3920e1d739b",
+              "ical_uuid": "2023_BIRTHDAY_19ba3920e1d739b@google.com",
+              "summary": "Kadambari Vaity's birthday",
+              "start": {
+                "date": "2023-04-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-04-18",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Kadambari Vaity's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2024_BIRTHDAY_19ba3920e1d739b": {
+              "id": "2024_BIRTHDAY_19ba3920e1d739b",
+              "ical_uuid": "2024_BIRTHDAY_19ba3920e1d739b@google.com",
+              "summary": "Kadambari Vaity's birthday",
+              "start": {
+                "date": "2024-04-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-04-18",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Kadambari Vaity's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2023_BIRTHDAY_5c5988360a02a13b": {
+              "id": "2023_BIRTHDAY_5c5988360a02a13b",
+              "ical_uuid": "2023_BIRTHDAY_5c5988360a02a13b@google.com",
+              "summary": "Mom's birthday",
+              "start": {
+                "date": "2023-02-22",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-02-23",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Mom's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2024_BIRTHDAY_5c5988360a02a13b": {
+              "id": "2024_BIRTHDAY_5c5988360a02a13b",
+              "ical_uuid": "2024_BIRTHDAY_5c5988360a02a13b@google.com",
+              "summary": "Mom's birthday",
+              "start": {
+                "date": "2024-02-22",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-02-23",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Mom's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2023_BIRTHDAY_10f88e958d0b3d26": {
+              "id": "2023_BIRTHDAY_10f88e958d0b3d26",
+              "ical_uuid": "2023_BIRTHDAY_10f88e958d0b3d26@google.com",
+              "summary": "Hriyaan Vaity's birthday",
+              "start": {
+                "date": "2023-01-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-01-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Hriyaan Vaity's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2024_BIRTHDAY_10f88e958d0b3d26": {
+              "id": "2024_BIRTHDAY_10f88e958d0b3d26",
+              "ical_uuid": "2024_BIRTHDAY_10f88e958d0b3d26@google.com",
+              "summary": "Hriyaan Vaity's birthday",
+              "start": {
+                "date": "2024-01-16",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-01-17",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Hriyaan Vaity's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2023_BIRTHDAY_72ce95b60dc9fde4": {
+              "id": "2023_BIRTHDAY_72ce95b60dc9fde4",
+              "ical_uuid": "2023_BIRTHDAY_72ce95b60dc9fde4@google.com",
+              "summary": "Monika Vaity's birthday",
+              "start": {
+                "date": "2023-10-31",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Monika Vaity's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2024_BIRTHDAY_72ce95b60dc9fde4": {
+              "id": "2024_BIRTHDAY_72ce95b60dc9fde4",
+              "ical_uuid": "2024_BIRTHDAY_72ce95b60dc9fde4@google.com",
+              "summary": "Monika Vaity's birthday",
+              "start": {
+                "date": "2024-10-31",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-11-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Monika Vaity's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2023_BIRTHDAY_3c34a54a0aecf6f2": {
+              "id": "2023_BIRTHDAY_3c34a54a0aecf6f2",
+              "ical_uuid": "2023_BIRTHDAY_3c34a54a0aecf6f2@google.com",
+              "summary": "Wife's birthday",
+              "start": {
+                "date": "2023-10-31",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-11-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Wife's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2024_BIRTHDAY_3c34a54a0aecf6f2": {
+              "id": "2024_BIRTHDAY_3c34a54a0aecf6f2",
+              "ical_uuid": "2024_BIRTHDAY_3c34a54a0aecf6f2@google.com",
+              "summary": "Wife's birthday",
+              "start": {
+                "date": "2024-10-31",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-11-01",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "This is Wife's birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2023_BIRTHDAY_self": {
+              "id": "2023_BIRTHDAY_self",
+              "ical_uuid": "2023_BIRTHDAY_self@google.com",
+              "summary": "Happy birthday!",
+              "start": {
+                "date": "2023-03-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2023-03-03",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Happy birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            },
+            "2024_BIRTHDAY_self": {
+              "id": "2024_BIRTHDAY_self",
+              "ical_uuid": "2024_BIRTHDAY_self@google.com",
+              "summary": "Happy birthday!",
+              "start": {
+                "date": "2024-03-02",
+                "date_time": null,
+                "timezone": null
+              },
+              "end": {
+                "date": "2024-03-03",
+                "date_time": null,
+                "timezone": null
+              },
+              "description": "Happy birthday!",
+              "location": null,
+              "transparency": "opaque",
+              "status": "confirmed",
+              "event_type": "default",
+              "visibility": "public",
+              "attendees": [],
+              "attendees_omitted": false,
+              "recurrence": [],
+              "recurring_event_id": null,
+              "original_start_time": null
+            }
+          },
+          "sync_token": "COeJoO3ypv0CENiNx77rof0CGAEgsZuD8gE=",
+          "sync_token_version": 2
+        }
+      }
+    }
+  }
+}

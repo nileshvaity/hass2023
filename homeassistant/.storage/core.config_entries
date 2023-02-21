@@ -1,0 +1,675 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "core.config_entries",
+  "data": {
+    "entries": [
+      {
+        "entry_id": "e75d9abc64c7a1f91ba9954c8d4d21e2",
+        "version": 1,
+        "domain": "met",
+        "title": "Home",
+        "data": {
+          "track_home": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "onboarding",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "515faee4cc10450431faa320209e8334",
+        "version": 1,
+        "domain": "adguard",
+        "title": "AdGuard Home",
+        "data": {
+          "host": "127.0.0.1",
+          "port": 45158,
+          "password": null,
+          "ssl": false,
+          "username": null,
+          "verify_ssl": true
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "hassio",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "7da43289ab58968cc21d4ac6cc1dfec9",
+        "version": 1,
+        "domain": "mqtt",
+        "title": "Mosquitto broker",
+        "data": {
+          "broker": "core-mosquitto",
+          "port": 1883,
+          "username": "nilesh",
+          "password": "Nilesh21",
+          "birth_message": {
+            "topic": "homeassistant/status",
+            "payload": "online",
+            "qos": 0,
+            "retain": false
+          },
+          "will_message": {
+            "topic": "homeassistant/status",
+            "payload": "offline",
+            "qos": 0,
+            "retain": false
+          },
+          "discovery": true,
+          "discovery_prefix": "homeassistant"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "hassio",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "893684a173f6a3b14bdc50539f4957bc",
+        "version": 1,
+        "domain": "cast",
+        "title": "Google Cast",
+        "data": {
+          "user_id": "cb249eac608b46a19337aa2f9f752e43"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "cast",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b31ea42987e2172dc25b930beca64708",
+        "version": 1,
+        "domain": "homekit_controller",
+        "title": "Ignored",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "00:bc:ea:dd:8a:2b",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "7c84d04fbe5db0b27bb265be16410036",
+        "version": 1,
+        "domain": "homekit_controller",
+        "title": "Ignored",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "74:80:34:c6:1f:72",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "77cec346b5fa3341a91f8da554d4e9b5",
+        "version": 1,
+        "domain": "homekit_controller",
+        "title": "Ignored",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "6e:2f:15:3f:a9:44",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "56af18643fc623074c31c38eac12e782",
+        "version": 1,
+        "domain": "homekit_controller",
+        "title": "Ignored",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "e2:e5:ab:46:6d:c3",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "d810b05794463064567b2da4cb5bc723",
+        "version": 1,
+        "domain": "homekit_controller",
+        "title": "Ignored",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "92:de:85:61:b4:a6",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "7d09b9d338e3abdd6eed937f7e2809c8",
+        "version": 1,
+        "domain": "homekit_controller",
+        "title": "Ignored",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "a1:e1:e9:4f:20:db",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "4c48bf504e4c1c0369713c2f9316f938",
+        "version": 1,
+        "domain": "homekit_controller",
+        "title": "Ignored",
+        "data": {
+          "AccessoryIP": "192.168.1.25",
+          "AccessoryPort": 55361
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ignore",
+        "unique_id": "ee:4c:dd:0b:29:1e",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "5d3fe5e5fc26689bb131966d60f6af68",
+        "version": 1,
+        "domain": "hassio",
+        "title": "Supervisor",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "system",
+        "unique_id": "hassio",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "abacfbfc7ffc07dfa6ca63d09df547e9",
+        "version": 1,
+        "domain": "yeelight",
+        "title": "Yeelight Color 0x7f7aba8",
+        "data": {
+          "host": "192.168.1.25",
+          "id": "0x0000000007f7aba8",
+          "detected_model": "color"
+        },
+        "options": {
+          "model": "color",
+          "name": "",
+          "transition": 350,
+          "use_music_mode": true,
+          "save_on_change": true,
+          "nightlight_switch": true
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "0x0000000007f7aba8",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "3b6d5739ba34366efc81558a71eaa2bc",
+        "version": 1,
+        "domain": "dlna_dms",
+        "title": "NILESHV-PC: nileshv:",
+        "data": {
+          "url": "http://[fe80::dc61:cf19:401:5e59%2]:2869/upnphost/udhisapi.dll?content=uuid:579ae3ec-2fb9-4fe3-bb7f-6fe2eba130aa",
+          "device_id": "uuid:579ae3ec-2fb9-4fe3-bb7f-6fe2eba130aa::urn:schemas-upnp-org:device:MediaServer:1",
+          "source_id": "nileshv_pc_nileshv"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:579ae3ec-2fb9-4fe3-bb7f-6fe2eba130aa::urn:schemas-upnp-org:device:MediaServer:1",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "9dd5aa6471916c52f03a9eddb77d47fa",
+        "version": 1,
+        "domain": "sun",
+        "title": "Sun",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "5fdeae60333265509c4b2650da929927",
+        "version": 1,
+        "domain": "generic",
+        "title": "Living Room Camera",
+        "data": {},
+        "options": {
+          "name": "Living Room Camera",
+          "still_image_url": "http://admin:Nilesh21@192.168.1.31/tmpfs/auto.jpg",
+          "stream_source": "rtsp://admin:admin@192.168.1.31:554/11",
+          "authentication": "basic",
+          "username": null,
+          "password": null,
+          "limit_refetch_to_url_change": false,
+          "content_type": "image/jpeg",
+          "framerate": 2,
+          "verify_ssl": true
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": "8a27b6f3e3829875c96131c11b2649d6",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "c48683553d8772c4245e4c9c84dfa6b3",
+        "version": 1,
+        "domain": "generic",
+        "title": "Balcony Camera",
+        "data": {},
+        "options": {
+          "name": "Balcony Camera",
+          "still_image_url": "http://admin:Nilesh21@192.168.1.47/tmpfs/auto.jpg",
+          "stream_source": "rtsp://admin:admin@192.168.1.47:554/11",
+          "authentication": "basic",
+          "username": null,
+          "password": null,
+          "limit_refetch_to_url_change": false,
+          "content_type": "image/jpeg",
+          "framerate": 2,
+          "verify_ssl": true
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "import",
+        "unique_id": "4d1319705347e0044d612c0ea484440f",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "f0805d9577cb67f62614b63fe530964c",
+        "version": 1,
+        "domain": "upnp",
+        "title": "ArcherA9v6",
+        "data": {
+          "udn": "uuid:0e8d3c6d-4062-41bc-8288-a476b5ab79e2",
+          "st": "urn:schemas-upnp-org:device:InternetGatewayDevice:1",
+          "original_udn": "uuid:ac459203-d344-47ea-9011-f8a3a3a45d81",
+          "location": "http://192.168.1.1:1900/rootDesc.xml",
+          "mac_address": null,
+          "host": "192.168.1.1"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "ssdp",
+        "unique_id": "uuid:0e8d3c6d-4062-41bc-8288-a476b5ab79e2::urn:schemas-upnp-org:device:InternetGatewayDevice:1",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "560eb59a10346a565324ec6dc7b8deac",
+        "version": 1,
+        "domain": "google",
+        "title": "nileshvaity@gmail.com",
+        "data": {
+          "auth_implementation": "google_577302880542_71tptudb63qmjmtm1equgldr0bsenort_apps_googleusercontent_com",
+          "token": {
+            "access_token": "ya29.a0AVvZVsrtHaHGPK3lA6xjdx524p_rn15vHxbAn2e8XH6QHDsLpmU5MzNHapAQURbdB4-YX7z-7-WeqlFNa3oWbrBuheITU4Y8oodLpW_poDI_Cthf7IdCGkTt6att5yQ_gk7cND_XD8Xl-O_SPff38SZGG8DI84CGgwaCgYKAR0SAQASFQGbdwaIXkOoozyrZMWEoa3-E0zZqg0169",
+            "refresh_token": "1//0gGeQfmdN-X1TCgYIARAAGBASNwF-L9IrbDSPk_yADYBFx5yFZ609mdsmFGiz0rV_oY4VcZeXb5HTp7XFs9q5CmIWIa4mwLOu8aQ",
+            "scope": "https://www.googleapis.com/auth/calendar",
+            "token_type": "Bearer",
+            "expires_in": 3599,
+            "expires_at": 1676997019.8434296
+          }
+        },
+        "options": {
+          "calendar_access": "read_write"
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "nileshvaity@gmail.com",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "dbe357e396dd0ce469f01fc03cc1a8a0",
+        "version": 1,
+        "domain": "shopping_list",
+        "title": "Shopping List",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "shopping_list",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "7790a45fc39393c20dfbcafb33dabc20",
+        "version": 1,
+        "domain": "brother",
+        "title": "DCP-T426W E82258C2H894562",
+        "data": {
+          "host": "192.168.1.10",
+          "type": "ink"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "e82258c2h894562",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "b907bf144bc369df75c928bce4800129",
+        "version": 1,
+        "domain": "ipp",
+        "title": "Brother DCP-T426W",
+        "data": {
+          "host": "192.168.1.10",
+          "port": 631,
+          "ssl": false,
+          "verify_ssl": false,
+          "base_path": "/ipp/print",
+          "name": "Brother DCP-T426W",
+          "uuid": "e3248000-80ce-11db-8000-38d57a14c034"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "e3248000-80ce-11db-8000-38d57a14c034",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "fd6e4ec2f9becf8aafa0ae790f93aa58",
+        "version": 1,
+        "domain": "ezviz",
+        "title": "nileshvaity@gmail.com",
+        "data": {
+          "username": "nileshvaity@gmail.com",
+          "password": "N1l3sh@21",
+          "url": "apiieu.ezvizlife.com",
+          "type": "EZVIZ_CLOUD_ACCOUNT"
+        },
+        "options": {
+          "ffmpeg_arguments": "",
+          "timeout": 25
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "nileshvaity@gmail.com",
+        "disabled_by": "user"
+      },
+      {
+        "entry_id": "26262db5e9e6bcca3eec3dda8c981b5e",
+        "version": 1,
+        "domain": "moon",
+        "title": "Moon",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "a4a733c88c6308c8edb3dde312f8069f",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "SM-M317F",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2023.1.1-full (3124)",
+          "device_name": "SM-M317F",
+          "manufacturer": "samsung",
+          "model": "SM-M317F",
+          "os_name": "Android",
+          "os_version": "31",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "dCljVOeWQKCFYys8LFGhYb:APA91bE40FVkdqjXK_sCt_NekJ2qwm07s9vANJ8Sah5OeGInOvAJ98butyCfNJpQVjh0uW2ZL5FtU7OoE2TAlad6-tufmpi5yiBI-1cbSC_gs8pfnXWgCuQRPMel04d2-PJkvGBxcKxr"
+          },
+          "device_id": "def6a4069f504cfc",
+          "webhook_id": "f1602914053fdd2d34b0a6b728f54bf5c78008014efae454ff2275e23b5e7248",
+          "user_id": "fb6df5c4050145b89fb8f9d329d13ae9"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-def6a4069f504cfc",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "858c779cad296889a1699ab1eab75cf9",
+        "version": 1,
+        "domain": "local_calendar",
+        "title": "MyLocalCalendar",
+        "data": {
+          "calendar_name": "MyLocalCalendar"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "64bbdf3bae644bcaa569dd09fabbccac",
+        "version": 1,
+        "domain": "tasmota",
+        "title": "Tasmota",
+        "data": {
+          "discovery_prefix": "tasmota/discovery"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "cdb9c3960ff5181af9760a742a24c61c",
+        "version": 1,
+        "domain": "mobile_app",
+        "title": "RMX1801",
+        "data": {
+          "app_id": "io.homeassistant.companion.android",
+          "app_name": "Home Assistant",
+          "app_version": "2023.1.1-full (3124)",
+          "device_name": "RMX1801",
+          "manufacturer": "OPPO",
+          "model": "RMX1801",
+          "os_name": "Android",
+          "os_version": "29",
+          "supports_encryption": false,
+          "app_data": {
+            "push_websocket_channel": true,
+            "push_url": "https://mobile-apps.home-assistant.io/api/sendPush/android/v1",
+            "push_token": "d2ttDUWBSjWRhNodg612uE:APA91bGUR-A0iyVegK3GBFRvs3vtXOCE1006jduJMiawoIrA_gqdxtGOYM5CXzzItxhhlW-EOrPsWDlylW9Njmeemz9w4EenQGvu5q9Wey77svLKP0cfZc3O5ZMxu1qDTQSTIBBJDYiL"
+          },
+          "device_id": "dbd090ce9f14c9bb",
+          "webhook_id": "46e22c4c6808efec8b096e269b40aab76481e609f58c3ac65711aa32144e0667",
+          "user_id": "4e7a8bb318094775900ad1687f8011de"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "registration",
+        "unique_id": "io.homeassistant.companion.android-dbd090ce9f14c9bb",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "31801232a336954349d9faef5bcb0287",
+        "version": 1,
+        "domain": "hacs",
+        "title": "",
+        "data": {
+          "token": "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"
+        },
+        "options": {
+          "sidepanel_title": "HACS",
+          "sidepanel_icon": "hacs:hacs",
+          "release_limit": 5,
+          "country": "ALL",
+          "appdaemon": true,
+          "netdaemon": true,
+          "debug": true,
+          "experimental": true
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "627a7a527b597c7eba767fe973cb9b0b",
+        "version": 1,
+        "domain": "waze_travel_time",
+        "title": "waze_nilesh_travel_to_office",
+        "data": {
+          "name": "waze_nilesh_travel_to_office",
+          "origin": "19.1506751,72.9435999",
+          "destination": "19.114607043249162,72.89025306701662",
+          "region": "AU"
+        },
+        "options": {
+          "realtime": true,
+          "vehicle_type": "car",
+          "units": "metric",
+          "avoid_toll_roads": false,
+          "avoid_subscription_roads": false,
+          "avoid_ferries": false,
+          "excl_filter": "",
+          "incl_filter": ""
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "39a32167340c9156b9e5361b079fb488",
+        "version": 1,
+        "domain": "waze_travel_time",
+        "title": "waze_nilesh_travel_to_home",
+        "data": {
+          "name": "waze_nilesh_travel_to_home",
+          "origin": "19.114607043249162,72.89025306701662",
+          "destination": "19.1506751,72.9435999",
+          "region": "AU"
+        },
+        "options": {
+          "realtime": true,
+          "vehicle_type": "car",
+          "units": "metric",
+          "avoid_ferries": false,
+          "avoid_subscription_roads": false,
+          "avoid_toll_roads": false
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "81822d496773ae5cd496d773b6b3725f",
+        "version": 1,
+        "domain": "radio_browser",
+        "title": "Radio Browser",
+        "data": {},
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "79adfb7bc636d762a7f05172d85a937d",
+        "version": 1,
+        "domain": "switch_as_x",
+        "title": "Mandir_sonoff",
+        "data": {},
+        "options": {
+          "entity_id": "switch.tasmota",
+          "target_domain": "light"
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      },
+      {
+        "entry_id": "55a91dddff792d1fff1d28092b17c5e3",
+        "version": 1,
+        "domain": "sms",
+        "title": "861320001961242",
+        "data": {
+          "device": "/dev/ttyUSB0",
+          "baud_speed": "0"
+        },
+        "options": {},
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": "861320001961242",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "29a38959233e40ec8fa719feade0f94b",
+        "version": 1,
+        "domain": "wled",
+        "title": "WLED",
+        "data": {
+          "host": "192.168.1.26"
+        },
+        "options": {
+          "keep_master_light": false
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "zeroconf",
+        "unique_id": "240ac4974f14",
+        "disabled_by": null
+      },
+      {
+        "entry_id": "5c23ad57d23f17770002c6262eb12d16",
+        "version": 1,
+        "domain": "dwains_dashboard",
+        "title": "",
+        "data": {},
+        "options": {
+          "sidepanel_title": "Dwains Dashboard",
+          "sidepanel_icon": "mdi:alpha-d-box"
+        },
+        "pref_disable_new_entities": false,
+        "pref_disable_polling": false,
+        "source": "user",
+        "unique_id": null,
+        "disabled_by": null
+      }
+    ]
+  }
+}

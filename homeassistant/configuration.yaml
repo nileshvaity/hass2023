@@ -1,0 +1,136 @@
+
+# Configure a default setup of Home Assistant (frontend, api, etc)
+default_config:
+
+api:
+
+  whitelist_external_dirs:
+    - /home/homeassistant/ftp/
+frontend:
+  themes: !include_dir_merge_named themes
+
+input_select:
+  theme:
+    options:
+      - blue-red
+      - dark-blue
+      - dark-green
+      - light-blue
+      - light-green
+      - orange
+      - red
+    icon: mdi:format-color-fill
+  
+input_boolean:
+  dark_mode:
+    name: Dark mode
+    icon: mdi:theme-light-dark
+  theme_alternative:
+    name: Theme alternative (disable active state color)
+
+
+# Text to speech
+tts:
+  - platform: google_translate
+
+group: !include groups.yaml
+automation: !include automations.yaml
+script: !include scripts.yaml
+scene: !include scenes.yaml
+
+recorder:
+  purge_keep_days: 7
+  purge_interval: 1
+
+http:
+  use_x_forwarded_for: true
+  trusted_proxies:
+    - 127.0.0.1
+    - ::1  
+    - 172.0.0.0/8
+  cors_allowed_origins:
+#    - http://chalo.com/  
+    - https://chalo.com/ 
+#    - 172.16.0.0/12
+#    - 192.168.1.0/26
+#    - 172.30.32.0/23
+#    - 10.0.0.2 
+#    - 172.17.0.5
+  ip_ban_enabled: true
+  login_attempts_threshold: 5    
+
+sms:
+  device: /dev/ttyUSB2
+
+notify:
+  - platform: sms
+    name: sms_nilesh
+    recipient: 9819582622
+  - platform: sms
+    name: sms_monika
+    recipient: 7977895543
+
+media_source:
+  media_dirs:
+    local: /media
+    recording: /media/recordings
+
+camera:
+  - platform: generic
+    name: Living Room Camera
+    still_image_url: http://admin:Nilesh21@192.168.1.31/tmpfs/auto.jpg
+    stream_source: rtsp://admin:admin@192.168.1.31:554/11
+  - platform: generic
+    name: Balcony Camera
+    still_image_url: http://admin:Nilesh21@192.168.1.47/tmpfs/auto.jpg
+    stream_source: rtsp://admin:admin@192.168.1.47:554/11   
+
+discovery:    
+
+sensor:
+  - platform: waze_travel_time
+    name: Commute to Home
+    origin: zone.work
+    destination: zone.home
+    region: 'AU'
+  - platform: waze_travel_time
+    name: Commute to Work
+    origin: zone.home
+    destination: zone.work
+    region: 'AU'
+
+#media_player:
+#  - platform: vlc_telnet
+#    name: Remote Player
+#    host: 127.0.0.1
+#    port: 4212
+#    password: Nilesh21
+
+panel_iframe:
+#  app:
+#    title: "BEST Bus"
+#    url: "https://chalo.techitpro.cf/app/"
+#    icon: mdi:bus
+  app:
+    title: "Waze Travel Time"
+    url: "https://www.waze.com/live-map/directions/in/mh/mumbai/chandivali-junction?utm_campaign=iframe_search&utm_medium=fullscreen_map&utm_source=direct_link&to=place.ChIJ-RF6dQ3I5zsRSNXqJoJGHVM&from=place.ChIJoQsT-WS45zsRq_2YHrc3IKc"
+    icon: mdi:car
+    
+panel_custom:
+  - name: iframe-fullscreen
+    module_url: "/local/iframe-fullscreen.js"
+    sidebar_title: 'Travel'
+    url_path: Bus
+    config:
+      url: 'https://chalo.techitpro.cf/app/'
+      
+# Example configuration.yaml entry
+feedreader:
+  urls:
+    - https://www.home-assistant.io/atom.xml
+    - https://github.com/blog.atom
+    - https://hasspodcast.io/feed/podcast
+    - https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms
+  scan_interval:
+    minutes: 30
+  max_entries: 5

@@ -1,0 +1,613 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "lovelace",
+  "data": {
+    "config": {
+      "views": [
+        {
+          "theme": "Backend-selected",
+          "title": "Home",
+          "background": "var(--background-image)",
+          "path": "home",
+          "panel": false,
+          "visible": [
+            {
+              "user": "7f018e4072704c1395bace6300a94d58"
+            },
+            {
+              "user": "fb6df5c4050145b89fb8f9d329d13ae9"
+            },
+            {
+              "user": "4e7a8bb318094775900ad1687f8011de"
+            }
+          ],
+          "badges": [
+            {
+              "entity": "person.nilesh"
+            },
+            {
+              "entity": "person.monika"
+            }
+          ],
+          "cards": [
+            {
+              "type": "markdown",
+              "content": "<font size=\"6\">{{ now().strftime('%H:%M') }}</font>\n{% set weekdays = [\"Monday\",\"Tuesday\",\"Wednesday\",\"Thrusday\",\"Friday\",\"Saturday\",\"Sunday\"] %}\n<font size=\"5\" >{{ weekdays[now().weekday()] }} {{ now().strftime('%d/%m/%Y') }}</font>\n"
+            },
+            {
+              "type": "markdown",
+              "content": "{%- macro get_color() -%}\n  {{ ['aqua', 'purple', 'darkcyan', 'plum', 'red', 'green', 'fuchsia', 'gold', 'limegreen', 'blue'] | random }}\n  {%- endmacro -%}\n  \n<h3> <font color = {{ get_color() }}> <ha-icon icon=mdi:emoticon-cool-outline></ha-icon> Holiday's </h3></font>\n     {% if is_state('calendar.holidays_in_india','on') %} \n   <h4>Today is \"{{ states.calendar.holidays_in_india.attributes.message }}\" </h4> {% else %} <h2> </h2> {% endif %}\n\n<h3> <font color = {{ get_color() }}><ha-icon icon=mdi:cake></ha-icon> Birthday's </h3></font>\n     {% if is_state('calendar.birthdays','on') %} \n   <h4>Wish Birthday to \"{{ states.calendar.birthdays.attributes.message }}\" </h4> {% else %} <h2> </h2> {% endif %}\n\n<h3>  <font color = {{ get_color() }}><ha-icon icon=mdi:clock-time-eight></ha-icon> Calendar Event's </h3></font>\n     {% if is_state('calendar.nileshvaity_gmail_com','on') %} \n   <h4>Today's Events on your calendar is \"{{ states.calendar.nileshvaity_gmail_com.attributes.message }}\" </h4> {% else %} <h2> </h2> {% endif %}\n\n<h3> <font color = {{ get_color() }}> <ha-icon icon=mdi:calendar-account></ha-icon> Local Calendar Event's </h3></font>\n     {% if is_state('calendar.mylocalcalendar','on') %} \n   <h4>Local Calendar event's \"{{ states.calendar.mylocalcalendar.attributes.message }}\" </h4> {% else %} <h2> </h2> {% endif %}\n \n"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sun.sun",
+                  "secondary_info": "last-changed"
+                }
+              ],
+              "state_color": true,
+              "title": "Sun"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.moon_phase",
+                  "name": "Phase",
+                  "secondary_info": "last-changed"
+                }
+              ],
+              "title": "Moon",
+              "state_color": true
+            },
+            {
+              "show_current": true,
+              "show_forecast": true,
+              "type": "weather-forecast",
+              "entity": "weather.home",
+              "name": "Mumbai",
+              "secondary_info_attribute": "humidity"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "person.nilesh"
+                },
+                {
+                  "entity": "sensor.rmx1801_geocoded_location",
+                  "secondary_info": "none",
+                  "icon": "mdi:map-marker-account"
+                },
+                {
+                  "entity": "person.monika"
+                },
+                {
+                  "entity": "sensor.sm_m317f_geocoded_location",
+                  "secondary_info": "none"
+                }
+              ]
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "schedule.my_monthly_shifts",
+                  "secondary_info": "none",
+                  "name": "Office Timings"
+                }
+              ],
+              "state_color": true
+            },
+            {
+              "type": "iframe",
+              "url": "https://embed.windy.com/-Rain-thunder-rain?rain,18.443,76.245",
+              "aspect_ratio": "100%",
+              "title": "Forecast"
+            },
+            {
+              "type": "gauge",
+              "entity": "sensor.adguard_dns_queries_blocked_ratio",
+              "min": 1,
+              "max": 100,
+              "needle": true,
+              "severity": {
+                "green": 10,
+                "yellow": 20,
+                "red": 50
+              }
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.adguard_dns_queries"
+                }
+              ],
+              "state_color": true
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.network_name"
+                },
+                {
+                  "entity": "sensor.signal_strength"
+                }
+              ],
+              "title": "SMS Gateway"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.archera9v6_external_ip",
+                  "name": "Wan IP",
+                  "secondary_info": "none"
+                },
+                {
+                  "entity": "binary_sensor.archera9v6_wan_status",
+                  "name": "Wan status"
+                }
+              ],
+              "title": "Archer A9 v6",
+              "state_color": true,
+              "show_header_toggle": true
+            }
+          ]
+        },
+        {
+          "title": "Location",
+          "background": "var(--background-image)",
+          "path": "location",
+          "visible": [
+            {
+              "user": "4e7a8bb318094775900ad1687f8011de"
+            }
+          ],
+          "badges": [],
+          "cards": [
+            {
+              "type": "map",
+              "entities": [
+                {
+                  "entity": "device_tracker.rmx1801"
+                },
+                {
+                  "entity": "device_tracker.sm_m317f"
+                }
+              ],
+              "hours_to_show": 1,
+              "title": "Location",
+              "dark_mode": false,
+              "default_zoom": 17
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.rmx1801_battery_health",
+                  "name": "Battery Health"
+                },
+                {
+                  "entity": "sensor.rmx1801_battery_level",
+                  "name": "Battery State"
+                },
+                {
+                  "entity": "sensor.rmx1801_battery_temperature",
+                  "name": "Battery Temperature"
+                },
+                {
+                  "entity": "sensor.rmx1801_charger_type",
+                  "name": "Charger Type"
+                },
+                {
+                  "entity": "binary_sensor.rmx1801_is_charging",
+                  "name": "Is Charging"
+                },
+                {
+                  "entity": "sensor.rmx1801_steps_sensor"
+                },
+                {
+                  "entity": "sensor.rmx1801_detected_activity"
+                },
+                {
+                  "entity": "sensor.rmx1801_internal_storage"
+                },
+                {
+                  "entity": "sensor.rmx1801_last_notification"
+                },
+                {
+                  "entity": "sensor.rmx1801_network_type"
+                },
+                {
+                  "entity": "sensor.rmx1801_wifi_ip_address"
+                }
+              ],
+              "title": "RMX1801",
+              "state_color": true,
+              "footer": {
+                "type": "graph",
+                "entity": "sensor.rmx1801_battery_level",
+                "detail": 2
+              }
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.sm_m317f_battery_health"
+                },
+                {
+                  "entity": "sensor.sm_m317f_battery_level",
+                  "name": "Battery State"
+                },
+                {
+                  "entity": "sensor.sm_m317f_battery_temperature",
+                  "name": "Battery Temperature"
+                },
+                {
+                  "entity": "sensor.sm_m317f_charger_type",
+                  "name": "Charger Type"
+                },
+                {
+                  "entity": "binary_sensor.sm_m317f_is_charging",
+                  "name": "Is Charging"
+                },
+                {
+                  "entity": "sensor.sm_m317f_steps_sensor"
+                },
+                {
+                  "entity": "sensor.sm_m317f_detected_activity"
+                },
+                {
+                  "entity": "sensor.sm_m317f_internal_storage"
+                },
+                {
+                  "entity": "sensor.sm_m317f_last_notification"
+                },
+                {
+                  "entity": "sensor.sm_m317f_wifi_frequency"
+                },
+                {
+                  "entity": "sensor.sm_m317f_wifi_ip_address"
+                }
+              ],
+              "title": "SM-M317F",
+              "state_color": true,
+              "footer": {
+                "type": "graph",
+                "entity": "sensor.sm_m317f_battery_level"
+              }
+            }
+          ]
+        },
+        {
+          "title": "media",
+          "background": "var(--background-image)",
+          "path": "media",
+          "badges": [],
+          "cards": [
+            {
+              "show_state": true,
+              "show_name": true,
+              "camera_view": "auto",
+              "type": "picture-entity",
+              "entity": "camera.balcony_camera",
+              "camera_image": "camera.balcony_camera"
+            },
+            {
+              "show_state": true,
+              "show_name": true,
+              "camera_view": "auto",
+              "type": "picture-entity",
+              "entity": "camera.living_room_camera",
+              "camera_image": "camera.living_room_camera"
+            },
+            {
+              "type": "media-control",
+              "entity": "media_player.mibox3"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.dcp_t426w_b_w_counter",
+                  "name": "B/W Counter"
+                },
+                {
+                  "entity": "sensor.dcp_t426w_color_counter",
+                  "name": "Color Counter"
+                },
+                {
+                  "entity": "sensor.dcp_t426w_page_counter",
+                  "name": "Page Counter"
+                },
+                {
+                  "entity": "sensor.dcp_t426w_status",
+                  "name": "Status"
+                }
+              ],
+              "title": "DCP-T426W",
+              "state_color": true
+            },
+            {
+              "type": "entities",
+              "entities": [
+                "sensor.brother_dcp_t426w",
+                {
+                  "entity": "sensor.brother_dcp_t426w_bk",
+                  "name": "BK"
+                },
+                {
+                  "entity": "sensor.brother_dcp_t426w_c",
+                  "name": "C"
+                },
+                {
+                  "entity": "sensor.brother_dcp_t426w_m",
+                  "name": "M"
+                },
+                {
+                  "entity": "sensor.brother_dcp_t426w_y",
+                  "name": "Y"
+                }
+              ],
+              "title": "Brother DCP-T426W"
+            }
+          ]
+        },
+        {
+          "title": "Lights",
+          "background": "var(--background-image)",
+          "path": "lights",
+          "badges": [],
+          "cards": [
+            {
+              "type": "custom:mushroom-entity-card",
+              "entity": "switch.tasmota",
+              "icon_color": "red",
+              "fill_container": false,
+              "name": "Mandir",
+              "primary_info": "name",
+              "secondary_info": "state"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "switch.tasmota",
+                  "name": "Mandir Lights",
+                  "secondary_info": "none"
+                }
+              ],
+              "title": "Mandir Lights",
+              "state_color": true,
+              "footer": {
+                "type": "graph",
+                "entity": "sensor.tasmota_status",
+                "detail": 1
+              }
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "switch.bedroom1_switch1",
+                  "secondary_info": "last-changed",
+                  "name": "Fan"
+                },
+                {
+                  "entity": "switch.bedroom1_switch2",
+                  "secondary_info": "last-changed",
+                  "name": "Night Lamp"
+                },
+                {
+                  "entity": "switch.bedroom1_switch3",
+                  "secondary_info": "last-changed",
+                  "name": "Dressing Table Lights"
+                },
+                {
+                  "entity": "switch.bedroom1_switch4",
+                  "secondary_info": "last-changed",
+                  "name": "Wardrobe Lights "
+                }
+              ],
+              "title": "Master Bedroom",
+              "state_color": true
+            },
+            {
+              "type": "light",
+              "entity": "light.yeelight_color_0x7f7aba8"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.wled_estimated_current",
+                  "name": "Estimated current"
+                },
+                {
+                  "entity": "sensor.wled_led_count",
+                  "name": "LED count"
+                },
+                {
+                  "entity": "sensor.wled_max_current",
+                  "name": "Max current"
+                }
+              ],
+              "title": "WLED"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "select.wled_playlist",
+                  "name": "Playlist"
+                },
+                {
+                  "entity": "select.wled_preset",
+                  "name": "Preset"
+                },
+                "light.wled"
+              ],
+              "title": "WLED"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "select.wled_color_palette",
+                  "name": "Color palette"
+                },
+                {
+                  "entity": "update.wled_firmware",
+                  "name": "Firmware"
+                },
+                {
+                  "entity": "number.wled_intensity",
+                  "name": "Intensity"
+                },
+                {
+                  "entity": "select.wled_live_override",
+                  "name": "Live override"
+                },
+                {
+                  "entity": "switch.wled_nightlight",
+                  "name": "Nightlight"
+                },
+                {
+                  "entity": "button.wled_restart",
+                  "name": "Restart"
+                },
+                {
+                  "entity": "switch.wled_reverse",
+                  "name": "Reverse"
+                },
+                {
+                  "entity": "number.wled_speed",
+                  "name": "Speed"
+                },
+                {
+                  "entity": "switch.wled_sync_receive",
+                  "name": "Sync receive"
+                },
+                {
+                  "entity": "switch.wled_sync_send",
+                  "name": "Sync send"
+                }
+              ],
+              "title": "WLED"
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "background": "var(--background-image)",
+          "title": "Travel",
+          "path": "travel",
+          "visible": [
+            {
+              "user": "4e7a8bb318094775900ad1687f8011de"
+            }
+          ],
+          "badges": [],
+          "cards": [
+            {
+              "type": "iframe",
+              "url": "https://chalo.techitpro.cf/app/",
+              "aspect_ratio": "100%"
+            },
+            {
+              "type": "entities",
+              "entities": [
+                {
+                  "entity": "sensor.waze_nilesh_travel_to_office",
+                  "secondary_info": "none",
+                  "name": "Travel to Office"
+                },
+                {
+                  "entity": "sensor.waze_nilesh_travel_to_home",
+                  "name": "Travel back Home",
+                  "secondary_info": "none"
+                }
+              ],
+              "title": "Travel Time",
+              "state_color": true
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "background": "var(--background-image)",
+          "title": "Custom Settings",
+          "path": "i",
+          "icon": "",
+          "visible": [
+            {
+              "user": "4e7a8bb318094775900ad1687f8011de"
+            }
+          ],
+          "badges": [],
+          "cards": [
+            {
+              "type": "entities",
+              "entities": [
+                "input_boolean.dark_mode",
+                "input_select.theme",
+                "input_boolean.theme_alternative"
+              ]
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "title": "Nilesh's Calendar Events",
+          "path": "nileshs-calendar",
+          "visible": [
+            {
+              "user": "4e7a8bb318094775900ad1687f8011de"
+            }
+          ],
+          "badges": [],
+          "cards": [
+            {
+              "initial_view": "dayGridMonth",
+              "type": "calendar",
+              "entities": [
+                "calendar.nileshvaity_gmail_com",
+                "calendar.birthdays",
+                "calendar.holidays_in_india",
+                "calendar.mylocalcalendar"
+              ],
+              "title": "Today's Events"
+            }
+          ]
+        },
+        {
+          "theme": "Backend-selected",
+          "title": "Monika's Calendar Events",
+          "path": "monikas-calendar-events",
+          "visible": [
+            {
+              "user": "fb6df5c4050145b89fb8f9d329d13ae9"
+            }
+          ],
+          "subview": true,
+          "badges": [],
+          "cards": [
+            {
+              "type": "calendar",
+              "entities": [
+                "calendar.holidays_in_india"
+              ]
+            }
+          ]
+        }
+      ],
+      "title": "Sweet Home"
+    }
+  }
+}

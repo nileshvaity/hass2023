@@ -1,0 +1,50 @@
+blueprint:
+  name: Zone interaction action
+  description: Perform an action when a person leaves or enters a specific zone
+  domain: automation
+  input:
+    person_entity:
+      name: Person
+      description: The person you want to track
+      selector:
+        entity:
+          domain: person
+    zone_entity:
+      name: Zone
+      description: The zone you want to monitor
+      selector:
+        entity:
+          domain: zone
+    entering_action:
+      name: Action(s) when entering
+      description: The action(s) to trigger when the person enters the zone
+      default: []
+      selector:
+        action: {}
+    leaving_action:
+      name: Action(s) when leaving
+      description: The action(s) to trigger when the person leaves the zone
+      default: []
+      selector:
+        action: {}
+  source_url: https://community.home-assistant.io/t/generic-zone-interaction/268043
+trigger:
+- platform: zone
+  entity_id: !input 'person_entity'
+  zone: !input 'zone_entity'
+  event: leave
+- platform: zone
+  entity_id: !input 'person_entity'
+  zone: !input 'zone_entity'
+  event: enter
+action:
+- choose:
+  - conditions: '{{ trigger.event == ''enter'' }}
+
+      '
+    sequence: !input 'entering_action'
+  - conditions: '{{ trigger.event == ''leave'' }}
+
+      '
+    sequence: !input 'leaving_action'
+  default: []

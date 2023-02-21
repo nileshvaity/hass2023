@@ -1,0 +1,4 @@
+{
+  "version": "2022.07.0",
+  "image": "ghcr.io/home-assistant/armv7-hassio-audio"
+}

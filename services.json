@@ -1,0 +1,12 @@
+{
+  "mqtt": {
+    "host": "core-mosquitto",
+    "port": 1883,
+    "ssl": false,
+    "protocol": "3.1.1",
+    "username": "addons",
+    "password": "eachuquieyeili6shaef2eet9doomeem7shei6eic2Iefiriepi2TheifeZie4Ah",
+    "addon": "core_mosquitto"
+  },
+  "mysql": {}
+}

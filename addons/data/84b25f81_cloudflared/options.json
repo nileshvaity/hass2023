@@ -1,0 +1,42 @@
+{
+  "additional_hosts": [
+    {
+      "hostname": "nexus.techitpro.cf",
+      "service": "http://192.168.1.39:8081"
+    },
+    {
+      "hostname": "hass.techitpro.cf",
+      "service": "http://192.168.1.5:8123"
+    },
+    {
+      "hostname": "chalo.techitpro.cf",
+      "service": "https://192.168.1.5:444"
+    },
+    {
+      "hostname": "ng.techitpro.cf",
+      "service": "http://192.168.1.5:81"
+    },
+    {
+      "hostname": "sf1.techitpro.cf",
+      "service": "http://192.168.1.33"
+    },
+    {
+      "hostname": "r1.techitpro.cf",
+      "service": "http://192.168.1.1"
+    },
+    {
+      "hostname": "r2.techitpro.cf",
+      "service": "http://192.168.1.4"
+    },
+    {
+      "hostname": "sh.techitpro.cf",
+      "service": "ssh://192.168.1.5:22",
+      "disableChunkedEncoding": true
+    }
+  ],
+  "external_hostname": "techitpro.cf",
+  "tunnel_name": "ha",
+  "tunnel_token": "",
+  "nginx_proxy_manager": false,
+  "log_level": "debug"
+}

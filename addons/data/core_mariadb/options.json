@@ -1,0 +1,17 @@
+{
+  "databases": [
+    "homeassistant"
+  ],
+  "logins": [
+    {
+      "password": "Nilesh21",
+      "username": "homeassistant"
+    }
+  ],
+  "rights": [
+    {
+      "database": "homeassistant",
+      "username": "homeassistant"
+    }
+  ]
+}
