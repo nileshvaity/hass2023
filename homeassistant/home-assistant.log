@@ -86,3 +86,47 @@ sqlite3.OperationalError: no such table: states
 2023-02-21 21:45:56.104 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
 2023-02-21 21:50:00.155 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
 2023-02-21 21:50:29.213 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 21:54:13.392 WARNING (SyncWorker_3) [homeassistant.components.waze_travel_time.sensor] Error on retrieving data: empty response
+2023-02-21 21:55:00.160 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 21:55:12.451 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 21:58:01.842 ERROR (Thread-21) [pychromecast.socket_client] [MIBOX3(192.168.1.13):8009] Failed to connect to service ServiceInfo(type='mdns', data='MIBOX3-3ffa0e7294f3ea62d9dc686509ab0113._googlecast._tcp.local.'), retrying in 5.0s
+2023-02-21 21:59:13.217 WARNING (SyncWorker_9) [homeassistant.components.waze_travel_time.sensor] Error on retrieving data: empty response
+2023-02-21 22:00:00.161 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:00:05.535 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:04:12.347 ERROR (MainThread) [homeassistant.components.automation.dim_lights_based_on_sun_elevation] Error rendering variables: UndefinedError: 'None' has no attribute 'last_changed'
+2023-02-21 22:05:00.154 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:05:08.639 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:10:00.155 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:10:21.725 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:14:13.029 WARNING (SyncWorker_6) [homeassistant.components.feedreader] Possible issue parsing feed https://github.com/blog.atom: <unknown>:2:0: syntax error
+2023-02-21 22:15:00.166 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:15:44.797 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:20:00.153 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:21:17.885 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:24:12.329 ERROR (MainThread) [homeassistant.components.automation.dim_lights_based_on_sun_elevation] Error rendering variables: UndefinedError: 'None' has no attribute 'last_changed'
+2023-02-21 22:25:00.161 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:27:01.021 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:27:23.748 WARNING (Thread-21) [pychromecast.socket_client] [MIBOX3(192.168.1.13):8009] Heartbeat timeout, resetting connection
+2023-02-21 22:30:00.154 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:32:54.109 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:35:00.153 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:38:57.181 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:40:00.153 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:44:12.329 ERROR (MainThread) [homeassistant.components.automation.dim_lights_based_on_sun_elevation] Error rendering variables: UndefinedError: 'None' has no attribute 'last_changed'
+2023-02-21 22:44:12.538 WARNING (SyncWorker_3) [homeassistant.components.feedreader] Possible issue parsing feed https://github.com/blog.atom: <unknown>:2:0: syntax error
+2023-02-21 22:44:38.058 WARNING (SyncWorker_5) [homeassistant.components.feedreader] Possible issue parsing feed https://hasspodcast.io/feed/podcast: document declared as us-ascii, but parsed as utf-8
+2023-02-21 22:45:00.159 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:45:10.319 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:50:00.154 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:51:33.469 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:55:00.155 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
+2023-02-21 22:58:06.558 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 22:59:13.149 WARNING (SyncWorker_6) [homeassistant.components.waze_travel_time.sensor] Error on retrieving data: empty response
+2023-02-21 22:59:40.442 WARNING (Thread-21) [pychromecast.socket_client] [MIBOX3(192.168.1.13):8009] Heartbeat timeout, resetting connection
+2023-02-21 22:59:45.486 ERROR (MainThread) [homeassistant.components.wled] Error fetching wled data: Invalid response from API: Timeout occurred while connecting to WLED device at 192.168.1.26
+2023-02-21 22:59:58.974 ERROR (Thread-21) [pychromecast.socket_client] [MIBOX3(192.168.1.13):8009] Failed to connect to service ServiceInfo(type='host', data=('192.168.1.13', 8009)), retrying in 5.0s
+2023-02-21 23:00:00.104 WARNING (MainThread) [homeassistant.helpers.service] Unable to find referenced entities light.yeelight_color_0x7f7aba8 or it is/they are currently not available
+2023-02-21 23:00:07.739 ERROR (MainThread) [homeassistant.components.automation.mandir_light_off_at_night] mandir-light-off: Error executing script. Invalid data for call_service at pos 5: expected dict for dictionary value @ data['data']
+2023-02-21 23:00:07.755 ERROR (MainThread) [homeassistant.components.automation.mandir_light_off_at_night] Error while executing automation automation.mandir_light_off_at_night: expected dict for dictionary value @ data['data']
+2023-02-21 23:04:12.331 ERROR (MainThread) [homeassistant.components.automation.dim_lights_based_on_sun_elevation] Error rendering variables: UndefinedError: 'None' has no attribute 'last_changed'
+2023-02-21 23:04:49.661 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
