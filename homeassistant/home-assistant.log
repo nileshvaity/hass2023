@@ -61,4 +61,3 @@ sqlite3.OperationalError: no such table: states
 2023-02-21 21:06:51.634 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
 2023-02-21 21:09:34.718 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
 2023-02-21 21:10:00.158 WARNING (MainThread) [homeassistant.helpers.entity_component] Forced update failed. Entity sensor.morning_commute not found.
-2023-02-21 21:12:27.903 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
