@@ -22,7 +22,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -31,24 +31,24 @@
         "attributes": {
           "editable": true,
           "id": "monika",
-          "latitude": 19.1506277,
-          "longitude": 72.9435919,
-          "gps_accuracy": 14,
+          "latitude": 19.1506275,
+          "longitude": 72.9435871,
+          "gps_accuracy": 12,
           "source": "device_tracker.sm_m317f",
           "user_id": "fb6df5c4050145b89fb8f9d329d13ae9",
           "entity_picture": "/api/image/serve/576012b33cadf90db33748489a728ab2/512x512",
           "friendly_name": "Monika"
         },
         "last_changed": "2023-02-21T15:13:46.096858+00:00",
-        "last_updated": "2023-02-21T15:16:06.748070+00:00",
+        "last_updated": "2023-02-21T15:52:28.471832+00:00",
         "context": {
-          "id": "01GST8QNEWHQ22MXJNQF21D19R",
+          "id": "01GSTAT81Q3SNHMV8TNGEGJS68",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -57,24 +57,24 @@
         "attributes": {
           "editable": true,
           "id": "nilesh",
-          "latitude": 19.1506422,
-          "longitude": 72.9435993,
+          "latitude": 19.1506324,
+          "longitude": 72.9435994,
           "gps_accuracy": 14,
           "source": "device_tracker.rmx1801",
           "user_id": "4e7a8bb318094775900ad1687f8011de",
           "entity_picture": "/api/image/serve/87d9d3c4e7a9b2131f659f2773745aa9/512x512",
           "friendly_name": "Nilesh"
         },
-        "last_changed": "2023-02-21T15:13:46.098091+00:00",
-        "last_updated": "2023-02-21T15:15:54.865699+00:00",
+        "last_changed": "2023-02-21T16:15:35.805973+00:00",
+        "last_updated": "2023-02-21T16:15:35.805973+00:00",
         "context": {
-          "id": "01GST8Q9VHE7QC7SZA0M0Z8JDW",
+          "id": "01GSTC4JVX7VZW2VTSM8CRJB91",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -102,7 +102,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -130,7 +130,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -158,7 +158,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -186,7 +186,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -214,7 +214,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -242,7 +242,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -270,7 +270,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -298,7 +298,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -326,7 +326,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -354,7 +354,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -382,7 +382,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -402,7 +402,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -421,43 +421,43 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.tasmota_status",
-        "state": "24",
+        "state": "20",
         "attributes": {
           "Version": "8.5.0(tasmota)",
           "BuildDateTime": "2020-09-09T11:41:02",
           "Module or Template": "Sonoff Basic",
           "RestartReason": "Power On",
-          "Uptime": "0T14:10:10",
+          "Uptime": "0T14:46:08",
           "Hostname": "mandir-0716",
           "IPAddress": "192.168.1.33",
-          "RSSI": "24",
-          "Signal (dBm)": "-88",
+          "RSSI": "20",
+          "Signal (dBm)": "-90",
           "WiFi LinkCount": 1,
           "WiFi Downtime": "0T00:00:37",
-          "MqttCount": 78,
+          "MqttCount": 82,
           "LoadAvg": 19,
           "unit_of_measurement": "%",
           "icon": "mdi:information-outline",
           "friendly_name": "Mandir status"
         },
-        "last_changed": "2023-02-21T15:30:07.382344+00:00",
-        "last_updated": "2023-02-21T15:30:07.382344+00:00",
+        "last_changed": "2023-02-21T16:15:04.783446+00:00",
+        "last_updated": "2023-02-21T16:15:04.783446+00:00",
         "context": {
-          "id": "01GST9HACP1AF37EDW3252YGVX",
+          "id": "01GSTC3MJFY5X5K5V0Q0VS015D",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "24",
+        "native_value": "20",
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -467,16 +467,16 @@
           "device_class": "switch",
           "friendly_name": "Mandir_sonoff"
         },
-        "last_changed": "2023-02-21T15:29:00.712147+00:00",
-        "last_updated": "2023-02-21T15:29:00.712147+00:00",
+        "last_changed": "2023-02-21T16:15:04.785116+00:00",
+        "last_updated": "2023-02-21T16:15:04.785116+00:00",
         "context": {
-          "id": "01GST9F998T1J9EZWFVEPBVERS",
+          "id": "01GSTC3MJH803YQS58RC0AETFD",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -499,76 +499,76 @@
         "native_value": "still",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_battery_level",
-        "state": "75",
+        "state": "90",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "%",
           "device_class": "battery",
-          "icon": "mdi:battery-70",
+          "icon": "mdi:battery-charging-90",
           "friendly_name": "SM-M317F Battery Level"
         },
-        "last_changed": "2023-02-21T15:15:21.906589+00:00",
-        "last_updated": "2023-02-21T15:15:21.906589+00:00",
+        "last_changed": "2023-02-21T16:11:22.350799+00:00",
+        "last_updated": "2023-02-21T16:11:22.350799+00:00",
         "context": {
-          "id": "01GST8P9NJ5XAVP950W09Q4TYP",
+          "id": "01GSTBWVBEERCSR7YN65M3RGPD",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 75,
+        "native_value": 90,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_battery_state",
-        "state": "discharging",
+        "state": "charging",
         "attributes": {
-          "icon": "mdi:battery-minus",
+          "icon": "mdi:battery-plus",
           "friendly_name": "SM-M317F Battery State"
         },
-        "last_changed": "2023-02-21T15:15:11.486545+00:00",
-        "last_updated": "2023-02-21T15:15:11.486545+00:00",
+        "last_changed": "2023-02-21T15:50:36.082710+00:00",
+        "last_updated": "2023-02-21T15:50:36.082710+00:00",
         "context": {
-          "id": "01GST8NZFYKW4S99YCDVP8ZGGM",
+          "id": "01GSTAPT9J586AZHG6JDGDQ49Z",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "discharging",
+        "native_value": "charging",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_charger_type",
-        "state": "none",
+        "state": "ac",
         "attributes": {
-          "icon": "mdi:battery",
+          "icon": "mdi:power-plug",
           "friendly_name": "SM-M317F Charger Type"
         },
-        "last_changed": "2023-02-21T15:15:11.488438+00:00",
-        "last_updated": "2023-02-21T15:15:11.488438+00:00",
+        "last_changed": "2023-02-21T15:50:36.106788+00:00",
+        "last_updated": "2023-02-21T15:50:36.106788+00:00",
         "context": {
-          "id": "01GST8NZG0E4NM13FKZGSE0EWT",
+          "id": "01GSTAPTAAYGCBQVZ3683FGMRA",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "none",
+        "native_value": "ac",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -590,7 +590,7 @@
         "native_value": "good",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -603,10 +603,10 @@
           "icon": "mdi:battery",
           "friendly_name": "SM-M317F Battery Temperature"
         },
-        "last_changed": "2023-02-21T15:15:22.097720+00:00",
-        "last_updated": "2023-02-21T15:15:22.097720+00:00",
+        "last_changed": "2023-02-21T16:10:02.031381+00:00",
+        "last_updated": "2023-02-21T16:10:02.031381+00:00",
         "context": {
-          "id": "01GST8P9VH6D7X27F8T7RH5HFB",
+          "id": "01GSTBTCXFGMB50QG6EX2JMQ80",
           "parent_id": null,
           "user_id": null
         }
@@ -615,34 +615,34 @@
         "native_value": 33.3,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_battery_power",
-        "state": "0.0",
+        "state": "0.01",
         "attributes": {
           "state_class": "measurement",
-          "current": -0.000208,
-          "voltage": 4.026,
+          "current": 0.002765,
+          "voltage": 4.203,
           "unit_of_measurement": "W",
           "device_class": "power",
-          "icon": "mdi:battery-minus",
+          "icon": "mdi:battery-plus",
           "friendly_name": "SM-M317F Battery Power"
         },
-        "last_changed": "2023-02-21T15:15:11.494215+00:00",
-        "last_updated": "2023-02-21T15:16:02.864818+00:00",
+        "last_changed": "2023-02-21T15:50:46.072305+00:00",
+        "last_updated": "2023-02-21T15:50:46.072305+00:00",
         "context": {
-          "id": "01GST8QHNGZT6TXH3A0ZEMF5HP",
+          "id": "01GSTAQ41R3ET27RXX1SZSTG1Y",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 0.0,
+        "native_value": 0.01,
         "native_unit_of_measurement": "W"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -681,7 +681,7 @@
         "native_value": "WING-F, Veer Savarkar Rd, Rajdeep Nagar, Vasant Nagar, Bhandup West, Mumbai, Maharashtra 400078, India",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -704,7 +704,7 @@
         "native_value": "com.sec.android.app.launcher",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -726,7 +726,7 @@
         "native_value": "192.168.1.58",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -750,7 +750,7 @@
         "native_value": 5745,
         "native_unit_of_measurement": "MHz"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -773,7 +773,7 @@
         "native_value": "wifi",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -796,81 +796,81 @@
         "native_value": "unavailable",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_last_notification",
-        "state": "After making 'sexist' comments about Nikki Haley",
+        "state": "90% (23 m until full)",
         "attributes": {
-          "android.appInfo": "ApplicationInfo{8450fe3 com.android.chrome}",
-          "android.bigText": "After making 'sexist' comments about Nikki Haley",
-          "android.infoText": "null",
-          "android.largeIcon": "Icon(typ=BITMAP size=101x101)",
-          "android.progress": 0,
-          "android.progressIndeterminate": false,
-          "android.progressMax": 0,
+          "android.appInfo": "ApplicationInfo{7871dee com.android.systemui}",
+          "android.bigText": "90% (23 m until full)",
           "android.reduced.images": true,
-          "android.remoteInputHistory": "null",
-          "android.showChronometer": false,
-          "android.showWhen": true,
-          "android.subText": "www.dailymail.co.uk",
+          "android.showWhen": false,
+          "android.substName": "Settings",
           "android.template": "android.app.Notification$BigTextStyle",
-          "android.text": "After making 'sexist' comments about Nikki Haley",
-          "android.title": "Don Lemon backs out of hosting event",
-          "androidx.core.app.extra.COMPAT_TEMPLATE": "androidx.core.app.NotificationCompat$BigTextStyle",
-          "category": "null",
-          "channel_id": "web:https://www.dailymail.co.uk;13274527860296883",
-          "group_id": "Web:www.dailymail.co.uk",
-          "is_clearable": true,
-          "is_ongoing": false,
-          "package": "com.android.chrome",
-          "post_time": 1676992553873,
+          "android.text": "90% (23 m until full)",
+          "android.title": "Super fast charging (23 m until full)",
+          "android.title.big": "Super fast charging",
+          "category": "sys",
+          "channel_id": "CHR",
+          "group_id": "CHARGING",
+          "is_clearable": false,
+          "is_ongoing": true,
+          "package": "com.android.systemui",
+          "post_time": 1676995919558,
           "icon": "mdi:bell-ring",
           "friendly_name": "SM-M317F Last Notification"
         },
-        "last_changed": "2023-02-21T15:16:02.889965+00:00",
-        "last_updated": "2023-02-21T15:16:02.889965+00:00",
+        "last_changed": "2023-02-21T16:11:42.524980+00:00",
+        "last_updated": "2023-02-21T16:12:02.655386+00:00",
         "context": {
-          "id": "01GST8QHP92304VGK7QX0FSNMX",
+          "id": "01GSTBY2PZ4G8B96GGMR66E7XB",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "After making 'sexist' comments about Nikki Haley",
+        "native_value": "90% (23 m until full)",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_active_notification_count",
-        "state": "34",
+        "state": "48",
         "attributes": {
           "state_class": "measurement",
-          "android.appInfo_com.android.chrome_-1": "ApplicationInfo{d3ed875 com.android.chrome}",
-          "android.appInfo_com.flipkart.android_-56694507": "ApplicationInfo{bf7c8e5 com.flipkart.android}",
-          "android.appInfo_com.fsn.nds_660154560": "ApplicationInfo{8c6a12d com.fsn.nds}",
-          "android.appInfo_com.google.android.apps.photos_2131429984": "ApplicationInfo{a574c12 com.google.android.apps.photos}",
-          "android.appInfo_com.google.android.googlequicksearchbox_0": "ApplicationInfo{f0f8e74 com.google.android.googlequicksearchbox}",
-          "android.appInfo_com.google.android.youtube_99": "ApplicationInfo{5c42c4f com.google.android.youtube}",
-          "android.appInfo_com.myntra.android_0": "ApplicationInfo{c8e5dc8 com.myntra.android}",
-          "android.appInfo_com.pinterest_1389032661": "ApplicationInfo{84e8c44 com.pinterest}",
-          "android.appInfo_com.ril.ajio_1": "ApplicationInfo{35b6957 com.ril.ajio}",
-          "android.appInfo_com.ril.ajio_3": "ApplicationInfo{c8a1e98 com.ril.ajio}",
-          "android.appInfo_com.sec.android.daemonapp_1": "ApplicationInfo{73add86 com.sec.android.daemonapp}",
-          "android.appInfo_com.tv.v18.viola_64554099": "ApplicationInfo{934000a com.tv.v18.viola}",
-          "android.appInfo_com.tv.v18.viola_74534672": "ApplicationInfo{db186f1 com.tv.v18.viola}",
-          "android.appInfo_io.homeassistant.companion.android_1950861402": "ApplicationInfo{ea0a6ae io.homeassistant.companion.android}",
-          "android.appInfo_io.homeassistant.companion.android_1950861515": "ApplicationInfo{2992329 io.homeassistant.companion.android}",
-          "android.appInfo_io.homeassistant.companion.android_1951909087": "ApplicationInfo{cca28b0 io.homeassistant.companion.android}",
-          "android.appInfo_io.homeassistant.companion.android_1951909232": "ApplicationInfo{2c343f3 io.homeassistant.companion.android}",
-          "android.appInfo_io.homeassistant.companion.android_2147483647": "ApplicationInfo{77c8662 io.homeassistant.companion.android}",
-          "android.appInfo_org.linphone_1": "ApplicationInfo{f335647 org.linphone}",
+          "android.appInfo_com.android.chrome_-1": "ApplicationInfo{5a06ac4 com.android.chrome}",
+          "android.appInfo_com.android.systemui_2131428820": "ApplicationInfo{e299565 com.android.systemui}",
+          "android.appInfo_com.flipkart.android_-56694507": "ApplicationInfo{a002d56 com.flipkart.android}",
+          "android.appInfo_com.fsn.nds_1956565092": "ApplicationInfo{df3e39 com.fsn.nds}",
+          "android.appInfo_com.fsn.nds_660154560": "ApplicationInfo{862022c com.fsn.nds}",
+          "android.appInfo_com.google.android.apps.photos_2131429984": "ApplicationInfo{b004e5c com.google.android.apps.photos}",
+          "android.appInfo_com.google.android.googlequicksearchbox_0": "ApplicationInfo{bdf912e com.google.android.googlequicksearchbox}",
+          "android.appInfo_com.google.android.youtube_99": "ApplicationInfo{4b08483 com.google.android.youtube}",
+          "android.appInfo_com.myntra.android_0": "ApplicationInfo{ae9c8e2 com.myntra.android}",
+          "android.appInfo_com.pinterest_1389032661": "ApplicationInfo{cece5df com.pinterest}",
+          "android.appInfo_com.ril.ajio_1": "ApplicationInfo{f3f61e8 com.ril.ajio}",
+          "android.appInfo_com.ril.ajio_3": "ApplicationInfo{902c0e7 com.ril.ajio}",
+          "android.appInfo_com.samsung.android.messaging_123": "ApplicationInfo{81a13ce com.samsung.android.messaging}",
+          "android.appInfo_com.shopping.limeroad_5": "ApplicationInfo{c6b2f32 com.shopping.limeroad}",
+          "android.appInfo_com.tv.v18.viola_64554099": "ApplicationInfo{f419001 com.tv.v18.viola}",
+          "android.appInfo_com.tv.v18.viola_74534672": "ApplicationInfo{69cb494 com.tv.v18.viola}",
+          "android.appInfo_com.whatsapp_1": "ApplicationInfo{d37ea64 com.whatsapp}",
+          "android.appInfo_com.zivame.consumer_17987": "ApplicationInfo{18b9473 com.zivame.consumer}",
+          "android.appInfo_io.homeassistant.companion.android_1950861402": "ApplicationInfo{f4d7b71 io.homeassistant.companion.android}",
+          "android.appInfo_io.homeassistant.companion.android_1950861515": "ApplicationInfo{9031518 io.homeassistant.companion.android}",
+          "android.appInfo_io.homeassistant.companion.android_1951909087": "ApplicationInfo{d6400fb io.homeassistant.companion.android}",
+          "android.appInfo_io.homeassistant.companion.android_1951909232": "ApplicationInfo{135728a io.homeassistant.companion.android}",
+          "android.appInfo_io.homeassistant.companion.android_2147483647": "ApplicationInfo{86c84f5 io.homeassistant.companion.android}",
+          "android.appInfo_org.linphone_1": "ApplicationInfo{42f27a9 org.linphone}",
           "android.bigText_com.android.chrome_-1": "Ukraine Vows To \"Kick Out\" Russia After Putin Address",
-          "android.bigText_com.google.android.googlequicksearchbox_0": "36° / 21° · See full forecast",
-          "android.bigText_com.ril.ajio_1": "❌ ₹3,299  ✅ ₹1,049 Today",
+          "android.bigText_com.android.systemui_2131428820": "88% (26 m until full)",
+          "android.bigText_com.google.android.googlequicksearchbox_0": "Sari Style",
+          "android.bigText_com.myntra.android_0": "For your fave styles Under ₹899",
+          "android.bigText_com.ril.ajio_1": "✅ Shoes and Sneakers\n✅ Flipflops and Slides\n✅ Sandals, Heels, and Flats",
           "android.bigText_com.ril.ajio_3": "Elegant KURTAS 😍",
           "android.bigText_io.homeassistant.companion.android_1950861402": "🧒Nilesh Left home🏠🚪",
           "android.bigText_io.homeassistant.companion.android_1950861515": "🧒Nilesh reached Home👉🏠",
@@ -879,9 +879,17 @@
           "android.colorized_com.tv.v18.viola_64554099": true,
           "android.colorized_com.tv.v18.viola_74534672": true,
           "android.contains.customView_com.fsn.nds_660154560": true,
+          "android.contains.customView_com.google.android.youtube_99": true,
           "android.contains.customView_com.pinterest_1389032661": true,
+          "android.contains.customView_com.shopping.limeroad_5": true,
+          "android.conversationTitle_com.whatsapp_1": "GSSISgrade 3(parents grp)",
+          "android.conversationUnreadMessageCount_com.samsung.android.messaging_123": 0,
+          "android.conversationUnreadMessageCount_com.whatsapp_1": 0,
+          "android.hiddenConversationTitle_com.samsung.android.messaging_123": "null",
+          "android.hiddenConversationTitle_com.whatsapp_1": "GSSISgrade 3(parents grp)",
           "android.infoText_com.android.chrome_-1": "null",
           "android.infoText_com.flipkart.android_-56694507": "null",
+          "android.infoText_com.fsn.nds_1956565092": "null",
           "android.infoText_com.fsn.nds_660154560": "null",
           "android.infoText_com.google.android.apps.photos_2131429984": "null",
           "android.infoText_com.google.android.googlequicksearchbox_0": "null",
@@ -890,18 +898,25 @@
           "android.infoText_com.pinterest_1389032661": "null",
           "android.infoText_com.ril.ajio_1": "null",
           "android.infoText_com.ril.ajio_3": "null",
-          "android.infoText_com.sec.android.daemonapp_1": "null",
+          "android.infoText_com.samsung.android.messaging_123": "null",
+          "android.infoText_com.shopping.limeroad_5": "null",
           "android.infoText_com.tv.v18.viola_64554099": "null",
           "android.infoText_com.tv.v18.viola_74534672": "null",
+          "android.infoText_com.whatsapp_1": "null",
+          "android.infoText_com.zivame.consumer_17987": "null",
           "android.infoText_io.homeassistant.companion.android_1950861402": "null",
           "android.infoText_io.homeassistant.companion.android_1950861515": "null",
           "android.infoText_io.homeassistant.companion.android_1951909087": "null",
           "android.infoText_io.homeassistant.companion.android_1951909232": "null",
           "android.infoText_org.linphone_1": "null",
+          "android.isGroupConversation_com.samsung.android.messaging_123": false,
+          "android.isGroupConversation_com.whatsapp_1": true,
+          "android.largeIcon.big_com.fsn.nds_1956565092": "null",
           "android.largeIcon.big_com.google.android.googlequicksearchbox_0": "null",
           "android.largeIcon.big_com.google.android.youtube_99": "Icon(typ=BITMAP size=101x101)",
           "android.largeIcon_com.android.chrome_-1": "Icon(typ=BITMAP size=101x101)",
           "android.largeIcon_com.flipkart.android_-56694507": "Icon(typ=BITMAP size=96x96)",
+          "android.largeIcon_com.fsn.nds_1956565092": "Icon(typ=BITMAP size=101x42)",
           "android.largeIcon_com.fsn.nds_660154560": "null",
           "android.largeIcon_com.google.android.apps.photos_2131429984": "null",
           "android.largeIcon_com.google.android.googlequicksearchbox_0": "Icon(typ=BITMAP size=101x101)",
@@ -910,30 +925,52 @@
           "android.largeIcon_com.pinterest_1389032661": "null",
           "android.largeIcon_com.ril.ajio_1": "Icon(typ=BITMAP size=101x101)",
           "android.largeIcon_com.ril.ajio_3": "Icon(typ=BITMAP size=101x101)",
-          "android.largeIcon_com.sec.android.daemonapp_1": "Icon(typ=BITMAP size=98x98)",
+          "android.largeIcon_com.samsung.android.messaging_123": "Icon(typ=BITMAP size=101x101)",
+          "android.largeIcon_com.shopping.limeroad_5": "null",
           "android.largeIcon_com.tv.v18.viola_64554099": "Icon(typ=BITMAP size=101x101)",
           "android.largeIcon_com.tv.v18.viola_74534672": "Icon(typ=BITMAP size=101x101)",
+          "android.largeIcon_com.whatsapp_1": "Icon(typ=BITMAP size=101x101)",
+          "android.largeIcon_com.zivame.consumer_17987": "Icon(typ=BITMAP size=101x101)",
           "android.largeIcon_io.homeassistant.companion.android_1950861402": "null",
           "android.largeIcon_io.homeassistant.companion.android_1950861515": "null",
           "android.largeIcon_io.homeassistant.companion.android_1951909087": "null",
           "android.largeIcon_io.homeassistant.companion.android_1951909232": "null",
           "android.largeIcon_org.linphone_1": "null",
+          "android.messages_com.samsung.android.messaging_123": [
+            "{extras={}, sender_person=android.app.Person@5e4f060, sender=⁨Nilesh papa⁩, text=Battery full on Nilesh's Mobile, time=1676994601921}"
+          ],
+          "android.messages_com.whatsapp_1": [
+            "{extras={}, sender_person=android.app.Person@853965e0, sender=+91 88985 84375, text=Is any exam tomorrow?, time=1676994826000}"
+          ],
+          "android.messagingStyleUser_com.samsung.android.messaging_123": "{key=⁨Me⁩tel:%2B917977895543, uri=tel:%2B917977895543, icon={string1=null, obj=android.graphics.Bitmap@ad421fc, int1=0, int2=0, type=5}, name=⁨Me⁩, isBot=false, isImportant=false}",
+          "android.messagingStyleUser_com.whatsapp_1": "{key=null, uri=null, icon={string1=null, obj=android.graphics.Bitmap@e136182, int1=0, int2=0, type=1}, name=You, isBot=false, isImportant=false}",
+          "android.messagingUser_com.samsung.android.messaging_123": "android.app.Person@d7052a94",
+          "android.messagingUser_com.whatsapp_1": "android.app.Person@6a9bf055",
+          "android.people.list_com.samsung.android.messaging_123": [
+            "android.app.Person@58256a11"
+          ],
+          "android.people.list_com.whatsapp_1": [
+            "android.app.Person@5e8c5b53"
+          ],
           "android.pictureIcon_com.android.chrome_-1": "null",
           "android.pictureIcon_com.flipkart.android_-56694507": "null",
+          "android.pictureIcon_com.fsn.nds_1956565092": "null",
           "android.pictureIcon_com.google.android.googlequicksearchbox_0": "null",
           "android.pictureIcon_com.google.android.youtube_99": "null",
-          "android.pictureIcon_com.myntra.android_0": "null",
           "android.pictureIcon_com.tv.v18.viola_64554099": "null",
           "android.pictureIcon_com.tv.v18.viola_74534672": "null",
-          "android.picture_com.android.chrome_-1": "android.graphics.Bitmap@6413e6b",
-          "android.picture_com.flipkart.android_-56694507": "android.graphics.Bitmap@dd47fba",
-          "android.picture_com.google.android.googlequicksearchbox_0": "android.graphics.Bitmap@8bf2f9d",
-          "android.picture_com.google.android.youtube_99": "android.graphics.Bitmap@e211fdc",
-          "android.picture_com.myntra.android_0": "android.graphics.Bitmap@9e10e61",
-          "android.picture_com.tv.v18.viola_64554099": "android.graphics.Bitmap@4e3407b",
-          "android.picture_com.tv.v18.viola_74534672": "android.graphics.Bitmap@b1a12d6",
+          "android.pictureIcon_com.zivame.consumer_17987": "null",
+          "android.picture_com.android.chrome_-1": "android.graphics.Bitmap@d6d5dad",
+          "android.picture_com.flipkart.android_-56694507": "android.graphics.Bitmap@667b1d7",
+          "android.picture_com.fsn.nds_1956565092": "android.graphics.Bitmap@d190c7e",
+          "android.picture_com.google.android.googlequicksearchbox_0": "android.graphics.Bitmap@40104cf",
+          "android.picture_com.google.android.youtube_99": "android.graphics.Bitmap@7da8600",
+          "android.picture_com.tv.v18.viola_64554099": "android.graphics.Bitmap@a90cea6",
+          "android.picture_com.tv.v18.viola_74534672": "android.graphics.Bitmap@e362b3d",
+          "android.picture_com.zivame.consumer_17987": "android.graphics.Bitmap@39b6f30",
           "android.progressIndeterminate_com.android.chrome_-1": false,
           "android.progressIndeterminate_com.flipkart.android_-56694507": false,
+          "android.progressIndeterminate_com.fsn.nds_1956565092": false,
           "android.progressIndeterminate_com.fsn.nds_660154560": false,
           "android.progressIndeterminate_com.google.android.apps.photos_2131429984": true,
           "android.progressIndeterminate_com.google.android.googlequicksearchbox_0": false,
@@ -942,9 +979,12 @@
           "android.progressIndeterminate_com.pinterest_1389032661": false,
           "android.progressIndeterminate_com.ril.ajio_1": false,
           "android.progressIndeterminate_com.ril.ajio_3": false,
-          "android.progressIndeterminate_com.sec.android.daemonapp_1": false,
+          "android.progressIndeterminate_com.samsung.android.messaging_123": false,
+          "android.progressIndeterminate_com.shopping.limeroad_5": false,
           "android.progressIndeterminate_com.tv.v18.viola_64554099": false,
           "android.progressIndeterminate_com.tv.v18.viola_74534672": false,
+          "android.progressIndeterminate_com.whatsapp_1": false,
+          "android.progressIndeterminate_com.zivame.consumer_17987": false,
           "android.progressIndeterminate_io.homeassistant.companion.android_1950861402": false,
           "android.progressIndeterminate_io.homeassistant.companion.android_1950861515": false,
           "android.progressIndeterminate_io.homeassistant.companion.android_1951909087": false,
@@ -952,6 +992,7 @@
           "android.progressIndeterminate_org.linphone_1": false,
           "android.progressMax_com.android.chrome_-1": 0,
           "android.progressMax_com.flipkart.android_-56694507": 0,
+          "android.progressMax_com.fsn.nds_1956565092": 0,
           "android.progressMax_com.fsn.nds_660154560": 0,
           "android.progressMax_com.google.android.apps.photos_2131429984": 1,
           "android.progressMax_com.google.android.googlequicksearchbox_0": 0,
@@ -960,9 +1001,12 @@
           "android.progressMax_com.pinterest_1389032661": 0,
           "android.progressMax_com.ril.ajio_1": 0,
           "android.progressMax_com.ril.ajio_3": 0,
-          "android.progressMax_com.sec.android.daemonapp_1": 0,
+          "android.progressMax_com.samsung.android.messaging_123": 0,
+          "android.progressMax_com.shopping.limeroad_5": 0,
           "android.progressMax_com.tv.v18.viola_64554099": 0,
           "android.progressMax_com.tv.v18.viola_74534672": 0,
+          "android.progressMax_com.whatsapp_1": 0,
+          "android.progressMax_com.zivame.consumer_17987": 0,
           "android.progressMax_io.homeassistant.companion.android_1950861402": 0,
           "android.progressMax_io.homeassistant.companion.android_1950861515": 0,
           "android.progressMax_io.homeassistant.companion.android_1951909087": 0,
@@ -970,6 +1014,7 @@
           "android.progressMax_org.linphone_1": 0,
           "android.progress_com.android.chrome_-1": 0,
           "android.progress_com.flipkart.android_-56694507": 0,
+          "android.progress_com.fsn.nds_1956565092": 0,
           "android.progress_com.fsn.nds_660154560": 0,
           "android.progress_com.google.android.apps.photos_2131429984": 0,
           "android.progress_com.google.android.googlequicksearchbox_0": 0,
@@ -978,16 +1023,21 @@
           "android.progress_com.pinterest_1389032661": 0,
           "android.progress_com.ril.ajio_1": 0,
           "android.progress_com.ril.ajio_3": 0,
-          "android.progress_com.sec.android.daemonapp_1": 0,
+          "android.progress_com.samsung.android.messaging_123": 0,
+          "android.progress_com.shopping.limeroad_5": 0,
           "android.progress_com.tv.v18.viola_64554099": 0,
           "android.progress_com.tv.v18.viola_74534672": 0,
+          "android.progress_com.whatsapp_1": 0,
+          "android.progress_com.zivame.consumer_17987": 0,
           "android.progress_io.homeassistant.companion.android_1950861402": 0,
           "android.progress_io.homeassistant.companion.android_1950861515": 0,
           "android.progress_io.homeassistant.companion.android_1951909087": 0,
           "android.progress_io.homeassistant.companion.android_1951909232": 0,
           "android.progress_org.linphone_1": 0,
           "android.reduced.images_com.android.chrome_-1": true,
+          "android.reduced.images_com.android.systemui_2131428820": true,
           "android.reduced.images_com.flipkart.android_-56694507": true,
+          "android.reduced.images_com.fsn.nds_1956565092": true,
           "android.reduced.images_com.fsn.nds_660154560": true,
           "android.reduced.images_com.google.android.apps.photos_2131429984": true,
           "android.reduced.images_com.google.android.googlequicksearchbox_0": true,
@@ -996,9 +1046,12 @@
           "android.reduced.images_com.pinterest_1389032661": true,
           "android.reduced.images_com.ril.ajio_1": true,
           "android.reduced.images_com.ril.ajio_3": true,
-          "android.reduced.images_com.sec.android.daemonapp_1": true,
+          "android.reduced.images_com.samsung.android.messaging_123": true,
+          "android.reduced.images_com.shopping.limeroad_5": true,
           "android.reduced.images_com.tv.v18.viola_64554099": true,
           "android.reduced.images_com.tv.v18.viola_74534672": true,
+          "android.reduced.images_com.whatsapp_1": true,
+          "android.reduced.images_com.zivame.consumer_17987": true,
           "android.reduced.images_io.homeassistant.companion.android_1950861402": true,
           "android.reduced.images_io.homeassistant.companion.android_1950861515": true,
           "android.reduced.images_io.homeassistant.companion.android_1951909087": true,
@@ -1007,6 +1060,7 @@
           "android.reduced.images_org.linphone_1": true,
           "android.remoteInputHistory_com.android.chrome_-1": "null",
           "android.remoteInputHistory_com.flipkart.android_-56694507": "null",
+          "android.remoteInputHistory_com.fsn.nds_1956565092": "null",
           "android.remoteInputHistory_com.fsn.nds_660154560": "null",
           "android.remoteInputHistory_com.google.android.apps.photos_2131429984": "null",
           "android.remoteInputHistory_com.google.android.googlequicksearchbox_0": "null",
@@ -1015,23 +1069,30 @@
           "android.remoteInputHistory_com.pinterest_1389032661": "null",
           "android.remoteInputHistory_com.ril.ajio_1": "null",
           "android.remoteInputHistory_com.ril.ajio_3": "null",
-          "android.remoteInputHistory_com.sec.android.daemonapp_1": "null",
+          "android.remoteInputHistory_com.samsung.android.messaging_123": "null",
+          "android.remoteInputHistory_com.shopping.limeroad_5": "null",
           "android.remoteInputHistory_com.tv.v18.viola_64554099": "null",
           "android.remoteInputHistory_com.tv.v18.viola_74534672": "null",
+          "android.remoteInputHistory_com.whatsapp_1": "null",
+          "android.remoteInputHistory_com.zivame.consumer_17987": "null",
           "android.remoteInputHistory_io.homeassistant.companion.android_1950861402": "null",
           "android.remoteInputHistory_io.homeassistant.companion.android_1950861515": "null",
           "android.remoteInputHistory_io.homeassistant.companion.android_1951909087": "null",
           "android.remoteInputHistory_io.homeassistant.companion.android_1951909232": "null",
           "android.remoteInputHistory_org.linphone_1": "null",
+          "android.selfDisplayName_com.samsung.android.messaging_123": "⁨Me⁩",
+          "android.selfDisplayName_com.whatsapp_1": "You",
           "android.showBigPictureWhenCollapsed_com.android.chrome_-1": false,
           "android.showBigPictureWhenCollapsed_com.flipkart.android_-56694507": false,
+          "android.showBigPictureWhenCollapsed_com.fsn.nds_1956565092": false,
           "android.showBigPictureWhenCollapsed_com.google.android.googlequicksearchbox_0": false,
           "android.showBigPictureWhenCollapsed_com.google.android.youtube_99": false,
-          "android.showBigPictureWhenCollapsed_com.myntra.android_0": false,
           "android.showBigPictureWhenCollapsed_com.tv.v18.viola_64554099": false,
           "android.showBigPictureWhenCollapsed_com.tv.v18.viola_74534672": false,
+          "android.showBigPictureWhenCollapsed_com.zivame.consumer_17987": false,
           "android.showChronometer_com.android.chrome_-1": false,
           "android.showChronometer_com.flipkart.android_-56694507": false,
+          "android.showChronometer_com.fsn.nds_1956565092": false,
           "android.showChronometer_com.fsn.nds_660154560": false,
           "android.showChronometer_com.google.android.apps.photos_2131429984": false,
           "android.showChronometer_com.google.android.googlequicksearchbox_0": false,
@@ -1040,16 +1101,21 @@
           "android.showChronometer_com.pinterest_1389032661": false,
           "android.showChronometer_com.ril.ajio_1": false,
           "android.showChronometer_com.ril.ajio_3": false,
-          "android.showChronometer_com.sec.android.daemonapp_1": false,
+          "android.showChronometer_com.samsung.android.messaging_123": false,
+          "android.showChronometer_com.shopping.limeroad_5": false,
           "android.showChronometer_com.tv.v18.viola_64554099": false,
           "android.showChronometer_com.tv.v18.viola_74534672": false,
+          "android.showChronometer_com.whatsapp_1": false,
+          "android.showChronometer_com.zivame.consumer_17987": false,
           "android.showChronometer_io.homeassistant.companion.android_1950861402": false,
           "android.showChronometer_io.homeassistant.companion.android_1950861515": false,
           "android.showChronometer_io.homeassistant.companion.android_1951909087": false,
           "android.showChronometer_io.homeassistant.companion.android_1951909232": false,
           "android.showChronometer_org.linphone_1": false,
           "android.showWhen_com.android.chrome_-1": true,
+          "android.showWhen_com.android.systemui_2131428820": false,
           "android.showWhen_com.flipkart.android_-56694507": true,
+          "android.showWhen_com.fsn.nds_1956565092": true,
           "android.showWhen_com.fsn.nds_660154560": true,
           "android.showWhen_com.google.android.apps.photos_2131429984": true,
           "android.showWhen_com.google.android.googlequicksearchbox_0": true,
@@ -1058,9 +1124,12 @@
           "android.showWhen_com.pinterest_1389032661": true,
           "android.showWhen_com.ril.ajio_1": true,
           "android.showWhen_com.ril.ajio_3": true,
-          "android.showWhen_com.sec.android.daemonapp_1": true,
+          "android.showWhen_com.samsung.android.messaging_123": true,
+          "android.showWhen_com.shopping.limeroad_5": true,
           "android.showWhen_com.tv.v18.viola_64554099": true,
           "android.showWhen_com.tv.v18.viola_74534672": true,
+          "android.showWhen_com.whatsapp_1": true,
+          "android.showWhen_com.zivame.consumer_17987": true,
           "android.showWhen_io.homeassistant.companion.android_1950861402": true,
           "android.showWhen_io.homeassistant.companion.android_1950861515": true,
           "android.showWhen_io.homeassistant.companion.android_1951909087": true,
@@ -1068,6 +1137,7 @@
           "android.showWhen_org.linphone_1": true,
           "android.subText_com.android.chrome_-1": "www.justdial.com",
           "android.subText_com.flipkart.android_-56694507": "null",
+          "android.subText_com.fsn.nds_1956565092": "Tap to explore!",
           "android.subText_com.fsn.nds_660154560": "Add to cart now!",
           "android.subText_com.google.android.apps.photos_2131429984": "monikavaity24@gmail.com",
           "android.subText_com.google.android.googlequicksearchbox_0": "null",
@@ -1076,84 +1146,125 @@
           "android.subText_com.pinterest_1389032661": "null",
           "android.subText_com.ril.ajio_1": "null",
           "android.subText_com.ril.ajio_3": "null",
-          "android.subText_com.sec.android.daemonapp_1": "null",
+          "android.subText_com.samsung.android.messaging_123": "null",
+          "android.subText_com.shopping.limeroad_5": "Shop now👉",
           "android.subText_com.tv.v18.viola_64554099": "null",
           "android.subText_com.tv.v18.viola_74534672": "FREE Movie 🍿",
+          "android.subText_com.whatsapp_1": "null",
+          "android.subText_com.zivame.consumer_17987": "null",
           "android.subText_io.homeassistant.companion.android_1950861402": "null",
           "android.subText_io.homeassistant.companion.android_1950861515": "null",
           "android.subText_io.homeassistant.companion.android_1951909087": "null",
           "android.subText_io.homeassistant.companion.android_1951909232": "null",
           "android.subText_org.linphone_1": "null",
+          "android.substName_com.android.systemui_2131428820": "Settings",
           "android.summaryText_com.android.chrome_-1": " Tap For Your Evening Brief",
           "android.summaryText_com.flipkart.android_-56694507": "Up to 80% Off! Grab or Gone >",
           "android.summaryText_com.google.android.youtube_99": "Dnyaneshwar Mauli - ज्ञानेश्वर माउली - Episode 460 - 20th February 2023",
           "android.summaryText_com.tv.v18.viola_64554099": "#BB16 Ka Hangover Utarne Nahi Denge 😌😍",
           "android.summaryText_com.tv.v18.viola_74534672": "It's Time For Some Ranbir-Katrina Romance… ▶️",
+          "android.summaryText_com.whatsapp_1": "24 messages from 2 chats",
+          "android.summaryText_com.zivame.consumer_17987": "Buy any 4 styles @ only ₹999 😍💥 ",
           "android.support.v4.app.extra.COMPAT_TEMPLATE_com.google.android.googlequicksearchbox_0": "androidx.core.app.NotificationCompat$BigPictureStyle",
           "android.support.v4.app.extra.COMPAT_TEMPLATE_com.google.android.youtube_99": "androidx.core.app.NotificationCompat$BigPictureStyle",
           "android.template_com.android.chrome_-1": "android.app.Notification$BigTextStyle",
+          "android.template_com.android.systemui_2131428820": "android.app.Notification$BigTextStyle",
           "android.template_com.flipkart.android_-56694507": "android.app.Notification$BigPictureStyle",
+          "android.template_com.fsn.nds_1956565092": "android.app.Notification$BigPictureStyle",
           "android.template_com.fsn.nds_660154560": "android.app.Notification$DecoratedCustomViewStyle",
           "android.template_com.google.android.googlequicksearchbox_0": "android.app.Notification$BigPictureStyle",
           "android.template_com.google.android.youtube_99": "android.app.Notification$BigPictureStyle",
-          "android.template_com.myntra.android_0": "android.app.Notification$BigPictureStyle",
+          "android.template_com.myntra.android_0": "android.app.Notification$BigTextStyle",
           "android.template_com.pinterest_1389032661": "android.app.Notification$DecoratedCustomViewStyle",
           "android.template_com.ril.ajio_1": "android.app.Notification$BigTextStyle",
           "android.template_com.ril.ajio_3": "android.app.Notification$BigTextStyle",
+          "android.template_com.samsung.android.messaging_123": "android.app.Notification$MessagingStyle",
+          "android.template_com.shopping.limeroad_5": "android.app.Notification$DecoratedCustomViewStyle",
           "android.template_com.tv.v18.viola_64554099": "android.app.Notification$BigPictureStyle",
           "android.template_com.tv.v18.viola_74534672": "android.app.Notification$BigPictureStyle",
+          "android.template_com.whatsapp_1": "android.app.Notification$MessagingStyle",
+          "android.template_com.zivame.consumer_17987": "android.app.Notification$BigPictureStyle",
           "android.template_io.homeassistant.companion.android_1950861402": "android.app.Notification$BigTextStyle",
           "android.template_io.homeassistant.companion.android_1950861515": "android.app.Notification$BigTextStyle",
           "android.template_io.homeassistant.companion.android_1951909087": "android.app.Notification$BigTextStyle",
           "android.template_io.homeassistant.companion.android_1951909232": "android.app.Notification$BigTextStyle",
+          "android.textLines_com.whatsapp_1": [
+            "Loknath Saree @ 🙏Lokenath Saree House🙏: 📷 Photo",
+            "Loknath Saree @ 🙏Lokenath Saree House🙏: 📷 Photo",
+            "Loknath Saree @ 🙏Lokenath Saree House🙏: 📷 Photo",
+            "Loknath Saree @ 🙏Lokenath Saree House🙏: 📷 Photo",
+            "Loknath Saree @ 🙏Lokenath Saree House🙏: 🎥 Video (0:24)",
+            "Loknath Saree @ 🙏Lokenath Saree House🙏: 🌹EXCLUSIVE ITEMS🌹\n\n🦚 AJRAKH  GHICHA SILK🦚\n\n🪷ALL BODY BUTTA DESIGN  BODER  & PALLU AJRKH HAND PRINT DESIGN  🪷 \n\n🌾WITH = CONTRAST BP🌾\n\n🍀ONLY PRICE = 1000+shipping ☘\n\n\n🎍VERY SOFT QUALITY ALL SHAREE DESIGN AVAILABLE🎍\n\n 🌹FAST BOOKING NOW🌹",
+            "+91 88985 84375 @ GSSISgrade 3(parents grp): Is any exam tomorrow?"
+          ],
           "android.text_com.android.chrome_-1": "Ukraine Vows To \"Kick Out\" Russia After Putin Address",
+          "android.text_com.android.systemui_2131428820": "88% (26 m until full)",
           "android.text_com.flipkart.android_-56694507": "Up to 80% Off! Grab or Gone >",
+          "android.text_com.fsn.nds_1956565092": "...with aromatic candles & fragrances STARTING @ JUST ₹195!",
           "android.text_com.fsn.nds_660154560": "null",
           "android.text_com.google.android.apps.photos_2131429984": "Using Wi-Fi",
           "android.text_com.google.android.googlequicksearchbox_0": "साड़ी के साथ पहने नेट से बने यह खूबसूरत ब्लाउज, नहीं हटेगी आपकी खूबसूरती पर से किसी की नजर",
           "android.text_com.google.android.youtube_99": "Dnyaneshwar Mauli - ज्ञानेश्वर माउली - Episode 460 - 20th February 2023",
-          "android.text_com.myntra.android_0": "By shopping them Under ₹899 on Myntra",
+          "android.text_com.myntra.android_0": "For your fave styles Under ₹899",
           "android.text_com.pinterest_1389032661": "Vrinda Dawda Shares A Joyful Video With One-Year-Old Son, Shreyaan Who Is Decked Up As 'Netaji'",
-          "android.text_com.ril.ajio_1": "❌ ₹3,299  ✅ ₹1,049 Today",
+          "android.text_com.ril.ajio_1": "✅ Shoes and Sneakers\n✅ Flipflops and Slides\n✅ Sandals, Heels, and Flats",
           "android.text_com.ril.ajio_3": "Elegant KURTAS 😍",
-          "android.text_com.sec.android.daemonapp_1": "High 31° | Low 24°",
+          "android.text_com.samsung.android.messaging_123": "Battery full on Nilesh's Mobile",
+          "android.text_com.shopping.limeroad_5": "..on our forever faves!😉",
           "android.text_com.tv.v18.viola_64554099": "#BB16 Ka Hangover Utarne Nahi Denge 😌😍",
           "android.text_com.tv.v18.viola_74534672": "It's Time For Some Ranbir-Katrina Romance… ▶️",
+          "android.text_com.whatsapp_1": "Is any exam tomorrow?",
+          "android.text_com.zivame.consumer_17987": "Buy any 4 styles @ only ₹999 😍💥 ",
           "android.text_io.homeassistant.companion.android_1950861402": "🧒Nilesh Left home🏠🚪",
           "android.text_io.homeassistant.companion.android_1950861515": "🧒Nilesh reached Home👉🏠",
           "android.text_io.homeassistant.companion.android_1951909087": "🧒Nilesh Left home🏠🚪",
           "android.text_io.homeassistant.companion.android_1951909232": "🧒Nilesh reached Home👉🏠",
           "android.text_org.linphone_1": "This is required to receive calls while in background",
+          "android.title.big_com.android.systemui_2131428820": "Super fast charging",
           "android.title.big_com.flipkart.android_-56694507": "⏰ FLASH Price Drop Till 12 AM!",
           "android.title.big_com.google.android.googlequicksearchbox_0": "Gyan Sankhya",
           "android.title.big_com.google.android.youtube_99": "Sony Marathi",
+          "android.title.big_com.myntra.android_0": "Make room in your wardrobe! 😱",
+          "android.title.big_com.zivame.consumer_17987": "Perfect offer doesn't exi... ",
           "android.title_com.android.chrome_-1": "Latest News On Putin",
+          "android.title_com.android.systemui_2131428820": "Super fast charging (26 m until full)",
           "android.title_com.flipkart.android_-56694507": "⏰ FLASH Price Drop Till 12 AM!",
+          "android.title_com.fsn.nds_1956565092": "Turn your 🏠 into a scented haven...",
           "android.title_com.fsn.nds_660154560": "null",
           "android.title_com.google.android.apps.photos_2131429984": "Uploading 414 items",
           "android.title_com.google.android.googlequicksearchbox_0": "Gyan Sankhya",
           "android.title_com.google.android.youtube_99": "Sony Marathi",
-          "android.title_com.myntra.android_0": "Declare your love for dresses 💌",
+          "android.title_com.myntra.android_0": "Make room in your wardrobe! 😱",
           "android.title_com.pinterest_1389032661": "Monika, you have a good eye",
-          "android.title_com.ril.ajio_1": "Grab a FILA 👟 at",
+          "android.title_com.ril.ajio_1": "📣 Buy 1, Get 2 FREE on",
           "android.title_com.ril.ajio_3": "FLAT 70% off on",
-          "android.title_com.sec.android.daemonapp_1": "28° Mumbai",
+          "android.title_com.samsung.android.messaging_123": "⁨Nilesh papa⁩",
+          "android.title_com.shopping.limeroad_5": "Now you get up to 70% off..",
           "android.title_com.tv.v18.viola_64554099": "कभी भैया तो कभी सैयां! 😂😭",
           "android.title_com.tv.v18.viola_74534672": "Prem Naam Hai, Prem Chopra 🤗",
+          "android.title_com.whatsapp_1": "GSSISgrade 3(parents grp): +91 88985 84375",
+          "android.title_com.zivame.consumer_17987": "Perfect offer doesn't exi... ",
           "android.title_io.homeassistant.companion.android_1950861402": "Zone Alert",
           "android.title_io.homeassistant.companion.android_1950861515": "Zone Alert",
           "android.title_io.homeassistant.companion.android_1951909087": "Zone Alert",
           "android.title_io.homeassistant.companion.android_1951909232": "Zone Alert",
           "android.title_org.linphone_1": "Linphone Service",
+          "android.wearable.EXTENSIONS_com.samsung.android.messaging_123": "{actions=[android.app.Notification$Action@ac79eda, android.app.Notification$Action@13f0b]}",
+          "android.wearable.EXTENSIONS_com.whatsapp_1": "{actions=[android.app.Notification$Action@abb48d0, android.app.Notification$Action@2cd90c9]}",
           "androidx.core.app.extra.COMPAT_TEMPLATE_com.android.chrome_-1": "androidx.core.app.NotificationCompat$BigTextStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_com.flipkart.android_-56694507": "androidx.core.app.NotificationCompat$BigPictureStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.fsn.nds_1956565092": "androidx.core.app.NotificationCompat$BigPictureStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_com.fsn.nds_660154560": "androidx.core.app.NotificationCompat$DecoratedCustomViewStyle",
-          "androidx.core.app.extra.COMPAT_TEMPLATE_com.myntra.android_0": "androidx.core.app.NotificationCompat$BigPictureStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.myntra.android_0": "androidx.core.app.NotificationCompat$BigTextStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_com.pinterest_1389032661": "androidx.core.app.NotificationCompat$DecoratedCustomViewStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_com.ril.ajio_1": "androidx.core.app.NotificationCompat$BigTextStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_com.ril.ajio_3": "androidx.core.app.NotificationCompat$BigTextStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.samsung.android.messaging_123": "androidx.core.app.NotificationCompat$MessagingStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.shopping.limeroad_5": "androidx.core.app.NotificationCompat$DecoratedCustomViewStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_com.tv.v18.viola_64554099": "androidx.core.app.NotificationCompat$BigPictureStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_com.tv.v18.viola_74534672": "androidx.core.app.NotificationCompat$BigPictureStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.whatsapp_1": "androidx.core.app.NotificationCompat$MessagingStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.zivame.consumer_17987": "androidx.core.app.NotificationCompat$BigPictureStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_io.homeassistant.companion.android_1950861402": "androidx.core.app.NotificationCompat$BigTextStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_io.homeassistant.companion.android_1950861515": "androidx.core.app.NotificationCompat$BigTextStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_io.homeassistant.companion.android_1951909087": "androidx.core.app.NotificationCompat$BigTextStyle",
@@ -1165,12 +1276,24 @@
           "com.android.chrome_-1_is_clearable": true,
           "com.android.chrome_-1_is_ongoing": false,
           "com.android.chrome_-1_post_time": 1676987103129,
+          "com.android.systemui_2131428820_category": "sys",
+          "com.android.systemui_2131428820_channel_id": "CHR",
+          "com.android.systemui_2131428820_group_id": "CHARGING",
+          "com.android.systemui_2131428820_is_clearable": false,
+          "com.android.systemui_2131428820_is_ongoing": true,
+          "com.android.systemui_2131428820_post_time": 1676995698580,
           "com.flipkart.android_-56694507_category": "null",
           "com.flipkart.android_-56694507_channel_id": "deals",
           "com.flipkart.android_-56694507_group_id": "null",
           "com.flipkart.android_-56694507_is_clearable": true,
           "com.flipkart.android_-56694507_is_ongoing": false,
           "com.flipkart.android_-56694507_post_time": 1676991544155,
+          "com.fsn.nds_1956565092_category": "null",
+          "com.fsn.nds_1956565092_channel_id": "channel_id_fashion",
+          "com.fsn.nds_1956565092_group_id": "null",
+          "com.fsn.nds_1956565092_is_clearable": true,
+          "com.fsn.nds_1956565092_is_ongoing": false,
+          "com.fsn.nds_1956565092_post_time": 1676993810538,
           "com.fsn.nds_660154560_category": "null",
           "com.fsn.nds_660154560_channel_id": "channel_id_fashion",
           "com.fsn.nds_660154560_group_id": "null",
@@ -1200,7 +1323,7 @@
           "com.myntra.android_0_group_id": "null",
           "com.myntra.android_0_is_clearable": true,
           "com.myntra.android_0_is_ongoing": false,
-          "com.myntra.android_0_post_time": 1676990240539,
+          "com.myntra.android_0_post_time": 1676994649396,
           "com.pinterest_1389032661_category": "null",
           "com.pinterest_1389032661_channel_id": "011",
           "com.pinterest_1389032661_group_id": "yfQNieiGD:153",
@@ -1212,19 +1335,25 @@
           "com.ril.ajio_1_group_id": "null",
           "com.ril.ajio_1_is_clearable": true,
           "com.ril.ajio_1_is_ongoing": false,
-          "com.ril.ajio_1_post_time": 1676987100784,
+          "com.ril.ajio_1_post_time": 1676994641752,
           "com.ril.ajio_3_category": "null",
           "com.ril.ajio_3_channel_id": "ajio_channel_01",
           "com.ril.ajio_3_group_id": "null",
           "com.ril.ajio_3_is_clearable": true,
           "com.ril.ajio_3_is_ongoing": false,
           "com.ril.ajio_3_post_time": 1676990690751,
-          "com.sec.android.daemonapp_1_category": "null",
-          "com.sec.android.daemonapp_1_channel_id": "weather.notification.normal",
-          "com.sec.android.daemonapp_1_group_id": "null",
-          "com.sec.android.daemonapp_1_is_clearable": true,
-          "com.sec.android.daemonapp_1_is_ongoing": false,
-          "com.sec.android.daemonapp_1_post_time": 1676989679472,
+          "com.samsung.android.messaging_123_category": "msg",
+          "com.samsung.android.messaging_123_channel_id": "CHANNEL_ID_SMS_MMS",
+          "com.samsung.android.messaging_123_group_id": "MESSAGE_RECEIVED",
+          "com.samsung.android.messaging_123_is_clearable": true,
+          "com.samsung.android.messaging_123_is_ongoing": false,
+          "com.samsung.android.messaging_123_post_time": 1676994602879,
+          "com.shopping.limeroad_5_category": "null",
+          "com.shopping.limeroad_5_channel_id": "Others_Others_fb",
+          "com.shopping.limeroad_5_group_id": "null",
+          "com.shopping.limeroad_5_is_clearable": true,
+          "com.shopping.limeroad_5_is_ongoing": false,
+          "com.shopping.limeroad_5_post_time": 1676995208264,
           "com.tv.v18.viola_64554099_category": "null",
           "com.tv.v18.viola_64554099_channel_id": "DefaultChannelID",
           "com.tv.v18.viola_64554099_group_id": "null",
@@ -1237,6 +1366,19 @@
           "com.tv.v18.viola_74534672_is_clearable": true,
           "com.tv.v18.viola_74534672_is_ongoing": false,
           "com.tv.v18.viola_74534672_post_time": 1676990687019,
+          "com.whatsapp_1_category": "null",
+          "com.whatsapp_1_channel_id": "group_chat_defaults_2",
+          "com.whatsapp_1_group_id": "group_key_messages",
+          "com.whatsapp_1_is_clearable": true,
+          "com.whatsapp_1_is_ongoing": false,
+          "com.whatsapp_1_post_time": 1676994825656,
+          "com.zivame.consumer_17987_category": "null",
+          "com.zivame.consumer_17987_channel_id": "moe_rich_content",
+          "com.zivame.consumer_17987_group_id": "null",
+          "com.zivame.consumer_17987_is_clearable": true,
+          "com.zivame.consumer_17987_is_ongoing": false,
+          "com.zivame.consumer_17987_post_time": 1676993025087,
+          "dismissalId_com.samsung.android.messaging_123": "255",
           "interaction_screen_bundle_extra_com.google.android.youtube_99": "Bundle[{}]",
           "io.homeassistant.companion.android_1950861402_category": "null",
           "io.homeassistant.companion.android_1950861402_channel_id": "general",
@@ -1268,6 +1410,7 @@
           "io.homeassistant.companion.android_2147483647_is_clearable": true,
           "io.homeassistant.companion.android_2147483647_is_ongoing": false,
           "io.homeassistant.companion.android_2147483647_post_time": 1676989154933,
+          "last_row_id_com.whatsapp_1": 270363,
           "logging_directive_com.google.android.youtube_99": [
             10,
             96,
@@ -1386,19 +1529,19 @@
           "icon": "mdi:bell-ring",
           "friendly_name": "SM-M317F Active Notification Count"
         },
-        "last_changed": "2023-02-21T15:16:02.901072+00:00",
-        "last_updated": "2023-02-21T15:16:02.901072+00:00",
+        "last_changed": "2023-02-21T16:08:21.714731+00:00",
+        "last_updated": "2023-02-21T16:08:21.714731+00:00",
         "context": {
-          "id": "01GST8QHPN6MWTPXSGHPZ8QXSR",
+          "id": "01GSTBQAYJ08SC86FDAXDBM2VM",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 34,
+        "native_value": 48,
         "native_unit_of_measurement": "notifications"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1420,7 +1563,7 @@
         "native_value": "idle",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1444,7 +1587,7 @@
         "native_value": "1324",
         "native_unit_of_measurement": "steps"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1470,27 +1613,27 @@
         "native_value": 45,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "binary_sensor.sm_m317f_is_charging",
-        "state": "off",
+        "state": "on",
         "attributes": {
           "device_class": "plug",
-          "icon": "mdi:power-plug-off",
+          "icon": "mdi:power-plug",
           "friendly_name": "SM-M317F Is Charging"
         },
-        "last_changed": "2023-02-21T15:15:11.517021+00:00",
-        "last_updated": "2023-02-21T15:15:11.517021+00:00",
+        "last_changed": "2023-02-21T15:50:36.100950+00:00",
+        "last_updated": "2023-02-21T15:50:36.100950+00:00",
         "context": {
-          "id": "01GST8NZGX055JNY80SQYBY3RK",
+          "id": "01GSTAPTA4XV95M1VKRTEZS717",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1498,25 +1641,25 @@
         "state": "home",
         "attributes": {
           "source_type": "gps",
-          "latitude": 19.1506277,
-          "longitude": 72.9435919,
-          "gps_accuracy": 14,
+          "latitude": 19.1506275,
+          "longitude": 72.9435871,
+          "gps_accuracy": 12,
           "altitude": -54,
           "course": 0,
           "speed": 0,
           "vertical_accuracy": 1,
           "friendly_name": "Monika"
         },
-        "last_changed": "2023-02-21T15:16:06.321393+00:00",
-        "last_updated": "2023-02-21T15:16:06.321393+00:00",
+        "last_changed": "2023-02-21T16:07:37.895886+00:00",
+        "last_updated": "2023-02-21T16:07:37.895886+00:00",
         "context": {
-          "id": "01GST8QN1HCGPQDZW384WWE6JV",
+          "id": "01GSTBP057DWKMARYG5R12RJ8J",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1544,53 +1687,53 @@
         "native_value": "still",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_battery_level",
-        "state": "94",
+        "state": "100",
         "attributes": {
           "unit_of_measurement": "%",
           "device_class": "battery",
-          "icon": "mdi:battery-charging-90",
+          "icon": "mdi:battery-charging",
           "friendly_name": "RMX1801 Battery Level"
         },
-        "last_changed": "2023-02-21T15:27:17.991406+00:00",
-        "last_updated": "2023-02-21T15:27:17.991406+00:00",
+        "last_changed": "2023-02-21T15:49:56.666303+00:00",
+        "last_updated": "2023-02-21T15:49:56.666303+00:00",
         "context": {
-          "id": "01GST9C4Z7X913R9DP6FHZGGV4",
+          "id": "01GSTANKSTXYESZZ5B9ETQ4SPE",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 94,
+        "native_value": 100,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_battery_state",
-        "state": "charging",
+        "state": "full",
         "attributes": {
-          "icon": "mdi:battery-plus",
+          "icon": "mdi:battery-charging",
           "friendly_name": "RMX1801 Battery State"
         },
-        "last_changed": "2023-02-21T15:15:11.525998+00:00",
-        "last_updated": "2023-02-21T15:15:11.525998+00:00",
+        "last_changed": "2023-02-21T15:49:56.670534+00:00",
+        "last_updated": "2023-02-21T15:49:56.670534+00:00",
         "context": {
-          "id": "01GST8NZH53CHXNYGMG9HBYZZE",
+          "id": "01GSTANKSY2XY333D7VPKR07Q6",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "charging",
+        "native_value": "full",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1612,7 +1755,7 @@
         "native_value": "ac",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1634,7 +1777,7 @@
         "native_value": "good",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1646,10 +1789,10 @@
           "icon": "mdi:battery",
           "friendly_name": "RMX1801 Battery Temperature"
         },
-        "last_changed": "2023-02-21T15:27:17.994360+00:00",
-        "last_updated": "2023-02-21T15:27:17.994360+00:00",
+        "last_changed": "2023-02-21T16:15:02.646395+00:00",
+        "last_updated": "2023-02-21T16:15:02.646395+00:00",
         "context": {
-          "id": "01GST9C4ZAQZ059V095TNHEDEG",
+          "id": "01GSTC3JFP2WEY71M3RA8YMZAP",
           "parent_id": null,
           "user_id": null
         }
@@ -1658,24 +1801,24 @@
         "native_value": 33.0,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_battery_power",
         "state": "0.0",
         "attributes": {
-          "current": -0.000272,
-          "voltage": 4.372,
+          "current": 3e-6,
+          "voltage": 4.273,
           "unit_of_measurement": "W",
           "device_class": "power",
-          "icon": "mdi:battery-minus",
+          "icon": "mdi:battery-plus",
           "friendly_name": "RMX1801 Battery Power"
         },
         "last_changed": "2023-02-21T15:15:11.533245+00:00",
-        "last_updated": "2023-02-21T15:29:24.663204+00:00",
+        "last_updated": "2023-02-21T16:15:44.889088+00:00",
         "context": {
-          "id": "01GST9G0NQ9DHKE3796WY61H0V",
+          "id": "01GSTC4VQSK9VVW3PX7G9Z0X2R",
           "parent_id": null,
           "user_id": null
         }
@@ -1684,7 +1827,7 @@
         "native_value": 0.0,
         "native_unit_of_measurement": "W"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1723,7 +1866,7 @@
         "native_value": "WING-F, Veer Savarkar Rd, Rajdeep Nagar, Vasant Nagar, Bhandup West, Mumbai, Maharashtra 400078, India",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1745,22 +1888,21 @@
         "native_value": "192.168.1.55",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_wifi_link_speed",
         "state": "433",
         "attributes": {
-          "state_class": "measurement",
           "unit_of_measurement": "Mbps",
-          "icon": "mdi:wifi-strength-2",
+          "icon": "mdi:wifi-strength-3",
           "friendly_name": "RMX1801 WiFi Link Speed"
         },
         "last_changed": "2023-02-21T15:15:11.538519+00:00",
-        "last_updated": "2023-02-21T15:15:11.538519+00:00",
+        "last_updated": "2023-02-21T16:15:44.904869+00:00",
         "context": {
-          "id": "01GST8NZHJ9QFHXGZ5EYWG11J3",
+          "id": "01GSTC4VR8XH2V1CATRVTES50S",
           "parent_id": null,
           "user_id": null
         }
@@ -1769,7 +1911,7 @@
         "native_value": 433,
         "native_unit_of_measurement": "Mbps"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1792,7 +1934,7 @@
         "native_value": "wifi",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -1815,17 +1957,19 @@
         "native_value": "unavailable",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_last_notification",
-        "state": "गुरु",
+        "state": "https://youtu.be/PG60rnyFZJI",
         "attributes": {
-          "android.appInfo": "ApplicationInfo{bdd3b66 com.google.android.youtube}",
+          "android.appInfo": "ApplicationInfo{2b81414 com.whatsapp}",
           "android.infoText": "null",
-          "android.largeIcon": "Icon(typ=BITMAP size=99x99)",
-          "android.picture": "android.graphics.Bitmap@c2f8ea7",
+          "android.largeIcon": "null",
+          "android.people.list": [
+            "android.app.Person@ebada3f9"
+          ],
           "android.progress": 0,
           "android.progressIndeterminate": false,
           "android.progressMax": 0,
@@ -1834,20 +1978,220 @@
           "android.showChronometer": false,
           "android.showWhen": true,
           "android.subText": "null",
-          "android.summaryText": "गुरु",
-          "android.support.v4.app.extra.COMPAT_TEMPLATE": "androidx.core.app.NotificationCompat$BigPictureStyle",
-          "android.template": "android.app.Notification$BigPictureStyle",
-          "android.text": "गुरु",
-          "android.title": "MAHENDRA AWADHPURI",
-          "android.title.big": "MAHENDRA AWADHPURI",
-          "category": "null",
-          "channel_id": "1",
-          "client_id": "a08483a6-c883-4813-9c12-6897950799a0",
-          "group_id": "",
-          "interaction_screen_bundle_extra": "Bundle[{}]",
+          "android.text": "https://youtu.be/PG60rnyFZJI",
+          "android.title": "Cable Mama",
+          "category": "msg",
+          "channel_id": "silent_notifications_3",
+          "group_id": "group_key_messages",
           "is_clearable": true,
           "is_ongoing": false,
-          "logging_directive": [
+          "package": "com.whatsapp",
+          "post_time": 1676996143337,
+          "icon": "mdi:bell-ring",
+          "friendly_name": "RMX1801 Last Notification"
+        },
+        "last_changed": "2023-02-21T16:15:44.908406+00:00",
+        "last_updated": "2023-02-21T16:15:44.908406+00:00",
+        "context": {
+          "id": "01GSTC4VRC8TZXZ2T94Z1ZHVFT",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "https://youtu.be/PG60rnyFZJI",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.rmx1801_last_removed_notification",
+        "state": "",
+        "attributes": {
+          "icon": "mdi:bell-ring",
+          "friendly_name": "RMX1801 Last Removed Notification"
+        },
+        "last_changed": "2023-02-21T15:15:11.546465+00:00",
+        "last_updated": "2023-02-21T15:15:11.546465+00:00",
+        "context": {
+          "id": "01GST8NZHT4A4PM20PBWVSKNFV",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": {
+        "native_value": "",
+        "native_unit_of_measurement": null
+      },
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "sensor.rmx1801_active_notification_count",
+        "state": "13",
+        "attributes": {
+          "android.appInfo_com.android.systemui_10006": "ApplicationInfo{3f9ee67 com.android.systemui}",
+          "android.appInfo_com.google.android.apps.fitness_2131427672": "ApplicationInfo{73bc968 com.google.android.apps.fitness}",
+          "android.appInfo_com.google.android.googlequicksearchbox_0": "ApplicationInfo{65a4226 com.google.android.googlequicksearchbox}",
+          "android.appInfo_com.google.android.youtube_99": "ApplicationInfo{1f8da5a com.google.android.youtube}",
+          "android.appInfo_com.instagram.android_64278": "ApplicationInfo{a42a181 com.instagram.android}",
+          "android.appInfo_com.jpl.jiomart_992375365": "ApplicationInfo{531117c com.jpl.jiomart}",
+          "android.appInfo_com.whatsapp_1": "ApplicationInfo{896ad02 com.whatsapp}",
+          "android.bigText_com.google.android.googlequicksearchbox_0": "34° / 21° · See full forecast",
+          "android.bigText_com.instagram.android_64278": "Follow swara_j_koli, uday kapshikar and others you know to see their photos and videos.",
+          "android.colorized_com.google.android.apps.fitness_2131427672": true,
+          "android.colorized_com.jpl.jiomart_992375365": true,
+          "android.hiddenConversationTitle_com.whatsapp_1": "null",
+          "android.infoText_com.google.android.apps.fitness_2131427672": "null",
+          "android.infoText_com.google.android.googlequicksearchbox_0": "null",
+          "android.infoText_com.google.android.youtube_99": "null",
+          "android.infoText_com.instagram.android_64278": "null",
+          "android.infoText_com.jpl.jiomart_992375365": "null",
+          "android.infoText_com.whatsapp_1": "null",
+          "android.isGroupConversation_com.whatsapp_1": false,
+          "android.largeIcon_com.google.android.apps.fitness_2131427672": "Icon(typ=BITMAP size=99x99)",
+          "android.largeIcon_com.google.android.googlequicksearchbox_0": "Icon(typ=BITMAP size=99x99)",
+          "android.largeIcon_com.google.android.youtube_99": "Icon(typ=BITMAP size=99x99)",
+          "android.largeIcon_com.instagram.android_64278": "Icon(typ=BITMAP size=99x99)",
+          "android.largeIcon_com.jpl.jiomart_992375365": "Icon(typ=BITMAP size=99x99)",
+          "android.largeIcon_com.whatsapp_1": "Icon(typ=BITMAP size=99x99)",
+          "android.messages_com.whatsapp_1": [
+            "{extras={}, sender_person=android.app.Person@3766ab01, sender=Cable Mama, text=https://youtu.be/PG60rnyFZJI, time=1676994305000}"
+          ],
+          "android.messagingStyleUser_com.whatsapp_1": "{key=null, uri=null, icon={string1=null, obj=android.graphics.Bitmap@d004050, int1=0, int2=0, type=1}, name=You, isBot=false, isImportant=false}",
+          "android.messagingUser_com.whatsapp_1": "android.app.Person@e8f9c70b",
+          "android.people.list_com.whatsapp_1": [
+            "android.app.Person@ebada3f9"
+          ],
+          "android.picture_com.google.android.youtube_99": "android.graphics.Bitmap@518948b",
+          "android.picture_com.jpl.jiomart_992375365": "android.graphics.Bitmap@b206a05",
+          "android.progressIndeterminate_com.google.android.apps.fitness_2131427672": false,
+          "android.progressIndeterminate_com.google.android.googlequicksearchbox_0": false,
+          "android.progressIndeterminate_com.google.android.youtube_99": false,
+          "android.progressIndeterminate_com.instagram.android_64278": false,
+          "android.progressIndeterminate_com.jpl.jiomart_992375365": false,
+          "android.progressIndeterminate_com.whatsapp_1": false,
+          "android.progressMax_com.google.android.apps.fitness_2131427672": 0,
+          "android.progressMax_com.google.android.googlequicksearchbox_0": 0,
+          "android.progressMax_com.google.android.youtube_99": 0,
+          "android.progressMax_com.instagram.android_64278": 0,
+          "android.progressMax_com.jpl.jiomart_992375365": 0,
+          "android.progressMax_com.whatsapp_1": 0,
+          "android.progress_com.google.android.apps.fitness_2131427672": 0,
+          "android.progress_com.google.android.googlequicksearchbox_0": 0,
+          "android.progress_com.google.android.youtube_99": 0,
+          "android.progress_com.instagram.android_64278": 0,
+          "android.progress_com.jpl.jiomart_992375365": 0,
+          "android.progress_com.whatsapp_1": 0,
+          "android.reduced.images_com.android.systemui_10006": true,
+          "android.reduced.images_com.google.android.apps.fitness_2131427672": true,
+          "android.reduced.images_com.google.android.googlequicksearchbox_0": true,
+          "android.reduced.images_com.google.android.youtube_99": true,
+          "android.reduced.images_com.instagram.android_64278": true,
+          "android.reduced.images_com.jpl.jiomart_992375365": true,
+          "android.reduced.images_com.whatsapp_1": true,
+          "android.remoteInputHistory_com.google.android.apps.fitness_2131427672": "null",
+          "android.remoteInputHistory_com.google.android.googlequicksearchbox_0": "null",
+          "android.remoteInputHistory_com.google.android.youtube_99": "null",
+          "android.remoteInputHistory_com.instagram.android_64278": "null",
+          "android.remoteInputHistory_com.jpl.jiomart_992375365": "null",
+          "android.remoteInputHistory_com.whatsapp_1": "null",
+          "android.selfDisplayName_com.whatsapp_1": "You",
+          "android.showChronometer_com.google.android.apps.fitness_2131427672": false,
+          "android.showChronometer_com.google.android.googlequicksearchbox_0": false,
+          "android.showChronometer_com.google.android.youtube_99": false,
+          "android.showChronometer_com.instagram.android_64278": false,
+          "android.showChronometer_com.jpl.jiomart_992375365": false,
+          "android.showChronometer_com.whatsapp_1": false,
+          "android.showWhen_com.android.systemui_10006": true,
+          "android.showWhen_com.google.android.apps.fitness_2131427672": true,
+          "android.showWhen_com.google.android.googlequicksearchbox_0": true,
+          "android.showWhen_com.google.android.youtube_99": true,
+          "android.showWhen_com.instagram.android_64278": true,
+          "android.showWhen_com.jpl.jiomart_992375365": true,
+          "android.showWhen_com.whatsapp_1": true,
+          "android.subText_com.google.android.apps.fitness_2131427672": "null",
+          "android.subText_com.google.android.googlequicksearchbox_0": "null",
+          "android.subText_com.google.android.youtube_99": "null",
+          "android.subText_com.instagram.android_64278": "null",
+          "android.subText_com.jpl.jiomart_992375365": "null",
+          "android.subText_com.whatsapp_1": "null",
+          "android.summaryText_com.google.android.youtube_99": "गुरु",
+          "android.summaryText_com.jpl.jiomart_992375365": "Up To 75% Off on Kitchen & Home Appliances! Shop Now!",
+          "android.support.v4.app.extra.COMPAT_TEMPLATE_com.google.android.googlequicksearchbox_0": "androidx.core.app.NotificationCompat$BigTextStyle",
+          "android.support.v4.app.extra.COMPAT_TEMPLATE_com.google.android.youtube_99": "androidx.core.app.NotificationCompat$BigPictureStyle",
+          "android.template_com.google.android.googlequicksearchbox_0": "android.app.Notification$BigTextStyle",
+          "android.template_com.google.android.youtube_99": "android.app.Notification$BigPictureStyle",
+          "android.template_com.instagram.android_64278": "android.app.Notification$BigTextStyle",
+          "android.template_com.jpl.jiomart_992375365": "android.app.Notification$BigPictureStyle",
+          "android.template_com.whatsapp_1": "android.app.Notification$MessagingStyle",
+          "android.text_com.android.systemui_10006": "The battery is full",
+          "android.text_com.google.android.apps.fitness_2131427672": "That's 15 min of fast-paced activity today",
+          "android.text_com.google.android.googlequicksearchbox_0": "34° / 21° · See full forecast",
+          "android.text_com.google.android.youtube_99": "गुरु",
+          "android.text_com.instagram.android_64278": "Follow swara_j_koli, uday kapshikar and others you know to see their photos and videos.",
+          "android.text_com.jpl.jiomart_992375365": "Up To 75% Off on Kitchen & Home Appliances! Shop Now!",
+          "android.text_com.whatsapp_1": "https://youtu.be/PG60rnyFZJI",
+          "android.title.big_com.google.android.googlequicksearchbox_0": "Tomorrow in Mumbai: Mostly sunny",
+          "android.title.big_com.google.android.youtube_99": "MAHENDRA AWADHPURI",
+          "android.title_com.android.systemui_10006": "Charging Complete",
+          "android.title_com.google.android.apps.fitness_2131427672": "You've hit your daily goal!",
+          "android.title_com.google.android.googlequicksearchbox_0": "Tomorrow in Mumbai: Mostly sunny",
+          "android.title_com.google.android.youtube_99": "MAHENDRA AWADHPURI",
+          "android.title_com.instagram.android_64278": "Instagram",
+          "android.title_com.jpl.jiomart_992375365": "Never Seen Before Prices!",
+          "android.title_com.whatsapp_1": "Cable Mama",
+          "android.wearable.EXTENSIONS_com.whatsapp_1": "{actions=[android.app.Notification$Action@246974e, android.app.Notification$Action@e7c606f]}",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.instagram.android_64278": "androidx.core.app.NotificationCompat$BigTextStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.jpl.jiomart_992375365": "androidx.core.app.NotificationCompat$BigPictureStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.whatsapp_1": "androidx.core.app.NotificationCompat$MessagingStyle",
+          "client_id_com.google.android.youtube_99": "a08483a6-c883-4813-9c12-6897950799a0",
+          "com.android.systemui_10006_category": "sys",
+          "com.android.systemui_10006_channel_id": "GEN",
+          "com.android.systemui_10006_group_id": "null",
+          "com.android.systemui_10006_is_clearable": true,
+          "com.android.systemui_10006_is_ongoing": false,
+          "com.android.systemui_10006_post_time": 1676994593823,
+          "com.google.android.apps.fitness_2131427672_category": "null",
+          "com.google.android.apps.fitness_2131427672_channel_id": "GOALS_COMPLETED_ID",
+          "com.google.android.apps.fitness_2131427672_group_id": "null",
+          "com.google.android.apps.fitness_2131427672_is_clearable": true,
+          "com.google.android.apps.fitness_2131427672_is_ongoing": false,
+          "com.google.android.apps.fitness_2131427672_post_time": 1676993568305,
+          "com.google.android.googlequicksearchbox_0_category": "null",
+          "com.google.android.googlequicksearchbox_0_channel_id": "65",
+          "com.google.android.googlequicksearchbox_0_group_id": "97705835::SUMMARY::wx",
+          "com.google.android.googlequicksearchbox_0_is_clearable": true,
+          "com.google.android.googlequicksearchbox_0_is_ongoing": false,
+          "com.google.android.googlequicksearchbox_0_post_time": 1676993968933,
+          "com.google.android.youtube_99_category": "null",
+          "com.google.android.youtube_99_channel_id": "1",
+          "com.google.android.youtube_99_group_id": "",
+          "com.google.android.youtube_99_is_clearable": true,
+          "com.google.android.youtube_99_is_ongoing": false,
+          "com.google.android.youtube_99_post_time": 1676992844277,
+          "com.instagram.android_64278_category": "null",
+          "com.instagram.android_64278_channel_id": "ig_reminders",
+          "com.instagram.android_64278_group_id": "51516751887",
+          "com.instagram.android_64278_is_clearable": true,
+          "com.instagram.android_64278_is_ongoing": false,
+          "com.instagram.android_64278_post_time": 1676992207722,
+          "com.jpl.jiomart_992375365_category": "null",
+          "com.jpl.jiomart_992375365_channel_id": "com.jpl.jiomart",
+          "com.jpl.jiomart_992375365_group_id": "null",
+          "com.jpl.jiomart_992375365_is_clearable": true,
+          "com.jpl.jiomart_992375365_is_ongoing": false,
+          "com.jpl.jiomart_992375365_post_time": 1676992377739,
+          "com.whatsapp_1_category": "null",
+          "com.whatsapp_1_channel_id": "individual_chat_defaults_1",
+          "com.whatsapp_1_group_id": "group_key_messages",
+          "com.whatsapp_1_is_clearable": true,
+          "com.whatsapp_1_is_ongoing": false,
+          "com.whatsapp_1_post_time": 1676994311966,
+          "interaction_screen_bundle_extra_com.google.android.youtube_99": "Bundle[{}]",
+          "last_row_id_com.whatsapp_1": 131586,
+          "logging_directive_com.google.android.youtube_99": [
             10,
             95,
             8,
@@ -1954,284 +2298,23 @@
             8,
             0
           ],
-          "package": "com.google.android.youtube",
-          "post_time": 1676992844277,
-          "icon": "mdi:bell-ring",
-          "friendly_name": "RMX1801 Last Notification"
-        },
-        "last_changed": "2023-02-21T15:20:47.187835+00:00",
-        "last_updated": "2023-02-21T15:20:47.187835+00:00",
-        "context": {
-          "id": "01GST907AKT8T7ZTNJX85YWQJT",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "गुरु",
-        "native_unit_of_measurement": null
-      },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.rmx1801_last_removed_notification",
-        "state": "",
-        "attributes": {
-          "icon": "mdi:bell-ring",
-          "friendly_name": "RMX1801 Last Removed Notification"
-        },
-        "last_changed": "2023-02-21T15:15:11.546465+00:00",
-        "last_updated": "2023-02-21T15:15:11.546465+00:00",
-        "context": {
-          "id": "01GST8NZHT4A4PM20PBWVSKNFV",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": {
-        "native_value": "",
-        "native_unit_of_measurement": null
-      },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "sensor.rmx1801_active_notification_count",
-        "state": "9",
-        "attributes": {
-          "android.appInfo_com.google.android.youtube_99": "ApplicationInfo{f62a42 com.google.android.youtube}",
-          "android.appInfo_com.instagram.android_64278": "ApplicationInfo{31f90 com.instagram.android}",
-          "android.appInfo_com.jpl.jiomart_992375365": "ApplicationInfo{f4bd524 com.jpl.jiomart}",
-          "android.appInfo_com.whatsapp_1": "ApplicationInfo{e528089 com.whatsapp}",
-          "android.bigText_com.instagram.android_64278": "Follow swara_j_koli, uday kapshikar and others you know to see their photos and videos.",
-          "android.colorized_com.jpl.jiomart_992375365": true,
-          "android.conversationTitle_com.whatsapp_1": "NM i3 Ops Team",
-          "android.hiddenConversationTitle_com.whatsapp_1": "NM i3 Ops Team",
-          "android.infoText_com.google.android.youtube_99": "null",
-          "android.infoText_com.instagram.android_64278": "null",
-          "android.infoText_com.jpl.jiomart_992375365": "null",
-          "android.infoText_com.whatsapp_1": "null",
-          "android.isGroupConversation_com.whatsapp_1": true,
-          "android.largeIcon_com.google.android.youtube_99": "Icon(typ=BITMAP size=99x99)",
-          "android.largeIcon_com.instagram.android_64278": "Icon(typ=BITMAP size=99x99)",
-          "android.largeIcon_com.jpl.jiomart_992375365": "Icon(typ=BITMAP size=99x99)",
-          "android.largeIcon_com.whatsapp_1": "Icon(typ=BITMAP size=99x99)",
-          "android.messages_com.whatsapp_1": [
-            "{extras={}, sender_person=android.app.Person@60f10981, sender=Netmagic Nilesh Naik, text=Ok, time=1676991445000}"
-          ],
-          "android.messagingStyleUser_com.whatsapp_1": "{key=null, uri=null, icon={string1=null, obj=android.graphics.Bitmap@db738af, int1=0, int2=0, type=1}, name=You, isBot=false, isImportant=false}",
-          "android.messagingUser_com.whatsapp_1": "android.app.Person@fab407fe",
-          "android.people.list_com.whatsapp_1": [
-            "android.app.Person@3f5286af"
-          ],
-          "android.picture_com.google.android.youtube_99": "android.graphics.Bitmap@abc4a53",
-          "android.picture_com.jpl.jiomart_992375365": "android.graphics.Bitmap@c12e88d",
-          "android.progressIndeterminate_com.google.android.youtube_99": false,
-          "android.progressIndeterminate_com.instagram.android_64278": false,
-          "android.progressIndeterminate_com.jpl.jiomart_992375365": false,
-          "android.progressIndeterminate_com.whatsapp_1": false,
-          "android.progressMax_com.google.android.youtube_99": 0,
-          "android.progressMax_com.instagram.android_64278": 0,
-          "android.progressMax_com.jpl.jiomart_992375365": 0,
-          "android.progressMax_com.whatsapp_1": 0,
-          "android.progress_com.google.android.youtube_99": 0,
-          "android.progress_com.instagram.android_64278": 0,
-          "android.progress_com.jpl.jiomart_992375365": 0,
-          "android.progress_com.whatsapp_1": 0,
-          "android.reduced.images_com.google.android.youtube_99": true,
-          "android.reduced.images_com.instagram.android_64278": true,
-          "android.reduced.images_com.jpl.jiomart_992375365": true,
-          "android.reduced.images_com.whatsapp_1": true,
-          "android.remoteInputHistory_com.google.android.youtube_99": "null",
-          "android.remoteInputHistory_com.instagram.android_64278": "null",
-          "android.remoteInputHistory_com.jpl.jiomart_992375365": "null",
-          "android.remoteInputHistory_com.whatsapp_1": "null",
-          "android.selfDisplayName_com.whatsapp_1": "You",
-          "android.showChronometer_com.google.android.youtube_99": false,
-          "android.showChronometer_com.instagram.android_64278": false,
-          "android.showChronometer_com.jpl.jiomart_992375365": false,
-          "android.showChronometer_com.whatsapp_1": false,
-          "android.showWhen_com.google.android.youtube_99": true,
-          "android.showWhen_com.instagram.android_64278": true,
-          "android.showWhen_com.jpl.jiomart_992375365": true,
-          "android.showWhen_com.whatsapp_1": true,
-          "android.subText_com.google.android.youtube_99": "null",
-          "android.subText_com.instagram.android_64278": "null",
-          "android.subText_com.jpl.jiomart_992375365": "null",
-          "android.subText_com.whatsapp_1": "null",
-          "android.summaryText_com.google.android.youtube_99": "Panasonic Lumix S5 II Review - impressive AutoFocus!",
-          "android.summaryText_com.jpl.jiomart_992375365": "Up To 75% Off on Kitchen & Home Appliances! Shop Now!",
-          "android.support.v4.app.extra.COMPAT_TEMPLATE_com.google.android.youtube_99": "androidx.core.app.NotificationCompat$BigPictureStyle",
-          "android.template_com.google.android.youtube_99": "android.app.Notification$BigPictureStyle",
-          "android.template_com.instagram.android_64278": "android.app.Notification$BigTextStyle",
-          "android.template_com.jpl.jiomart_992375365": "android.app.Notification$BigPictureStyle",
-          "android.template_com.whatsapp_1": "android.app.Notification$MessagingStyle",
-          "android.text_com.google.android.youtube_99": "Panasonic Lumix S5 II Review - impressive AutoFocus!",
-          "android.text_com.instagram.android_64278": "Follow swara_j_koli, uday kapshikar and others you know to see their photos and videos.",
-          "android.text_com.jpl.jiomart_992375365": "Up To 75% Off on Kitchen & Home Appliances! Shop Now!",
-          "android.text_com.whatsapp_1": "Ok",
-          "android.title.big_com.google.android.youtube_99": "Gogi Tech",
-          "android.title_com.google.android.youtube_99": "Gogi Tech",
-          "android.title_com.instagram.android_64278": "Instagram",
-          "android.title_com.jpl.jiomart_992375365": "Never Seen Before Prices!",
-          "android.title_com.whatsapp_1": "NM i3 Ops Team: Netmagic Nilesh Naik",
-          "android.wearable.EXTENSIONS_com.whatsapp_1": "{actions=[android.app.Notification$Action@8d99c45, android.app.Notification$Action@4a2bf9a]}",
-          "androidx.core.app.extra.COMPAT_TEMPLATE_com.instagram.android_64278": "androidx.core.app.NotificationCompat$BigTextStyle",
-          "androidx.core.app.extra.COMPAT_TEMPLATE_com.jpl.jiomart_992375365": "androidx.core.app.NotificationCompat$BigPictureStyle",
-          "androidx.core.app.extra.COMPAT_TEMPLATE_com.whatsapp_1": "androidx.core.app.NotificationCompat$MessagingStyle",
-          "client_id_com.google.android.youtube_99": "bbccf16e-cbc9-42b5-99af-b4c358ce60a9",
-          "com.google.android.youtube_99_category": "null",
-          "com.google.android.youtube_99_channel_id": "1",
-          "com.google.android.youtube_99_group_id": "",
-          "com.google.android.youtube_99_is_clearable": true,
-          "com.google.android.youtube_99_is_ongoing": false,
-          "com.google.android.youtube_99_post_time": 1676990729708,
-          "com.instagram.android_64278_category": "null",
-          "com.instagram.android_64278_channel_id": "ig_reminders",
-          "com.instagram.android_64278_group_id": "51516751887",
-          "com.instagram.android_64278_is_clearable": true,
-          "com.instagram.android_64278_is_ongoing": false,
-          "com.instagram.android_64278_post_time": 1676992207722,
-          "com.jpl.jiomart_992375365_category": "null",
-          "com.jpl.jiomart_992375365_channel_id": "com.jpl.jiomart",
-          "com.jpl.jiomart_992375365_group_id": "null",
-          "com.jpl.jiomart_992375365_is_clearable": true,
-          "com.jpl.jiomart_992375365_is_ongoing": false,
-          "com.jpl.jiomart_992375365_post_time": 1676992377739,
-          "com.whatsapp_1_category": "null",
-          "com.whatsapp_1_channel_id": "silent_notifications_3",
-          "com.whatsapp_1_group_id": "group_key_messages",
-          "com.whatsapp_1_is_clearable": true,
-          "com.whatsapp_1_is_ongoing": false,
-          "com.whatsapp_1_post_time": 1676992062781,
-          "interaction_screen_bundle_extra_com.google.android.youtube_99": "Bundle[{}]",
-          "last_row_id_com.whatsapp_1": 131584,
-          "logging_directive_com.google.android.youtube_99": [
-            10,
-            96,
-            8,
-            0,
-            16,
-            -50,
-            97,
-            34,
-            19,
-            8,
-            -27,
-            -88,
-            -20,
-            -93,
-            -19,
-            -90,
-            -3,
-            2,
-            21,
-            19,
-            -119,
-            75,
-            8,
-            29,
-            23,
-            83,
-            1,
-            -26,
-            -110,
-            1,
-            24,
-            85,
-            67,
-            105,
-            120,
-            55,
-            72,
-            73,
-            74,
-            55,
-            52,
-            102,
-            85,
-            68,
-            108,
-            72,
-            68,
-            107,
-            65,
-            65,
-            99,
-            121,
-            82,
-            80,
-            65,
-            -78,
-            1,
-            40,
-            10,
-            22,
-            76,
-            75,
-            121,
-            108,
-            56,
-            88,
-            71,
-            49,
-            89,
-            56,
-            48,
-            102,
-            75,
-            77,
-            69,
-            117,
-            116,
-            115,
-            112,
-            84,
-            76,
-            65,
-            16,
-            6,
-            26,
-            12,
-            8,
-            -123,
-            -78,
-            -45,
-            -97,
-            6,
-            16,
-            -112,
-            -56,
-            -112,
-            -94,
-            1,
-            34,
-            2,
-            8,
-            12,
-            42,
-            2,
-            8,
-            0
-          ],
           "unit_of_measurement": "notifications",
           "icon": "mdi:bell-ring",
           "friendly_name": "RMX1801 Active Notification Count"
         },
-        "last_changed": "2023-02-21T15:20:47.206725+00:00",
-        "last_updated": "2023-02-21T15:20:47.206725+00:00",
+        "last_changed": "2023-02-21T16:15:44.916105+00:00",
+        "last_updated": "2023-02-21T16:15:44.916105+00:00",
         "context": {
-          "id": "01GST907B6993JBT42AED5JNP8",
+          "id": "01GSTC4VRMJV8DW0DXY1GMKTT4",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 9,
+        "native_value": 13,
         "native_unit_of_measurement": "notifications"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2242,10 +2325,10 @@
           "icon": "mdi:play-circle",
           "friendly_name": "RMX1801 Media Session"
         },
-        "last_changed": "2023-02-21T15:15:11.550700+00:00",
-        "last_updated": "2023-02-21T15:15:11.550700+00:00",
+        "last_changed": "2023-02-21T16:13:25.644967+00:00",
+        "last_updated": "2023-02-21T16:13:25.644967+00:00",
         "context": {
-          "id": "01GST8NZHYSEXVJC0DCCRAQ39W",
+          "id": "01GSTC0KRC1C28FHEAQPCDDYP2",
           "parent_id": null,
           "user_id": null
         }
@@ -2254,7 +2337,7 @@
         "native_value": "Unavailable",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2278,7 +2361,7 @@
         "native_value": "32085",
         "native_unit_of_measurement": "steps"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2304,7 +2387,7 @@
         "native_value": 22,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2324,7 +2407,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2344,7 +2427,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2352,8 +2435,8 @@
         "state": "Home",
         "attributes": {
           "source_type": "gps",
-          "latitude": 19.1506422,
-          "longitude": 72.9435993,
+          "latitude": 19.1506324,
+          "longitude": 72.9435994,
           "gps_accuracy": 14,
           "altitude": -54,
           "course": 0,
@@ -2361,38 +2444,38 @@
           "vertical_accuracy": 1,
           "friendly_name": "Nilesh"
         },
-        "last_changed": "2023-02-21T15:18:56.918269+00:00",
-        "last_updated": "2023-02-21T15:18:56.918269+00:00",
+        "last_changed": "2023-02-21T16:15:35.792718+00:00",
+        "last_updated": "2023-02-21T16:15:35.792718+00:00",
         "context": {
-          "id": "01GST8WVMPJ8GJDA59A5GR2PK2",
+          "id": "01GSTC4JVGAM21KYF8S1MEPAF2",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "automation.gsmnotify",
         "state": "on",
         "attributes": {
-          "last_triggered": "2023-02-21T12:07:58.679196+00:00",
+          "last_triggered": "2023-02-21T15:49:56.725128+00:00",
           "mode": "single",
           "current": 0,
           "id": "1611409941296",
           "friendly_name": "gsmnotifybaterryfullnilesh"
         },
         "last_changed": "2023-02-21T15:15:15.249506+00:00",
-        "last_updated": "2023-02-21T15:15:15.249506+00:00",
+        "last_updated": "2023-02-21T15:50:01.302023+00:00",
         "context": {
-          "id": "01GST8P35HC71M160XGYW9VMBH",
-          "parent_id": null,
+          "id": "01GSTANKVHMEWTDVH172GRCAQW",
+          "parent_id": "01GSTANKSY2XY333D7VPKR07Q6",
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2414,7 +2497,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2436,7 +2519,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2458,7 +2541,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2480,7 +2563,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2502,7 +2585,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2525,7 +2608,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2547,7 +2630,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2569,7 +2652,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2591,7 +2674,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2613,7 +2696,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2635,7 +2718,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2657,7 +2740,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2679,7 +2762,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2701,7 +2784,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2723,7 +2806,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2745,29 +2828,29 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "automation.update_morning_commute_sensor",
         "state": "on",
         "attributes": {
-          "last_triggered": "2023-02-21T15:30:00.148634+00:00",
+          "last_triggered": "2023-02-21T16:15:00.148638+00:00",
           "mode": "single",
           "current": 0,
           "id": "1669355991949",
           "friendly_name": "Update morning commute sensor"
         },
         "last_changed": "2023-02-21T15:15:15.387959+00:00",
-        "last_updated": "2023-02-21T15:30:00.178828+00:00",
+        "last_updated": "2023-02-21T16:15:00.175753+00:00",
         "context": {
-          "id": "01GST9H3AGBSN1RRQ8G74BC4NK",
+          "id": "01GSTC3G1G4VAG9G09RFX3J23T",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2789,7 +2872,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2811,7 +2894,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2833,7 +2916,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2861,7 +2944,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2889,7 +2972,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2917,7 +3000,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2944,7 +3027,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2971,7 +3054,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -2998,7 +3081,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -3025,7 +3108,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -3052,7 +3135,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -3079,7 +3162,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -3106,7 +3189,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -3133,7 +3216,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -3160,7 +3243,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -3187,7 +3270,7 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
@@ -3214,47 +3297,55 @@
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:30:54.863425+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "button.wled_restart",
-        "state": "unavailable",
+        "state": "unknown",
         "attributes": {
           "device_class": "restart",
           "friendly_name": "WLED Restart"
         },
-        "last_changed": "2023-02-21T07:25:10.275642+00:00",
-        "last_updated": "2023-02-21T07:25:10.275642+00:00",
+        "last_changed": "2023-02-21T15:50:40.935916+00:00",
+        "last_updated": "2023-02-21T15:50:40.935916+00:00",
         "context": {
-          "id": "01GSSDSB8308W3NY65CM0YWH1P",
+          "id": "01GSTAPZ1793H3CMQ2RD486NZC",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:12:08.659055+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     },
     {
       "state": {
         "entity_id": "update.wled_firmware",
-        "state": "unavailable",
+        "state": "off",
         "attributes": {
+          "auto_update": false,
+          "installed_version": "0.14.0-b1",
+          "in_progress": false,
+          "latest_version": "0.14.0-b1",
+          "release_summary": null,
+          "release_url": "https://github.com/Aircoookie/WLED/releases/tag/v0.14.0-b1",
+          "skipped_version": null,
+          "title": "WLED",
           "device_class": "firmware",
           "entity_picture": "https://brands.home-assistant.io/_/wled/icon.png",
           "friendly_name": "WLED Firmware",
           "supported_features": 3
         },
-        "last_changed": "2023-02-21T07:25:10.276391+00:00",
-        "last_updated": "2023-02-21T07:25:10.276391+00:00",
+        "last_changed": "2023-02-21T16:15:47.478355+00:00",
+        "last_updated": "2023-02-21T16:15:47.478355+00:00",
         "context": {
-          "id": "01GSSDSB84WVC8FXQ2PMTMXFWQ",
+          "id": "01GSTC4Y8P9Z7GNKBWNYES45NX",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T15:12:08.659055+00:00"
+      "last_seen": "2023-02-21T16:15:54.914019+00:00"
     }
   ]
 }

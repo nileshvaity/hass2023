@@ -2,3 +2,13 @@ addons/data/a0d7b954_adguard/adguard/data/querylog.json.1
 backup/ff7aade7.tar
 tmp/tmpwpu7n9nd/homeassistant.tar.gz
 backup/4c09327f.tar
+addons/data/a0d7b954_adguard/adguard/data/stats.db
+addons/data/core_mosquitto/mosquitto.db
+homeassistant/.storage/auth
+homeassistant/.storage/core.restore_state
+homeassistant/.storage/google.560eb59a10346a565324ec6dc7b8deac
+homeassistant/feedreader.pickle
+homeassistant/home-assistant.log
+homeassistant/home-assistant_v2.db
+homeassistant/home-assistant_v2.db-shm
+homeassistant/home-assistant_v2.db-wal
