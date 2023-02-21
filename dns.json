@@ -1,0 +1,6 @@
+{
+  "servers": [],
+  "version": "2022.04.1",
+  "image": "ghcr.io/home-assistant/armv7-hassio-dns",
+  "fallback": true
+}

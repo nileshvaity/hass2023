@@ -1,0 +1,50 @@
+mqtt:
+  host: 192.168.1.5
+  user: nilesh
+  password: Nilesh@21
+
+detect:
+  width: 640
+  height: 360
+  fps: 5
+  enabled: True
+  max_disappeared: 25
+
+record:
+  enabled: True
+  retain_days: 0
+  events:
+    retain:
+      default: 30
+
+snapshots:
+  enabled: true
+  timestamp: false
+  bounding_box: true
+  retain:
+    default: 30
+
+cameras:
+  balcony:
+    ffmpeg:
+      inputs:
+        - path: rtsp://admin:RDWQWP@192.168.1.30/Channel1
+          roles:
+            - detect
+            - rtmp
+        - path: rtsp://admin:RDWQWP@192.168.1.30/Channel1
+          roles:
+            - record
+  frontdoor:
+    ffmpeg:
+      inputs:
+        - path: rtsp://admin:YEYUOY@192.168.1.29/Channel1
+          roles:
+            - detect
+            - rtmp
+        - path: rtsp://admin:YEYUOY@192.168.1.29/Channel1
+          roles:
+            - record
+    detect:
+      width: 1280
+      height: 720

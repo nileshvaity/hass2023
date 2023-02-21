@@ -1,0 +1,9 @@
+{
+  "servers": [],
+  "locals": [
+    "dns://8.8.4.4",
+    "dns://94.140.14.14"
+  ],
+  "fallback": true,
+  "debug": false
+}

@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "minor_version": 2,
+  "key": "repairs.issue_registry",
+  "data": {
+    "issues": [
+      {
+        "created": "2022-11-03T17:22:30.957023+00:00",
+        "dismissed_version": "2022.11.0",
+        "domain": "hassio",
+        "is_persistent": false,
+        "issue_id": "unsupported_system_systemd_journal"
+      },
+      {
+        "created": "2023-01-26T10:08:56.598744+00:00",
+        "dismissed_version": "2023.1.7",
+        "domain": "hassio",
+        "is_persistent": false,
+        "issue_id": "unsupported_system_os"
+      },
+      {
+        "created": "2023-01-26T10:09:03.298697+00:00",
+        "dismissed_version": "2023.1.7",
+        "domain": "hassio",
+        "is_persistent": false,
+        "issue_id": "unsupported_system_connectivity_check"
+      },
+      {
+        "created": "2023-02-06T03:17:42.818766+00:00",
+        "dismissed_version": "2023.2.2",
+        "domain": "hassio",
+        "is_persistent": false,
+        "issue_id": "unsupported_system_software"
+      }
+    ]
+  }
+}

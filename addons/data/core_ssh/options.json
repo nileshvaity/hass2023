@@ -1,0 +1,8 @@
+{
+  "authorized_keys": [],
+  "password": "",
+  "apks": [],
+  "server": {
+    "tcp_forwarding": true
+  }
+}

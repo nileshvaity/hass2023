@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "tag",
+  "data": {
+    "items": [
+      {
+        "tag_id": "29d0f610-c20e-43b5-b7ca-bfde2b0f261f",
+        "name": "Mytag",
+        "id": "29d0f610-c20e-43b5-b7ca-bfde2b0f261f"
+      }
+    ]
+  }
+}

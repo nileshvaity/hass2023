@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "minor_version": 3,
+  "key": "core.area_registry",
+  "data": {
+    "areas": [
+      {
+        "name": "Living Room",
+        "id": "living_room",
+        "picture": null,
+        "aliases": []
+      },
+      {
+        "name": "Kitchen",
+        "id": "kitchen",
+        "picture": null,
+        "aliases": []
+      },
+      {
+        "name": "Bedroom",
+        "id": "bedroom",
+        "picture": null,
+        "aliases": []
+      },
+      {
+        "name": "FrontDoor",
+        "id": "frontdoor",
+        "picture": "/api/image/serve/3c9a18746767e28f40750b847dcc43ae/512x512",
+        "aliases": []
+      }
+    ]
+  }
+}

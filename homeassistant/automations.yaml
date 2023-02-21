@@ -1,0 +1,474 @@
+- id: '1611409941296'
+  alias: gsmnotifybaterryfullnilesh
+  description: ''
+  trigger:
+  - platform: state
+    entity_id: sensor.rmx1801_battery_state
+    from: charging
+    to: full
+  condition: []
+  action:
+  - service: notify.sms
+    data:
+      message: Battery full on Nilesh's Mobile
+      title: Battery Full
+      target: 7977895543
+  mode: single
+- id: '1611411313060'
+  alias: Nilesh home Zone Notification
+  description: ''
+  use_blueprint:
+    path: TomHartogs/generic-zone-interaction.yaml
+    input:
+      person_entity: person.nilesh
+      zone_entity: zone.home_2
+      leaving_action:
+      - device_id: 48ea017e1dce68e59752badc057b069e
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D2Nilesh Left home\U0001F3E0\U0001F6AA"
+        title: Zone Alert
+      - service: notify.sms
+        data:
+          message: Nilesh Left home
+          title: Nilesh Left home
+          target: 7977895543
+      entering_action:
+      - device_id: 48ea017e1dce68e59752badc057b069e
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D2Nilesh reached Home\U0001F449\U0001F3E0"
+        title: Zone Alert
+      - service: notify.sms
+        data:
+          target: 7977895543
+          message: Nilesh reached Home
+          title: Nilesh reached Home
+- id: '1611469498220'
+  alias: gsmnotifybaterryfullmonika
+  description: ''
+  trigger:
+  - platform: state
+    entity_id: sensor.sm_m317f_battery_state
+    from: charging
+    to: full
+  condition: []
+  action:
+  - service: notify.sms
+    data:
+      message: Battery Full on Monika's Mobile
+      title: Battery Full
+      target: 9819582622
+  mode: single
+- id: '1611632533399'
+  alias: Monika Home Zone Notification
+  description: ''
+  use_blueprint:
+    path: TomHartogs/generic-zone-interaction.yaml
+    input:
+      person_entity: person.monika
+      zone_entity: zone.home
+      leaving_action:
+      - device_id: 9c2f843b1817c31df6da317bf80b79d4
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D1Monika left Home \U0001F3E0\U0001F6AA"
+        title: Zone Alert
+      - service: notify.sms
+        data:
+          message: 'Monika left Home '
+          title: 'Monika left Home '
+          target: 9819582622
+      entering_action:
+      - device_id: 9c2f843b1817c31df6da317bf80b79d4
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D1Monika reached Home\U0001F449 \U0001F3E0"
+        title: Zone Alert
+      - service: notify.sms
+        data:
+          message: Monika reached Home
+          title: Monika reached Home
+          target: 9819582622
+- id: '1611633499595'
+  alias: Nilesh Work Zone interaction action
+  description: ''
+  use_blueprint:
+    path: TomHartogs/generic-zone-interaction.yaml
+    input:
+      person_entity: person.nilesh
+      zone_entity: zone.work
+      entering_action:
+      - device_id: 48ea017e1dce68e59752badc057b069e
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D2Nilesh Reached Office\U0001F4E0"
+        title: Nilesh On Duty
+      - service: notify.sms
+        data:
+          target: 7977895543
+          message: Nilesh Reached Office
+          title: Nilesh Reached Office
+      leaving_action:
+      - device_id: 48ea017e1dce68e59752badc057b069e
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D2Nilesh Left from Office\U0001F4E0\U0001F6AA"
+        title: Nilesh coming Back Home
+      - service: notify.sms
+        data:
+          target: 7977895543
+          message: Nilesh Left from Office
+          title: Nilesh Left from Office
+- id: '1611633704243'
+  alias: Monika School Zone interaction action
+  description: ''
+  use_blueprint:
+    path: TomHartogs/generic-zone-interaction.yaml
+    input:
+      person_entity: person.monika
+      zone_entity: zone.school
+      entering_action:
+      - device_id: 9c2f843b1817c31df6da317bf80b79d4
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D1Monika is at School\U0001F469‍\U0001F3EB\U0001F392\U0001F6B8"
+        title: Zone Alert
+      - service: notify.sms
+        data:
+          target: 9819582622
+          message: Monika is at School
+          title: Monika is at School
+      leaving_action:
+      - device_id: 9c2f843b1817c31df6da317bf80b79d4
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D1Monika has Left from School\U0001F469‍\U0001F3EB\U0001F392\U0001F6B8\U0001F6AA"
+        title: Zone Alert
+      - service: notify.sms
+        data:
+          message: Monika has Left from School
+          title: Monika has Left from School
+          target: 9819582622
+- id: '1612077407628'
+  alias: Dim lights based on sun elevation
+  description: ''
+  use_blueprint:
+    path: EvTheFuture/dim_lights_based_on_sun_elevation.yaml
+    input:
+      transition_time: '0'
+      target_lights:
+        entity_id: light.yeelight_color_0x0000000007f7aba8
+      turn_on: true
+      turn_off: true
+- id: '1612086377652'
+  alias: sunrise-mandir-lightoff
+  description: ''
+  trigger:
+  - platform: sun
+    event: sunrise
+  condition: []
+  action:
+  - type: turn_off
+    device_id: c83eb7a486178d326f519855832515c9
+    entity_id: light.yeelight_color_0x0000000007f7aba8
+    domain: light
+  mode: single
+- id: '1612086545343'
+  alias: sunset-mandir-lighton
+  description: ''
+  trigger:
+  - platform: sun
+    event: sunset
+  condition: []
+  action:
+  - type: turn_on
+    device_id: c83eb7a486178d326f519855832515c9
+    entity_id: light.yeelight_color_0x0000000007f7aba8
+    domain: light
+    brightness_pct: 10
+  - type: turn_on
+    device_id: 3c3c1abed5a46fa366f32a2f01ae1d88
+    entity_id: light.wled
+    domain: light
+    brightness_pct: 10
+  - device_id: 9c2f843b1817c31df6da317bf80b79d4
+    domain: mobile_app
+    type: notify
+    message: "Sunset\U0001F305\U0001F307 Light's on\U0001F4A1"
+    title: ''
+  - service: mqtt.publish
+    data:
+      topic: /mrdiynotifier/say
+      payload: sunset
+      qos: 0
+      retain: false
+  - type: turn_on
+    device_id: 28be44ce31de279a9ae621ec55e66ace
+    entity_id: light.mandir_sonoff
+    domain: light
+  mode: single
+- id: '1612103102239'
+  alias: mandir-light-off
+  description: ''
+  trigger:
+  - platform: time
+    at: '12:00:00'
+  - platform: time
+    at: '23:00:00'
+  condition: []
+  action:
+  - type: turn_off
+    device_id: c83eb7a486178d326f519855832515c9
+    entity_id: light.yeelight_color_0x7f7aba8
+    domain: light
+  - type: turn_off
+    device_id: 3c3c1abed5a46fa366f32a2f01ae1d88
+    entity_id: light.wled
+    domain: light
+  - type: turn_off
+    device_id: 28be44ce31de279a9ae621ec55e66ace
+    entity_id: light.mandir_sonoff
+    domain: light
+  - device_id: 9c2f843b1817c31df6da317bf80b79d4
+    domain: mobile_app
+    type: notify
+    message: "\U0001F303 Lights Off \U0001F30C"
+    title: Lights OFF
+  - service: notify.sms
+    data:
+      message: Lights Off
+      target: 9819582622
+      data: All Lights off
+      title: Lights OFF
+  mode: single
+- id: '1655479754300'
+  alias: Nilesh School Zone interaction action
+  description: ''
+  use_blueprint:
+    path: TomHartogs/generic-zone-interaction.yaml
+    input:
+      person_entity: person.nilesh
+      zone_entity: zone.school
+      entering_action:
+      - device_id: 48ea017e1dce68e59752badc057b069e
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D1Nilesh is at School\U0001F469‍\U0001F3EB\U0001F392\U0001F6B8"
+        title: Zone Alert
+      - service: notify.sms
+        data:
+          target: 7977895543
+          message: Nilesh is at School
+          title: Nilesh is at School
+      leaving_action:
+      - device_id: 48ea017e1dce68e59752badc057b069e
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D1Nilesh has Left from School\U0001F469‍\U0001F3EB\U0001F392\U0001F6B8\U0001F6AA"
+        title: Zone Alert
+      - service: notify.sms
+        data:
+          target: 7977895543
+          message: Nilesh has Left from School
+          title: Nilesh has Left from School
+- id: '1656170875014'
+  alias: Google Calendar Birthday Event Trigger
+  description: ''
+  trigger:
+  - platform: calendar
+    event: start
+    offset: 0:0:10
+    entity_id: calendar.birthdays
+  condition: []
+  action:
+  - service: notify.mobile_app_rmx1801
+    data:
+      message: '!!  Google Calendar Birthday Event Triggered !!'
+      title: 'Notify: Google Calendar Birthday Event'
+  - service: notify.sms_nilesh
+    data:
+      message: '!!  Google Calendar Birthday Event Triggered !!'
+      title: 'Notify: Google Calendar Birthday Event'
+  mode: single
+- id: '1656178644684'
+  alias: Google Calendar Holiday Event Trigger
+  description: ''
+  trigger:
+  - platform: calendar
+    event: start
+    offset: 0:0:10
+    entity_id: calendar.holidays_in_india
+  condition: []
+  action:
+  - service: notify.mobile_app_rmx1801
+    data:
+      message: '!!  Google Calendar Holiday Event Triggered !!'
+      title: 'Notify: Google Calendar Holiday Event'
+  - service: notify.sms
+    data:
+      message: '!!  Google Calendar Holiday Event Triggered !!'
+      title: Google Event
+      target: 9819582622
+  mode: single
+- id: '1656178773816'
+  alias: Google Calendar Event Trigger
+  description: ''
+  trigger:
+  - platform: calendar
+    event: start
+    offset: 0:0:10
+    entity_id: calendar.nileshvaity_gmail_com
+  condition: []
+  action:
+  - service: notify.mobile_app_rmx1801
+    data:
+      message: '!!  Google Calendar Event Triggered !!'
+      title: 'Notify: Google Calendar Event'
+  - service: notify.sms
+    data:
+      message: '!!  Google Calendar Event Triggered !!'
+      title: 'Notify: Google Calendar Event'
+  mode: single
+- id: '1660842775488'
+  alias: Nilesh Tution Zone interaction action
+  description: ''
+  use_blueprint:
+    path: TomHartogs/generic-zone-interaction.yaml
+    input:
+      person_entity: person.nilesh
+      zone_entity: zone.tution
+      entering_action:
+      - device_id: 48ea017e1dce68e59752badc057b069e
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D1Nilesh is at Hriyaan'sTution\U0001F469‍\U0001F3EB\U0001F392\U0001F6B8"
+        title: Zone Alert
+      - service: notify.sms
+        data:
+          target: 7977895543
+          message: Nilesh is at Hriyaan'sTution
+          title: Nilesh is at Hriyaan'sTution
+      leaving_action:
+      - device_id: 48ea017e1dce68e59752badc057b069e
+        domain: mobile_app
+        type: notify
+        message: "\U0001F9D1Nilesh has Left from Hriyaan's Tution\U0001F469‍\U0001F3EB\U0001F392\U0001F6B8\U0001F6AA"
+        title: Zone Alert
+      - service: notify.sms
+        data:
+          message: Nilesh has Left from Hriyaan's Tution
+          title: Nilesh has Left from Hriyaan's Tution
+          target: 7977895543
+- id: '1664215963989'
+  alias: Google Calendar Events
+  description: ''
+  trigger:
+  - platform: calendar
+    event: start
+    offset: -0:15:0
+    entity_id: calendar.nileshvaity_gmail_com
+  condition: []
+  action:
+  - device_id: 9c2f843b1817c31df6da317bf80b79d4
+    domain: mobile_app
+    type: notify
+    message: Check Calendar Events for Today
+    title: Calendar Events for Today
+  mode: single
+- id: '1665328951037'
+  alias: Moon phase change
+  description: ''
+  trigger:
+  - platform: state
+    entity_id:
+    - sensor.moon_phase
+  condition: []
+  action:
+  - service: notify.mobile_app_rmx1801
+    data:
+      message: Moon phase changed
+      title: Moon phase changed
+  mode: single
+- id: '1669355991949'
+  alias: Update morning commute sensor
+  description: ''
+  trigger:
+  - platform: time_pattern
+    minutes: /5
+  condition:
+  - condition: time
+    after: 06:00:00
+    before: '23:00:00'
+    weekday:
+    - mon
+    - tue
+    - wed
+    - thu
+    - fri
+  action:
+  - service: homeassistant.update_entity
+    target:
+      entity_id: sensor.morning_commute
+    data: {}
+  initial_state: 'on'
+- id: '1673535640033'
+  alias: 'Frontend: turn on dark mode'
+  description: ''
+  trigger:
+  - platform: time
+    at: '20:00:00'
+  - platform: sun
+    event: sunset
+    offset: 0
+  condition:
+  - condition: state
+    entity_id: input_boolean.dark_mode
+    state: 'off'
+  action:
+  - service: input_boolean.turn_on
+    data: {}
+    target:
+      entity_id: input_boolean.dark_mode
+  mode: single
+- id: '1673535809740'
+  alias: 'Frontend: turn on light mode'
+  description: ''
+  trigger:
+  - platform: time
+    at: 07:00:00
+  - platform: sun
+    event: sunrise
+    offset: 0
+  condition:
+  - condition: state
+    entity_id: input_boolean.dark_mode
+    state: 'on'
+  action:
+  - service: input_boolean.turn_off
+    data: {}
+    target:
+      entity_id: input_boolean.dark_mode
+  mode: single
+- id: '1673536058896'
+  alias: 'Frontend: change theme'
+  description: ''
+  trigger:
+  - platform: state
+    entity_id:
+    - input_boolean.dark_mode
+    - input_select.theme
+    - input_boolean.theme_alternative
+  - platform: homeassistant
+    event: start
+  condition: []
+  action:
+  - service: frontend.set_theme
+    data:
+      name: '{% set which = "dark" if is_state("input_boolean.dark_mode", "on") else
+        "light" -%}  {% set name = states("input_select.theme") -%}  {% set suffix
+        = "-alternative" if is_state("input_boolean.theme_alternative", "on") else
+        "" -%}  ios-{{ which }}-mode-{{ name }}{{ suffix }}
+
+        '
+  mode: single

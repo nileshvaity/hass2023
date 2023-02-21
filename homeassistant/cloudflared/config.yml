@@ -1,0 +1,13 @@
+tunnel: ad08332d-c9ba-49cd-821b-292fe6dd5b5d
+credentials-file: /config/cloudflared/tunnel.json
+no-tls-verify: true
+
+ingress:
+  - hostname: sh.techitpro.cf
+    service: ssh://localhost:22
+  - hostname: hass.techitpro.cf
+    service: http://localhost:8123
+  - service: http_status:404
+  # Catch-all rule, which responds with 404 if traffic doesn't match any of
+  # the earlier rules
+

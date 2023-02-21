@@ -1,0 +1,1097 @@
+{
+  "system": {
+    "core_mosquitto": {
+      "version": "6.1.3",
+      "slug": "mosquitto",
+      "name": "Mosquitto broker",
+      "description": "An Open Source MQTT broker",
+      "url": "https://github.com/home-assistant/hassio-addons/tree/master/mosquitto",
+      "codenotary": "notary@home-assistant.io",
+      "arch": [
+        "armhf",
+        "armv7",
+        "aarch64",
+        "amd64",
+        "i386"
+      ],
+      "auth_api": true,
+      "discovery": [
+        "mqtt"
+      ],
+      "image": "homeassistant/{arch}-addon-mosquitto",
+      "map": [
+        "ssl",
+        "share"
+      ],
+      "options": {
+        "logins": [],
+        "require_certificate": false,
+        "certfile": "fullchain.pem",
+        "keyfile": "privkey.pem",
+        "customize": {
+          "active": false,
+          "folder": "mosquitto"
+        }
+      },
+      "ports": {
+        "1883/tcp": 1883,
+        "1884/tcp": 1884,
+        "8883/tcp": 8883,
+        "8884/tcp": 8884
+      },
+      "schema": {
+        "logins": [
+          {
+            "username": "str",
+            "password": "password"
+          }
+        ],
+        "require_certificate": "bool",
+        "certfile": "str",
+        "cafile": "str?",
+        "keyfile": "str",
+        "customize": {
+          "active": "bool",
+          "folder": "str"
+        },
+        "debug": "bool?"
+      },
+      "services": [
+        "mqtt:provide"
+      ],
+      "startup": "system",
+      "watchdog": "tcp://[HOST]:1883",
+      "init": false,
+      "gpio": false,
+      "devicetree": false,
+      "backup": "hot",
+      "ingress_stream": false,
+      "hassio_api": false,
+      "audio": false,
+      "uart": false,
+      "boot": "auto",
+      "host_network": false,
+      "hassio_role": "default",
+      "udev": false,
+      "ingress_port": 8099,
+      "host_ipc": false,
+      "docker_api": false,
+      "full_access": false,
+      "host_dbus": false,
+      "tmpfs": false,
+      "host_pid": false,
+      "timeout": 10,
+      "stdin": false,
+      "realtime": false,
+      "video": false,
+      "apparmor": true,
+      "advanced": false,
+      "usb": false,
+      "journald": false,
+      "panel_icon": "mdi:puzzle",
+      "panel_admin": true,
+      "kernel_modules": false,
+      "ingress": false,
+      "legacy": false,
+      "stage": "stable",
+      "homeassistant_api": false,
+      "repository": "core",
+      "location": "/data/addons/core/mosquitto",
+      "translations": {
+        "en": {
+          "configuration": {
+            "logins": {
+              "name": "Logins",
+              "description": "A list of local users that will be created with username and password. You don't need to do this because you can use Home Assistant users too, without any configuration."
+            },
+            "require_certificate": {
+              "name": "Require Certificate",
+              "description": "If enabled encryption will be enabled using the cert- and keyfile options."
+            },
+            "certfile": {
+              "name": "Certificate File",
+              "description": "A file containing a certificate, including its chain. Place this file in the Home Assistant `ssl` folder."
+            },
+            "cafile": {
+              "name": "CA File",
+              "description": "A file containing a root certificate. Place this file in the Home Assistant `ssl` folder."
+            },
+            "keyfile": {
+              "name": "Private Key File",
+              "description": "A file containing the private key. Place this file in the Home Assistant `ssl` folder."
+            },
+            "customize": {
+              "name": "Customize",
+              "description": "See the Documentation tab for more information about these options."
+            },
+            "debug": {
+              "name": "Debug",
+              "description": "If enabled will turn on debug logging for mosquitto and the auth plugin."
+            }
+          },
+          "network": {
+            "1883/tcp": "Normal MQTT",
+            "1884/tcp": "MQTT over WebSocket",
+            "8883/tcp": "Normal MQTT with SSL",
+            "8884/tcp": "MQTT over WebSocket with SSL"
+          }
+        }
+      }
+    },
+    "a0d7b954_adguard": {
+      "arch": [
+        "aarch64",
+        "amd64",
+        "armhf",
+        "armv7",
+        "i386"
+      ],
+      "auth_api": true,
+      "backup_exclude": [
+        "*/adguard/data/querylog.*"
+      ],
+      "codenotary": "codenotary@frenck.dev",
+      "description": "Network-wide ads & trackers blocking DNS server",
+      "discovery": [
+        "adguard"
+      ],
+      "hassio_api": true,
+      "hassio_role": "manager",
+      "homeassistant": "0.113.2",
+      "host_network": true,
+      "image": "ghcr.io/hassio-addons/adguard/{arch}",
+      "ingress": true,
+      "ingress_port": 0,
+      "ingress_stream": true,
+      "init": false,
+      "map": [
+        "ssl"
+      ],
+      "name": "AdGuard Home",
+      "options": {
+        "certfile": "fullchain.pem",
+        "keyfile": "privkey.pem",
+        "ssl": true
+      },
+      "panel_icon": "mdi:shield-check",
+      "ports": {
+        "53/udp": 53,
+        "80/tcp": null
+      },
+      "ports_description": {
+        "53/udp": "DNS server port",
+        "80/tcp": "Web interface (Not required for Ingress)"
+      },
+      "schema": {
+        "certfile": "str",
+        "keyfile": "str",
+        "leave_front_door_open": "bool?",
+        "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
+        "ssl": "bool"
+      },
+      "slug": "adguard",
+      "startup": "services",
+      "url": "https://github.com/hassio-addons/addon-adguard-home",
+      "version": "4.8.1",
+      "audio": false,
+      "kernel_modules": false,
+      "uart": false,
+      "host_dbus": false,
+      "homeassistant_api": false,
+      "docker_api": false,
+      "realtime": false,
+      "tmpfs": false,
+      "timeout": 10,
+      "journald": false,
+      "usb": false,
+      "host_ipc": false,
+      "gpio": false,
+      "legacy": false,
+      "video": false,
+      "boot": "auto",
+      "apparmor": true,
+      "udev": false,
+      "stdin": false,
+      "full_access": false,
+      "backup": "hot",
+      "devicetree": false,
+      "panel_admin": true,
+      "stage": "stable",
+      "advanced": false,
+      "host_pid": false,
+      "repository": "a0d7b954",
+      "location": "/data/addons/git/a0d7b954/adguard",
+      "translations": {}
+    },
+    "core_configurator": {
+      "version": "5.5.0",
+      "slug": "configurator",
+      "name": "File editor",
+      "description": "Simple browser-based file editor for Home Assistant",
+      "url": "https://github.com/home-assistant/hassio-addons/tree/master/configurator",
+      "codenotary": "notary@home-assistant.io",
+      "arch": [
+        "armhf",
+        "armv7",
+        "aarch64",
+        "amd64",
+        "i386"
+      ],
+      "homeassistant": "0.91.1",
+      "homeassistant_api": true,
+      "image": "homeassistant/{arch}-addon-configurator",
+      "ingress": true,
+      "init": false,
+      "map": [
+        "backup:rw",
+        "config:rw",
+        "media:rw",
+        "share:rw",
+        "ssl:rw"
+      ],
+      "options": {
+        "dirsfirst": false,
+        "enforce_basepath": true,
+        "git": true,
+        "ignore_pattern": [
+          "__pycache__",
+          ".cloud",
+          ".storage",
+          "deps"
+        ],
+        "ssh_keys": []
+      },
+      "panel_icon": "mdi:wrench",
+      "schema": {
+        "dirsfirst": "bool",
+        "enforce_basepath": "bool",
+        "git": "bool",
+        "ignore_pattern": [
+          "str"
+        ],
+        "ssh_keys": [
+          "str"
+        ]
+      },
+      "stage": "stable",
+      "video": false,
+      "ingress_port": 8099,
+      "boot": "auto",
+      "usb": false,
+      "backup": "hot",
+      "udev": false,
+      "startup": "application",
+      "timeout": 10,
+      "host_dbus": false,
+      "legacy": false,
+      "host_pid": false,
+      "gpio": false,
+      "stdin": false,
+      "advanced": false,
+      "hassio_role": "default",
+      "audio": false,
+      "hassio_api": false,
+      "apparmor": true,
+      "kernel_modules": false,
+      "ingress_stream": false,
+      "host_ipc": false,
+      "realtime": false,
+      "journald": false,
+      "auth_api": false,
+      "tmpfs": false,
+      "panel_admin": true,
+      "devicetree": false,
+      "host_network": false,
+      "docker_api": false,
+      "full_access": false,
+      "uart": false,
+      "repository": "core",
+      "location": "/data/addons/core/configurator",
+      "translations": {
+        "en": {
+          "configuration": {
+            "dirsfirst": {
+              "name": "Directories First",
+              "description": "This option allows you to list directories before files in the file browser tree."
+            },
+            "enforce_basepath": {
+              "name": "Enforce Basepath",
+              "description": "If set to `true`, access is limited to files within the `/config` directory."
+            },
+            "git": {
+              "name": "Git",
+              "description": "If set to `true`, add-on will initialize git for directories which support it."
+            },
+            "ignore_pattern": {
+              "name": "Ignore Pattern",
+              "description": "This option allows you to hide files and folders from the file browser tree."
+            },
+            "ssh_keys": {
+              "name": "SSH Keys",
+              "description": "A list of filenames containing SSH private keys. These can be used to allow for access to remote git repositories."
+            }
+          }
+        }
+      }
+    },
+    "84b25f81_cloudflared": {
+      "arch": [
+        "aarch64",
+        "amd64",
+        "armhf",
+        "armv7",
+        "i386"
+      ],
+      "codenotary": "dev@brenner.tech",
+      "description": "Use a Cloudflare Tunnel to remotely connect to Home Assistant without opening any ports",
+      "hassio_api": true,
+      "hassio_role": "homeassistant",
+      "image": "ghcr.io/brenner-tobias/cloudflared/{arch}",
+      "init": false,
+      "map": [
+        "ssl:rw",
+        "share:rw",
+        "config:rw"
+      ],
+      "name": "Cloudflared",
+      "options": {
+        "additional_hosts": [],
+        "external_hostname": ""
+      },
+      "schema": {
+        "additional_hosts": [
+          {
+            "disableChunkedEncoding": "bool?",
+            "hostname": "str",
+            "service": "str"
+          }
+        ],
+        "catch_all_service": "str?",
+        "external_hostname": "str?",
+        "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
+        "nginx_proxy_manager": "bool?",
+        "tunnel_name": "str?",
+        "tunnel_token": "str?"
+      },
+      "slug": "cloudflared",
+      "url": "https://github.com/brenner-tobias/addon-cloudflared/",
+      "version": "4.0.10",
+      "homeassistant_api": false,
+      "timeout": 10,
+      "tmpfs": false,
+      "backup": "hot",
+      "startup": "application",
+      "host_network": false,
+      "panel_admin": true,
+      "stdin": false,
+      "boot": "auto",
+      "auth_api": false,
+      "audio": false,
+      "host_dbus": false,
+      "docker_api": false,
+      "realtime": false,
+      "ingress": false,
+      "kernel_modules": false,
+      "ingress_port": 8099,
+      "host_ipc": false,
+      "apparmor": true,
+      "legacy": false,
+      "host_pid": false,
+      "ingress_stream": false,
+      "video": false,
+      "stage": "stable",
+      "gpio": false,
+      "usb": false,
+      "panel_icon": "mdi:puzzle",
+      "devicetree": false,
+      "udev": false,
+      "advanced": false,
+      "full_access": false,
+      "uart": false,
+      "journald": false,
+      "repository": "84b25f81",
+      "location": "/data/addons/git/84b25f81/cloudflared",
+      "translations": {
+        "en": {
+          "configuration": {
+            "log_level": {
+              "name": "Log Level",
+              "description": "Defines the log level for add-on and the Cloudflare service."
+            },
+            "external_hostname": {
+              "name": "External Home Assistant Hostname",
+              "description": "Set this to your domain name or subdomain that you want to use to access Home Assistant."
+            },
+            "tunnel_name": {
+              "name": "Cloudflare Tunnel Name",
+              "description": "Defines the name of the tunnel created for the communication between this service and the Cloudflare edge server. The default value should be fine in most use cases."
+            },
+            "additional_hosts": {
+              "name": "Additional Hosts",
+              "description": "Define a list of additional hosts to be routed by the Cloudflare Tunnel."
+            },
+            "catch_all_service": {
+              "name": "Catch-All Service",
+              "description": "Define a catch-all service which will be called for services not configured directly."
+            },
+            "nginx_proxy_manager": {
+              "name": "Enable Catch-All Nginx-Proxy-Manager",
+              "description": "Sets the catch-all service to the \"Nginx-Proxy-Manager Community Add-Ons\" Add-on."
+            },
+            "tunnel_token": {
+              "name": "Cloudflare Tunnel Token",
+              "description": "When set all other options will be ignored. Use this option if you set up the tunnel with the Cloudflare Dashboard."
+            }
+          }
+        }
+      }
+    },
+    "core_ssh": {
+      "version": "9.6.1",
+      "slug": "ssh",
+      "name": "Terminal & SSH",
+      "description": "Allow logging in remotely to Home Assistant using SSH",
+      "url": "https://github.com/home-assistant/hassio-addons/tree/master/ssh",
+      "codenotary": "notary@home-assistant.io",
+      "advanced": true,
+      "arch": [
+        "armhf",
+        "armv7",
+        "aarch64",
+        "amd64",
+        "i386"
+      ],
+      "audio": true,
+      "hassio_api": true,
+      "hassio_role": "manager",
+      "host_dbus": true,
+      "image": "homeassistant/{arch}-addon-ssh",
+      "ingress": true,
+      "init": false,
+      "map": [
+        "config:rw",
+        "ssl:rw",
+        "addons:rw",
+        "share:rw",
+        "backup:rw",
+        "media:rw"
+      ],
+      "options": {
+        "authorized_keys": [],
+        "password": "",
+        "apks": [],
+        "server": {
+          "tcp_forwarding": false
+        }
+      },
+      "panel_icon": "mdi:console",
+      "panel_title": "Terminal",
+      "ports": {
+        "22/tcp": null
+      },
+      "schema": {
+        "authorized_keys": [
+          "str"
+        ],
+        "password": "password",
+        "apks": [
+          "str"
+        ],
+        "server": {
+          "tcp_forwarding": "bool"
+        }
+      },
+      "startup": "services",
+      "uart": true,
+      "host_pid": false,
+      "gpio": false,
+      "tmpfs": false,
+      "timeout": 10,
+      "homeassistant_api": false,
+      "legacy": false,
+      "host_network": false,
+      "realtime": false,
+      "auth_api": false,
+      "boot": "auto",
+      "full_access": false,
+      "ingress_stream": false,
+      "apparmor": true,
+      "usb": false,
+      "video": false,
+      "panel_admin": true,
+      "backup": "hot",
+      "kernel_modules": false,
+      "host_ipc": false,
+      "stage": "stable",
+      "docker_api": false,
+      "ingress_port": 8099,
+      "journald": false,
+      "stdin": false,
+      "devicetree": false,
+      "udev": false,
+      "repository": "core",
+      "location": "/data/addons/core/ssh",
+      "translations": {
+        "en": {
+          "configuration": {
+            "authorized_keys": {
+              "name": "Authorized Keys",
+              "description": "Your public keys that you wish to accept for login."
+            },
+            "password": {
+              "name": "Password",
+              "description": "Set a password for login. We do NOT recommend this variant."
+            },
+            "apks": {
+              "name": "Packages",
+              "description": "Additional software packages to install in the add-on container."
+            },
+            "server": {
+              "name": "Server",
+              "description": "SSH Server configuration"
+            }
+          },
+          "network": {
+            "22/tcp": "SSH Port"
+          }
+        }
+      }
+    },
+    "a0d7b954_motioneye": {
+      "apparmor": false,
+      "arch": [
+        "aarch64",
+        "amd64",
+        "armhf",
+        "armv7",
+        "i386"
+      ],
+      "codenotary": "codenotary@frenck.dev",
+      "description": "Simple, elegant and feature-rich CCTV/NVR for your cameras",
+      "discovery": [
+        "motioneye"
+      ],
+      "homeassistant": "0.92.0b2",
+      "host_network": true,
+      "image": "ghcr.io/hassio-addons/motioneye/{arch}",
+      "ingress": true,
+      "ingress_port": 0,
+      "ingress_stream": true,
+      "init": false,
+      "map": [
+        "media:rw",
+        "share:rw",
+        "ssl"
+      ],
+      "name": "motionEye",
+      "options": {
+        "action_buttons": [],
+        "certfile": "fullchain.pem",
+        "keyfile": "privkey.pem",
+        "motion_webcontrol": false,
+        "ssl": true
+      },
+      "panel_icon": "mdi:cctv",
+      "ports": {
+        "80/tcp": null
+      },
+      "ports_description": {
+        "80/tcp": "Web interface (Not required for Ingress)"
+      },
+      "privileged": [
+        "DAC_READ_SEARCH",
+        "SYS_ADMIN"
+      ],
+      "schema": {
+        "action_buttons": [
+          {
+            "camera": "int?",
+            "command": "str?",
+            "type": "list(lock|unlock|light_on|light_off|alarm_on|alarm_off|up|right|down|left|zoom_in|zoom_out|preset1|preset2|preset3|preset4|preset5|preset6|preset7|preset8|preset9)?"
+          }
+        ],
+        "certfile": "str",
+        "keyfile": "str",
+        "log_level": "list(trace|debug|info|notice|warning|error|fatal)?",
+        "motion_webcontrol": "bool",
+        "ssl": "bool"
+      },
+      "slug": "motioneye",
+      "url": "https://github.com/hassio-addons/addon-motioneye",
+      "version": "0.18.0",
+      "video": true,
+      "realtime": false,
+      "boot": "auto",
+      "homeassistant_api": false,
+      "hassio_role": "default",
+      "legacy": false,
+      "docker_api": false,
+      "advanced": false,
+      "stdin": false,
+      "tmpfs": false,
+      "host_dbus": false,
+      "auth_api": false,
+      "panel_admin": true,
+      "backup": "hot",
+      "gpio": false,
+      "kernel_modules": false,
+      "startup": "application",
+      "hassio_api": false,
+      "timeout": 10,
+      "devicetree": false,
+      "host_ipc": false,
+      "usb": false,
+      "host_pid": false,
+      "udev": false,
+      "stage": "stable",
+      "full_access": false,
+      "uart": false,
+      "journald": false,
+      "audio": false,
+      "repository": "a0d7b954",
+      "location": "/data/addons/git/a0d7b954/motioneye",
+      "translations": {
+        "en": {
+          "configuration": {
+            "log_level": {
+              "name": "Log level",
+              "description": "Controls the level of log details the add-on provides."
+            },
+            "motion_webcontrol": {
+              "name": "Motion webcontrol",
+              "description": "Enables the motion webcontrol endpoint running on port 7999."
+            },
+            "ssl": {
+              "name": "SSL",
+              "description": "Enables/Disables SSL (HTTPS) on the web interface of motionEye."
+            },
+            "certfile": {
+              "name": "Certificate file",
+              "description": "The certificate file to use for SSL. Note that this file must exists in the /ssl/ folder."
+            },
+            "keyfile": {
+              "name": "Private key file",
+              "description": "The private key file to use for SSL. Note that this file must exists in the /ssl/ folder."
+            },
+            "action_buttons": {
+              "name": "Action buttons",
+              "description": "If configured, a script will be created to implement an motionEye action button. See add-on documentation for usage details."
+            }
+          },
+          "network": {
+            "80/tcp": "Web interface (Not required for Ingress)"
+          }
+        }
+      }
+    },
+    "95168ca3_frigate-fa-beta": {
+      "name": "Frigate (Full Access) Beta (0.12.0)",
+      "version": "0.12.0-beta8",
+      "panel_icon": "mdi:cctv",
+      "panel_title": "Frigate",
+      "slug": "frigate-fa-beta",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "image": "ghcr.io/blakeblackshear/frigate",
+      "startup": "application",
+      "boot": "auto",
+      "init": false,
+      "webui": "http://[HOST]:[PORT:5000]/",
+      "watchdog": "http://[HOST]:[PORT:5000]/",
+      "ingress": true,
+      "ingress_port": 5000,
+      "ingress_entry": "/",
+      "panel_admin": false,
+      "homeassistant_api": true,
+      "hassio_api": true,
+      "ports": {
+        "8555/tcp": 8555,
+        "8555/udp": 8555,
+        "8554/tcp": null,
+        "5000/tcp": null,
+        "1984/tcp": null,
+        "1935/tcp": null
+      },
+      "ports_description": {
+        "8555/tcp": "WebRTC over tcp",
+        "8555/udp": "WebRTC over udp",
+        "8554/tcp": "RTSP Restream",
+        "5000/tcp": "Web interface (Not required for Hass.io Ingress)",
+        "1984/tcp": "go2rtc API",
+        "1935/tcp": "RTMP streams"
+      },
+      "host_network": false,
+      "tmpfs": true,
+      "full_access": true,
+      "privileged": [
+        "SYS_ADMIN"
+      ],
+      "environment": {
+        "CONFIG_FILE": "/config/frigate.yml"
+      },
+      "schema": {
+        "plus_api_key": "password?"
+      },
+      "services": [
+        "mqtt:need"
+      ],
+      "arch": [
+        "amd64",
+        "aarch64",
+        "armv7"
+      ],
+      "map": [
+        "media:rw",
+        "config:rw"
+      ],
+      "timeout": 10,
+      "gpio": false,
+      "kernel_modules": false,
+      "options": {},
+      "devicetree": false,
+      "host_dbus": false,
+      "video": false,
+      "legacy": false,
+      "hassio_role": "default",
+      "stage": "stable",
+      "auth_api": false,
+      "host_pid": false,
+      "realtime": false,
+      "stdin": false,
+      "backup": "hot",
+      "usb": false,
+      "ingress_stream": false,
+      "udev": false,
+      "docker_api": false,
+      "advanced": false,
+      "apparmor": true,
+      "journald": false,
+      "uart": false,
+      "host_ipc": false,
+      "audio": false,
+      "repository": "95168ca3",
+      "location": "/data/addons/git/95168ca3/frigate_fa_beta",
+      "translations": {}
+    },
+    "core_mariadb": {
+      "version": "2.5.2",
+      "slug": "mariadb",
+      "name": "MariaDB",
+      "description": "A SQL database server",
+      "url": "https://github.com/home-assistant/hassio-addons/tree/master/mariadb",
+      "arch": [
+        "armhf",
+        "armv7",
+        "aarch64",
+        "amd64",
+        "i386"
+      ],
+      "backup_post": "s6-svc -wd -d /run/s6/legacy-services/mariadb-lock/",
+      "backup_pre": "s6-svc -wU -u /run/s6/legacy-services/mariadb-lock/",
+      "image": "homeassistant/{arch}-addon-mariadb",
+      "init": false,
+      "options": {
+        "databases": [
+          "homeassistant"
+        ],
+        "logins": [
+          {
+            "password": null,
+            "username": "homeassistant"
+          }
+        ],
+        "rights": [
+          {
+            "database": "homeassistant",
+            "username": "homeassistant"
+          }
+        ]
+      },
+      "ports": {
+        "3306/tcp": null
+      },
+      "schema": {
+        "databases": [
+          "str"
+        ],
+        "logins": [
+          {
+            "username": "str",
+            "password": "password"
+          }
+        ],
+        "rights": [
+          {
+            "database": "str",
+            "privileges": [
+              "list(ALTER|CREATE|CREATE ROUTINE|CREATE TEMPORARY TABLES|CREATE VIEW|DELETE|DELETE HISTORY|DROP|EVENT|GRANT OPTION|INDEX|INSERT|LOCK TABLES|SELECT|SHOW VIEW|TRIGGER|UPDATE)?"
+            ],
+            "username": "str"
+          }
+        ]
+      },
+      "services": [
+        "mysql:provide"
+      ],
+      "startup": "system",
+      "timeout": 20,
+      "auth_api": false,
+      "journald": false,
+      "homeassistant_api": false,
+      "kernel_modules": false,
+      "map": [],
+      "video": false,
+      "backup": "hot",
+      "ingress": false,
+      "tmpfs": false,
+      "audio": false,
+      "host_network": false,
+      "hassio_role": "default",
+      "udev": false,
+      "docker_api": false,
+      "host_dbus": false,
+      "apparmor": true,
+      "realtime": false,
+      "host_pid": false,
+      "advanced": false,
+      "stage": "stable",
+      "stdin": false,
+      "boot": "auto",
+      "ingress_stream": false,
+      "hassio_api": false,
+      "host_ipc": false,
+      "panel_admin": true,
+      "ingress_port": 8099,
+      "usb": false,
+      "full_access": false,
+      "panel_icon": "mdi:puzzle",
+      "devicetree": false,
+      "uart": false,
+      "gpio": false,
+      "legacy": false,
+      "repository": "core",
+      "location": "/data/addons/core/mariadb",
+      "translations": {
+        "en": {
+          "configuration": {
+            "databases": {
+              "name": "Databases",
+              "description": "Database names."
+            },
+            "logins": {
+              "name": "Logins",
+              "description": "This section defines a create user definition in MariaDB."
+            },
+            "rights": {
+              "name": "Rights",
+              "description": "This section grant privileges to users in MariaDB."
+            }
+          },
+          "network": {
+            "3306/tcp": "The port to access the database engine."
+          }
+        }
+      }
+    }
+  },
+  "user": {
+    "core_mosquitto": {
+      "options": {
+        "certfile": "fullchain.pem",
+        "customize": {
+          "active": false,
+          "folder": "mosquitto"
+        },
+        "keyfile": "privkey.pem",
+        "logins": [
+          {
+            "username": "nilesh",
+            "password": "Nilesh21"
+          }
+        ],
+        "require_certificate": false
+      },
+      "version": "6.1.3",
+      "image": "homeassistant/armv7-addon-mosquitto",
+      "auto_update": false,
+      "uuid": "36960621f3c040ddb24b90688be7c87b",
+      "ingress_token": "XfWEmbaqt18-n6EztHhpE78eHAQBqFM78CmVtJL4lns",
+      "ingress_panel": false,
+      "watchdog": false,
+      "protected": true,
+      "access_token": "e7cabf99551f0fad973e50bb08974f6b2215b7bf901de628008b0983e3a032ed61c77138494d0cd01d9ba42ecf20b32688558c2808e383eb"
+    },
+    "a0d7b954_adguard": {
+      "options": {},
+      "version": "4.8.1",
+      "image": "ghcr.io/hassio-addons/adguard/armv7",
+      "auto_update": false,
+      "uuid": "d631f7ad7655455a87156b68ec8f6e32",
+      "ingress_token": "0WdKBW1DH0al1IicOl60SWy2IktOAmLKil5878RrM-g",
+      "ingress_panel": true,
+      "watchdog": false,
+      "protected": true,
+      "access_token": "a6baa652eb8e55925ce731b6b8269b9bb38b7426bb8b1f2e9bbfc12949ddfef5e4f76429a025bb339ef91cb0ac8c912b5366d0615b8edfe0"
+    },
+    "core_configurator": {
+      "options": {
+        "dirsfirst": false,
+        "enforce_basepath": false,
+        "git": true,
+        "ignore_pattern": [
+          "__pycache__",
+          ".cloud",
+          ".storage",
+          "deps"
+        ],
+        "ssh_keys": []
+      },
+      "version": "5.5.0",
+      "image": "homeassistant/armv7-addon-configurator",
+      "uuid": "b4d469331d254fea840324ef49a43f77",
+      "ingress_panel": true,
+      "ingress_token": "Vs3DKb8tMyt3VdSeXMmPXMqYP-hARc1IwSEJg3HIqyE",
+      "watchdog": false,
+      "auto_update": false,
+      "protected": true,
+      "access_token": "a77e76916485e48fba63826d259fac7543d8039a4278a9240953b6c42ffed35be68bf2101107b90ccbeb7e4400be1d367aeabdd3c91cfb0b"
+    },
+    "84b25f81_cloudflared": {
+      "options": {
+        "additional_hosts": [
+          {
+            "hostname": "nexus.techitpro.cf",
+            "service": "http://192.168.1.39:8081"
+          },
+          {
+            "hostname": "hass.techitpro.cf",
+            "service": "http://192.168.1.5:8123"
+          },
+          {
+            "hostname": "chalo.techitpro.cf",
+            "service": "https://192.168.1.5:444"
+          },
+          {
+            "hostname": "ng.techitpro.cf",
+            "service": "http://192.168.1.5:81"
+          },
+          {
+            "hostname": "sf1.techitpro.cf",
+            "service": "http://192.168.1.33"
+          },
+          {
+            "hostname": "r1.techitpro.cf",
+            "service": "http://192.168.1.1"
+          },
+          {
+            "hostname": "r2.techitpro.cf",
+            "service": "http://192.168.1.4"
+          },
+          {
+            "hostname": "sh.techitpro.cf",
+            "service": "ssh://192.168.1.5:22",
+            "disableChunkedEncoding": true
+          }
+        ],
+        "external_hostname": "techitpro.cf",
+        "tunnel_name": "ha",
+        "tunnel_token": "",
+        "nginx_proxy_manager": false,
+        "log_level": "debug",
+        "warp_enable": true,
+        "warp_routes": [
+          "192.168.1.0/26"
+        ]
+      },
+      "version": "4.0.10",
+      "image": "ghcr.io/brenner-tobias/cloudflared/armv7",
+      "protected": true,
+      "auto_update": false,
+      "ingress_panel": false,
+      "ingress_token": "fNE04BKTwM_rO81lCN6zjzMOd9OpXNSXdUd91d6EnMA",
+      "watchdog": false,
+      "uuid": "6ab97e2a6a6446d1a62dfa41f566a874",
+      "access_token": "6d853a821d94e47736421422944268b37e9acf5f2fa15d4a33113b3220e607d8a97c2771ca2969e53d1b3813c2083df04022879a9dd23af5",
+      "boot": "auto"
+    },
+    "core_ssh": {
+      "options": {
+        "authorized_keys": [],
+        "password": "",
+        "apks": [],
+        "server": {
+          "tcp_forwarding": true
+        }
+      },
+      "version": "9.6.1",
+      "image": "homeassistant/armv7-addon-ssh",
+      "protected": true,
+      "auto_update": false,
+      "ingress_panel": true,
+      "ingress_token": "mYQSl1HpNA9RbIGpyRyNSqez9hKO9z68I0X4GWXpjKk",
+      "watchdog": false,
+      "uuid": "637c607a275e4a26ba5491a7da89363f",
+      "access_token": "acd73205d0c1a571ee2d5eab7fcc15e1db624607b15a0884de348b3feff08bf4b6d2d82a53d6a1bb6e6952fe14082320df00808368d8512c",
+      "network": {
+        "22/tcp": null
+      },
+      "audio_input": null,
+      "audio_output": null
+    },
+    "a0d7b954_motioneye": {
+      "options": {},
+      "version": "0.18.0",
+      "image": "ghcr.io/hassio-addons/motioneye/armv7",
+      "ingress_token": "R5wwjMrStjl4-Ff5lRqEDrGMoQnEbGc8XjQVBku-GiI",
+      "auto_update": false,
+      "uuid": "38f760386d994515b6a0f53db2c6029b",
+      "protected": true,
+      "ingress_panel": true,
+      "watchdog": false,
+      "boot": "manual",
+      "access_token": "fc6942490c225b52911b0881ba7832ee04c0fcc15b0096c80aa2a8d40f8027a6bddf687c2d76af147461695708ff4bd178dfca0f1df5083d"
+    },
+    "95168ca3_frigate-fa-beta": {
+      "options": {},
+      "version": "0.12.0-beta8",
+      "image": "ghcr.io/blakeblackshear/frigate",
+      "watchdog": false,
+      "ingress_panel": false,
+      "protected": true,
+      "auto_update": false,
+      "ingress_token": "QQg4zoKyt8AOhE88_Wgz-bvk4cdidveoPSi__uLhJW8",
+      "uuid": "2a3c509f82174359baaf7493c8c74ceb",
+      "access_token": "3e64130dc5e65f668d9051b8b7161e8005323142961b971b8c0b17079cf0db04e62849c563f85b68c4e6110a9c0f5c17b6a98a124ca7a1e6",
+      "boot": "manual"
+    },
+    "core_mariadb": {
+      "options": {
+        "databases": [
+          "homeassistant"
+        ],
+        "logins": [
+          {
+            "password": "Nilesh21",
+            "username": "homeassistant"
+          }
+        ],
+        "rights": [
+          {
+            "database": "homeassistant",
+            "username": "homeassistant"
+          }
+        ]
+      },
+      "version": "2.5.2",
+      "image": "homeassistant/armv7-addon-mariadb",
+      "protected": true,
+      "ingress_token": "VFtzj7RKCr5sVWU-99tjGD5XZVESpOXeh5xzcR_sabg",
+      "auto_update": false,
+      "ingress_panel": false,
+      "watchdog": false,
+      "uuid": "7cdbb45d8276415b9884b148c2290f10",
+      "access_token": "1f4c0c442504e5c7fd4189c9e2da53ff73ae5388162710ee0275909746e198d6843f4e4099d1130d2a9bc0f1936a481b4057ca15039af7a7",
+      "boot": "manual"
+    }
+  }
+}

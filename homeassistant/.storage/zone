@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "zone",
+  "data": {
+    "items": [
+      {
+        "name": "School",
+        "icon": "mdi:school",
+        "latitude": 19.15124934289773,
+        "longitude": 72.94047474861146,
+        "passive": false,
+        "radius": 50.0,
+        "id": "school"
+      },
+      {
+        "name": "Work",
+        "icon": "mdi:office-building-marker",
+        "latitude": 19.114607043249162,
+        "longitude": 72.89025306701662,
+        "passive": false,
+        "radius": 53.40910355804422,
+        "id": "work"
+      },
+      {
+        "latitude": 19.1506751,
+        "longitude": 72.9435999,
+        "name": "Home",
+        "icon": "mdi:home-roof",
+        "passive": false,
+        "radius": 20.47672551328768,
+        "id": "home"
+      },
+      {
+        "latitude": 19.153139520334815,
+        "longitude": 72.94264733791353,
+        "name": "Tution",
+        "icon": "mdi:map-marker-account",
+        "passive": false,
+        "radius": 65.88819660954569,
+        "id": "tution"
+      },
+      {
+        "latitude": 19.153866700791955,
+        "longitude": 72.94192850589754,
+        "name": "Datta Mandir",
+        "icon": "mdi:map-marker",
+        "passive": false,
+        "radius": 24.85841624457656,
+        "id": "datta_mandir"
+      }
+    ]
+  }
+}

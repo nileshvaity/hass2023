@@ -1,0 +1,34 @@
+{
+  "discovery": [
+    {
+      "addon": "core_mosquitto",
+      "service": "mqtt",
+      "config": {
+        "host": "core-mosquitto",
+        "port": 1883,
+        "ssl": false,
+        "protocol": "3.1.1",
+        "username": "homeassistant",
+        "password": "uogh8eesu0xohG0feethuy2eiwocoCahch6oowiWahy4dohthaitheing1Ohsahh"
+      },
+      "uuid": "bdec7c8e3c914f5996d32cf8cd966a92"
+    },
+    {
+      "addon": "a0d7b954_adguard",
+      "service": "adguard",
+      "config": {
+        "host": "127.0.0.1",
+        "port": 45158
+      },
+      "uuid": "585ead48103a450ebe7e7ea1246b8ccc"
+    },
+    {
+      "addon": "a0d7b954_motioneye",
+      "service": "motioneye",
+      "config": {
+        "url": "http://127.0.0.1:28765"
+      },
+      "uuid": "9fbb309d1a0c41dc83a7fffe76b32cd5"
+    }
+  ]
+}

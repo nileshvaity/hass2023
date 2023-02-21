@@ -1,0 +1,13 @@
+{
+  "ssl": false,
+  "uuid": "1200d74a058343f489f06ece40537ede",
+  "boot": true,
+  "audio_input": "None",
+  "watchdog": true,
+  "port": 8123,
+  "audio_output": "None",
+  "version": "2023.2.5",
+  "image": "ghcr.io/home-assistant/raspberrypi2-homeassistant",
+  "access_token": "da2cd91e637acebb1a75409baa30b73ea7a2efc6db7ac005f39014ba8e7190cdea58a7dfe3c3dd4ebdee841708fd01daf1e57d3cfd2eb23b",
+  "refresh_token": "98dcbb5ee9afd029deba0f53a5f78b9b8a4f2c6f785759cb4d2d1fe799293b6f86691c689e11a80747735179064f22863c1dbd5e85538a472eb2e084ccf38dfb"
+}

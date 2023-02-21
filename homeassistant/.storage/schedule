@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "minor_version": 1,
+  "key": "schedule",
+  "data": {
+    "items": [
+      {
+        "name": "My Monthly Shifts",
+        "friday": [
+          {
+            "from": "00:00:00",
+            "to": "07:30:00"
+          },
+          {
+            "from": "22:00:00",
+            "to": "24:00:00"
+          }
+        ],
+        "saturday": [
+          {
+            "from": "00:00:00",
+            "to": "07:30:00"
+          }
+        ],
+        "monday": [
+          {
+            "from": "22:00:00",
+            "to": "24:00:00"
+          }
+        ],
+        "wednesday": [
+          {
+            "from": "00:00:00",
+            "to": "07:30:00"
+          },
+          {
+            "from": "22:00:00",
+            "to": "24:00:00"
+          }
+        ],
+        "sunday": [],
+        "thursday": [
+          {
+            "from": "00:00:00",
+            "to": "07:30:00"
+          },
+          {
+            "from": "22:00:00",
+            "to": "24:00:00"
+          }
+        ],
+        "tuesday": [
+          {
+            "from": "00:00:00",
+            "to": "07:30:00"
+          },
+          {
+            "from": "22:00:00",
+            "to": "24:00:00"
+          }
+        ],
+        "id": "my_monthly_shifts",
+        "icon": "mdi:briefcase"
+      }
+    ]
+  }
+}
