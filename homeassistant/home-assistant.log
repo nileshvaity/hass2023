@@ -132,3 +132,7 @@ sqlite3.OperationalError: no such table: states
 2023-02-21 23:04:49.661 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
 2023-02-21 23:11:42.790 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
 2023-02-21 23:14:12.531 WARNING (SyncWorker_3) [homeassistant.components.feedreader] Possible issue parsing feed https://github.com/blog.atom: <unknown>:2:0: syntax error
+2023-02-21 23:18:45.887 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 23:19:13.384 WARNING (SyncWorker_3) [homeassistant.components.waze_travel_time.sensor] Error on retrieving data: empty response
+2023-02-21 23:24:13.112 ERROR (MainThread) [homeassistant.components.automation.dim_lights_based_on_sun_elevation] Error rendering variables: UndefinedError: 'None' has no attribute 'last_changed'
+2023-02-21 23:25:59.005 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
