@@ -130,3 +130,5 @@ sqlite3.OperationalError: no such table: states
 2023-02-21 23:00:07.755 ERROR (MainThread) [homeassistant.components.automation.mandir_light_off_at_night] Error while executing automation automation.mandir_light_off_at_night: expected dict for dictionary value @ data['data']
 2023-02-21 23:04:12.331 ERROR (MainThread) [homeassistant.components.automation.dim_lights_based_on_sun_elevation] Error rendering variables: UndefinedError: 'None' has no attribute 'last_changed'
 2023-02-21 23:04:49.661 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 23:11:42.790 ERROR (stream_worker) [homeassistant.components.stream.stream.camera.balcony_camera] Error from stream worker: Error opening stream (ERRORTYPE_113, Host is unreachable) rtsp://****:****@192.168.1.47:554/11
+2023-02-21 23:14:12.531 WARNING (SyncWorker_3) [homeassistant.components.feedreader] Possible issue parsing feed https://github.com/blog.atom: <unknown>:2:0: syntax error
