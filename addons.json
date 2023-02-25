@@ -919,7 +919,7 @@
       "ingress_panel": false,
       "watchdog": false,
       "protected": true,
-      "access_token": "e7cabf99551f0fad973e50bb08974f6b2215b7bf901de628008b0983e3a032ed61c77138494d0cd01d9ba42ecf20b32688558c2808e383eb"
+      "access_token": "9c6fa0a66e5f217a6630a30a5ae08deda54e0089f4e1aab7c0fda3632535353b0daa088dff859e3cf84d6796062085a57626dd89e4277df2"
     },
     "a0d7b954_adguard": {
       "options": {},
@@ -931,7 +931,7 @@
       "ingress_panel": true,
       "watchdog": false,
       "protected": true,
-      "access_token": "a6baa652eb8e55925ce731b6b8269b9bb38b7426bb8b1f2e9bbfc12949ddfef5e4f76429a025bb339ef91cb0ac8c912b5366d0615b8edfe0"
+      "access_token": "fc3d9c3b770900bf5d6323bf6e75daad009658cc1f65eb0d2f903c9de5b83be20517aec3416422eb16ccd7ee293b729418a92fbaeca02832"
     },
     "core_configurator": {
       "options": {
@@ -954,7 +954,7 @@
       "watchdog": false,
       "auto_update": false,
       "protected": true,
-      "access_token": "a77e76916485e48fba63826d259fac7543d8039a4278a9240953b6c42ffed35be68bf2101107b90ccbeb7e4400be1d367aeabdd3c91cfb0b"
+      "access_token": "f6d78af4b9fdfd586a1d3ab9e95726a97fda79c371c44144a9b406aaebe114a35b6b9a887216a95b0fc9e9baadbdc0a4d1fcad8062f95939"
     },
     "84b25f81_cloudflared": {
       "options": {
@@ -1011,7 +1011,7 @@
       "ingress_token": "fNE04BKTwM_rO81lCN6zjzMOd9OpXNSXdUd91d6EnMA",
       "watchdog": false,
       "uuid": "6ab97e2a6a6446d1a62dfa41f566a874",
-      "access_token": "6d853a821d94e47736421422944268b37e9acf5f2fa15d4a33113b3220e607d8a97c2771ca2969e53d1b3813c2083df04022879a9dd23af5",
+      "access_token": "af839b1aef8c236a4199887dd77fa2380cab8afc5b2e2ec72836f64d68cb4667dc86e24c34b10786a236f3e11f3708a169236ce1ea73ced0",
       "boot": "auto"
     },
     "core_ssh": {
@@ -1031,7 +1031,7 @@
       "ingress_token": "mYQSl1HpNA9RbIGpyRyNSqez9hKO9z68I0X4GWXpjKk",
       "watchdog": false,
       "uuid": "637c607a275e4a26ba5491a7da89363f",
-      "access_token": "acd73205d0c1a571ee2d5eab7fcc15e1db624607b15a0884de348b3feff08bf4b6d2d82a53d6a1bb6e6952fe14082320df00808368d8512c",
+      "access_token": "05e999e9dd69e22c306135706b1879cd0e4355df9c7802bf73ec49c25a8d4d36fa7303e52f99c7ef90930d264c89836d41ce9b5f549e9351",
       "network": {
         "22/tcp": null
       },

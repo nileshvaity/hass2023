@@ -200,8 +200,8 @@
       {
         "area_id": "living_room",
         "config_entries": [
-          "7da43289ab58968cc21d4ac6cc1dfec9",
-          "79adfb7bc636d762a7f05172d85a937d"
+          "79adfb7bc636d762a7f05172d85a937d",
+          "7da43289ab58968cc21d4ac6cc1dfec9"
         ],
         "configuration_url": null,
         "connections": [],
@@ -320,12 +320,12 @@
             "192.168.1.1"
           ],
           [
-            "upnp_serial_number",
-            "12345678"
+            "upnp",
+            "uuid:be3798c6-484c-49bb-8b0a-aa33021a0614::urn:schemas-upnp-org:device:InternetGatewayDevice:1"
           ],
           [
-            "upnp",
-            "uuid:0e8d3c6d-4062-41bc-8288-a476b5ab79e2::urn:schemas-upnp-org:device:InternetGatewayDevice:1"
+            "upnp_serial_number",
+            "12345678"
           ]
         ],
         "manufacturer": "TP-Link",
@@ -770,8 +770,8 @@
       {
         "area_id": null,
         "config_entries": [
-          "627a7a527b597c7eba767fe973cb9b0b",
-          "39a32167340c9156b9e5361b079fb488"
+          "39a32167340c9156b9e5361b079fb488",
+          "627a7a527b597c7eba767fe973cb9b0b"
         ],
         "configuration_url": "https://www.waze.com",
         "connections": [],

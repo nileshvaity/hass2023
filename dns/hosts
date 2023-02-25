@@ -4,7 +4,7 @@
 172.30.32.3 dns dns.local.hass.io
 172.30.32.6 observer observer.local.hass.io
 172.30.33.0 core-mosquitto core-mosquitto.local.hass.io
+172.30.32.1 a0d7b954-adguard a0d7b954-adguard.local.hass.io
 172.30.33.1 core-ssh core-ssh.local.hass.io
 172.30.33.2 core-configurator core-configurator.local.hass.io
 172.30.33.3 84b25f81-cloudflared 84b25f81-cloudflared.local.hass.io
-172.30.32.1 a0d7b954-adguard a0d7b954-adguard.local.hass.io

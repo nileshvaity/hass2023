@@ -301,7 +301,7 @@
         "domain": "upnp",
         "title": "ArcherA9v6",
         "data": {
-          "udn": "uuid:0e8d3c6d-4062-41bc-8288-a476b5ab79e2",
+          "udn": "uuid:be3798c6-484c-49bb-8b0a-aa33021a0614",
           "st": "urn:schemas-upnp-org:device:InternetGatewayDevice:1",
           "original_udn": "uuid:ac459203-d344-47ea-9011-f8a3a3a45d81",
           "location": "http://192.168.1.1:1900/rootDesc.xml",
@@ -312,7 +312,7 @@
         "pref_disable_new_entities": false,
         "pref_disable_polling": false,
         "source": "ssdp",
-        "unique_id": "uuid:0e8d3c6d-4062-41bc-8288-a476b5ab79e2::urn:schemas-upnp-org:device:InternetGatewayDevice:1",
+        "unique_id": "uuid:be3798c6-484c-49bb-8b0a-aa33021a0614::urn:schemas-upnp-org:device:InternetGatewayDevice:1",
         "disabled_by": null
       },
       {
@@ -323,12 +323,12 @@
         "data": {
           "auth_implementation": "google_577302880542_71tptudb63qmjmtm1equgldr0bsenort_apps_googleusercontent_com",
           "token": {
-            "access_token": "ya29.a0AVvZVsq1-w50xX6PWXxXiIQBmDje0LXPxG1KmX24cfzqHjCpBVmyVAVmpIEhci8Pcz5pyPj54WCefqdAXr2OxpnOBkpShJhzVSffdb8jyGWtjytRT6difLMKScCH4-YrdVQqS9I7VuEcP9PSc7abs1n6v_B_GATTBgaCgYKAWgSAQASFQGbdwaIPhQDDrsXoeFxXvsDdTyzBQ0169",
+            "access_token": "ya29.a0AVvZVsqBdETR4chBYPhtV7QX93vec1vHvdFqXgTeIpKZFX1GyWES8jNu7w15RzP9plt0QX8AbhzmWAQ1cIoaOfkeOIaKUiUM4ltdJycYQkDgazrYP_pYPna3UUvDUtxvuJ66d47y338WoUkUJJ5nPGPsERbhBX6clQaCgYKAVISAQASFQGbdwaI5tv4j5x-mEAjq81CBwW40A0169",
             "refresh_token": "1//0gGeQfmdN-X1TCgYIARAAGBASNwF-L9IrbDSPk_yADYBFx5yFZ609mdsmFGiz0rV_oY4VcZeXb5HTp7XFs9q5CmIWIa4mwLOu8aQ",
             "scope": "https://www.googleapis.com/auth/calendar",
             "token_type": "Bearer",
             "expires_in": 3599,
-            "expires_at": 1677004227.6999736
+            "expires_at": 1677347285.6544309
           }
         },
         "options": {
@@ -522,7 +522,7 @@
         "domain": "hacs",
         "title": "",
         "data": {
-          "token": "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"
+          "token": "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"
         },
         "options": {
           "sidepanel_title": "HACS",

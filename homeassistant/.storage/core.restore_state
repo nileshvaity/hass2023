@@ -13,16 +13,16 @@
           "user_id": "7f018e4072704c1395bace6300a94d58",
           "friendly_name": "nilesh vaity"
         },
-        "last_changed": "2023-02-21T15:13:46.095243+00:00",
-        "last_updated": "2023-02-21T15:15:54.861986+00:00",
+        "last_changed": "2023-02-25T02:45:38.855012+00:00",
+        "last_updated": "2023-02-25T02:47:45.012076+00:00",
         "context": {
-          "id": "01GST8Q9VDJX6KFBFXC9QDFQ8F",
+          "id": "01GT37G83MGNSRWG5XGM9P2S64",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -31,24 +31,24 @@
         "attributes": {
           "editable": true,
           "id": "monika",
-          "latitude": 19.1506407,
-          "longitude": 72.9436066,
-          "gps_accuracy": 14,
+          "latitude": 19.1506519,
+          "longitude": 72.9436409,
+          "gps_accuracy": 13,
           "source": "device_tracker.sm_m317f",
           "user_id": "fb6df5c4050145b89fb8f9d329d13ae9",
           "entity_picture": "/api/image/serve/576012b33cadf90db33748489a728ab2/512x512",
           "friendly_name": "Monika"
         },
-        "last_changed": "2023-02-21T17:29:47.226785+00:00",
-        "last_updated": "2023-02-21T17:30:53.658055+00:00",
+        "last_changed": "2023-02-25T16:45:28.410768+00:00",
+        "last_updated": "2023-02-25T16:45:28.410768+00:00",
         "context": {
-          "id": "01GSTGEETTQ3E894MM2K8T9ZEH",
+          "id": "01GT4QE5ET9C7VDEP4MFAJKR9Z",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -57,24 +57,24 @@
         "attributes": {
           "editable": true,
           "id": "nilesh",
-          "latitude": 19.1506403,
-          "longitude": 72.9435898,
-          "gps_accuracy": 14,
+          "latitude": 19.1506423,
+          "longitude": 72.9436458,
+          "gps_accuracy": 25,
           "source": "device_tracker.rmx1801",
           "user_id": "4e7a8bb318094775900ad1687f8011de",
           "entity_picture": "/api/image/serve/87d9d3c4e7a9b2131f659f2773745aa9/512x512",
           "friendly_name": "Nilesh"
         },
-        "last_changed": "2023-02-21T17:35:12.253192+00:00",
-        "last_updated": "2023-02-21T17:35:12.253192+00:00",
+        "last_changed": "2023-02-25T13:42:50.199201+00:00",
+        "last_updated": "2023-02-25T17:13:01.509896+00:00",
         "context": {
-          "id": "01GSTGPBBX6CG44811HEB03WRY",
+          "id": "01GT4S0KT5VQF8B8BZ741F7FQK",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -93,16 +93,16 @@
           "friendly_name": "Home Assistant Supervisor Update",
           "supported_features": 1
         },
-        "last_changed": "2023-02-21T15:14:08.362994+00:00",
-        "last_updated": "2023-02-21T15:14:08.362994+00:00",
+        "last_changed": "2023-02-25T02:46:02.592171+00:00",
+        "last_updated": "2023-02-25T02:46:02.592171+00:00",
         "context": {
-          "id": "01GST8M1VAY46NJ467CTHEKYVJ",
+          "id": "01GT37D430T7M6F1056RWDZ219",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -121,16 +121,16 @@
           "friendly_name": "Home Assistant Core Update",
           "supported_features": 11
         },
-        "last_changed": "2023-02-21T15:14:08.365930+00:00",
-        "last_updated": "2023-02-21T15:14:08.365930+00:00",
+        "last_changed": "2023-02-25T02:46:02.595571+00:00",
+        "last_updated": "2023-02-25T02:46:02.595571+00:00",
         "context": {
-          "id": "01GST8M1VD3DH83XF1TPF4MZGJ",
+          "id": "01GT37D433FYRDCZCHR741W4VB",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -149,16 +149,16 @@
           "friendly_name": "Mosquitto broker Update",
           "supported_features": 25
         },
-        "last_changed": "2023-02-21T15:14:08.367693+00:00",
-        "last_updated": "2023-02-21T15:14:08.367693+00:00",
+        "last_changed": "2023-02-25T02:46:02.597625+00:00",
+        "last_updated": "2023-02-25T02:46:02.597625+00:00",
         "context": {
-          "id": "01GST8M1VFVD1GD2ZSNYD4KF3B",
+          "id": "01GT37D435C4MW19GNSZH314E2",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -177,16 +177,16 @@
           "friendly_name": "AdGuard Home Update",
           "supported_features": 25
         },
-        "last_changed": "2023-02-21T15:14:08.369392+00:00",
-        "last_updated": "2023-02-21T15:14:08.369392+00:00",
+        "last_changed": "2023-02-25T02:46:02.599285+00:00",
+        "last_updated": "2023-02-25T02:46:02.599285+00:00",
         "context": {
-          "id": "01GST8M1VHN35DJWX69NQ32NY3",
+          "id": "01GT37D437N2SGE421ZGFZVJB1",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -205,16 +205,16 @@
           "friendly_name": "File editor Update",
           "supported_features": 25
         },
-        "last_changed": "2023-02-21T15:14:08.370985+00:00",
-        "last_updated": "2023-02-21T15:14:08.370985+00:00",
+        "last_changed": "2023-02-25T02:46:02.601231+00:00",
+        "last_updated": "2023-02-25T02:51:05.134662+00:00",
         "context": {
-          "id": "01GST8M1VJVVCSY0X59ESK5BBW",
+          "id": "01GT37PBHEH5PX1TH1Y9HNEX2M",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -233,16 +233,16 @@
           "friendly_name": "Cloudflared Update",
           "supported_features": 25
         },
-        "last_changed": "2023-02-21T15:14:08.372601+00:00",
-        "last_updated": "2023-02-21T15:14:08.372601+00:00",
+        "last_changed": "2023-02-25T02:46:02.602767+00:00",
+        "last_updated": "2023-02-25T02:51:05.136173+00:00",
         "context": {
-          "id": "01GST8M1VMN0A5CT104QAN8ESC",
+          "id": "01GT37PBHGE0FP0N0PKW7X9Q6F",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -261,16 +261,16 @@
           "friendly_name": "Terminal & SSH Update",
           "supported_features": 25
         },
-        "last_changed": "2023-02-21T15:14:08.374324+00:00",
-        "last_updated": "2023-02-21T15:14:08.374324+00:00",
+        "last_changed": "2023-02-25T02:46:02.605040+00:00",
+        "last_updated": "2023-02-25T02:46:02.605040+00:00",
         "context": {
-          "id": "01GST8M1VPP66VP8450FSC3290",
+          "id": "01GT37D43DCQ6FWHB0J9THTMVD",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -289,16 +289,16 @@
           "friendly_name": "motionEye Update",
           "supported_features": 25
         },
-        "last_changed": "2023-02-21T15:14:08.376564+00:00",
-        "last_updated": "2023-02-21T15:14:08.376564+00:00",
+        "last_changed": "2023-02-25T02:46:02.606738+00:00",
+        "last_updated": "2023-02-25T02:46:02.606738+00:00",
         "context": {
-          "id": "01GST8M1VRF7A7VN9CYD87JEVX",
+          "id": "01GT37D43EHJ60AQEC3FR3Z4TA",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -317,16 +317,16 @@
           "friendly_name": "Frigate (Full Access) Beta (0.12.0) Update",
           "supported_features": 25
         },
-        "last_changed": "2023-02-21T15:14:08.378295+00:00",
-        "last_updated": "2023-02-21T15:14:08.378295+00:00",
+        "last_changed": "2023-02-25T02:46:02.608375+00:00",
+        "last_updated": "2023-02-25T02:46:02.608375+00:00",
         "context": {
-          "id": "01GST8M1VTVFXQ0S2D76G6B0H1",
+          "id": "01GT37D43GGWD03D9WW234EP30",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -345,16 +345,55 @@
           "friendly_name": "MariaDB Update",
           "supported_features": 25
         },
-        "last_changed": "2023-02-21T15:14:08.379784+00:00",
-        "last_updated": "2023-02-21T15:14:08.379784+00:00",
+        "last_changed": "2023-02-25T02:46:02.610060+00:00",
+        "last_updated": "2023-02-25T02:46:02.610060+00:00",
         "context": {
-          "id": "01GST8M1VVWC4KA06CAXFKC6TE",
+          "id": "01GT37D43JD1WD97P3VQCZ5PXW",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "input_boolean.dark_mode",
+        "state": "on",
+        "attributes": {
+          "editable": false,
+          "icon": "mdi:theme-light-dark",
+          "friendly_name": "Dark mode"
+        },
+        "last_changed": "2023-02-25T02:46:06.827380+00:00",
+        "last_updated": "2023-02-25T02:46:06.827380+00:00",
+        "context": {
+          "id": "01GT37D87BAEQ64102YFJSWBZS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "input_boolean.theme_alternative",
+        "state": "on",
+        "attributes": {
+          "editable": false,
+          "friendly_name": "Theme alternative (disable active state color)"
+        },
+        "last_changed": "2023-02-25T02:46:06.828954+00:00",
+        "last_updated": "2023-02-25T02:46:06.828954+00:00",
+        "context": {
+          "id": "01GT37D87CPHY72EDBX0VER551",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -373,55 +412,397 @@
           "editable": false,
           "icon": "mdi:format-color-fill"
         },
-        "last_changed": "2023-02-21T15:14:12.542062+00:00",
-        "last_updated": "2023-02-21T15:14:12.542062+00:00",
+        "last_changed": "2023-02-25T02:46:14.441055+00:00",
+        "last_updated": "2023-02-25T02:46:14.441055+00:00",
         "context": {
-          "id": "01GST8M5XYGH55CRNJXBPVH8JM",
+          "id": "01GT37DFN97B104JEQJH00F7B7",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
-        "entity_id": "input_boolean.dark_mode",
-        "state": "on",
+        "entity_id": "update.hacs_update",
+        "state": "off",
         "attributes": {
-          "editable": false,
-          "icon": "mdi:theme-light-dark",
-          "friendly_name": "Dark mode"
+          "auto_update": false,
+          "installed_version": "1.30.1",
+          "in_progress": false,
+          "latest_version": "1.30.1",
+          "release_summary": null,
+          "release_url": "https://github.com/hacs/integration/releases/1.30.1",
+          "skipped_version": null,
+          "title": null,
+          "entity_picture": "https://brands.home-assistant.io/_/hacs/icon.png",
+          "friendly_name": "HACS update",
+          "supported_features": 21
         },
-        "last_changed": "2023-02-21T15:14:12.621328+00:00",
-        "last_updated": "2023-02-21T15:14:12.621328+00:00",
+        "last_changed": "2023-02-25T02:47:01.202916+00:00",
+        "last_updated": "2023-02-25T02:47:01.202916+00:00",
         "context": {
-          "id": "01GST8M60DJ3PPQZ306P8GS69W",
+          "id": "01GT37EXAJQY10QE981ZJGQH79",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
-        "entity_id": "input_boolean.theme_alternative",
-        "state": "on",
+        "entity_id": "update.passive_ble_monitor_integration_update",
+        "state": "off",
         "attributes": {
-          "editable": false,
-          "friendly_name": "Theme alternative (disable active state color)"
+          "auto_update": false,
+          "installed_version": "11.6.2",
+          "in_progress": false,
+          "latest_version": "11.7.1",
+          "release_summary": null,
+          "release_url": "https://github.com/custom-components/ble_monitor/releases/11.7.1",
+          "skipped_version": "11.7.1",
+          "title": null,
+          "entity_picture": "https://brands.home-assistant.io/_/ble_monitor/icon.png",
+          "friendly_name": "Passive BLE monitor integration update",
+          "supported_features": 21
         },
-        "last_changed": "2023-02-21T15:14:12.622629+00:00",
-        "last_updated": "2023-02-21T15:14:12.622629+00:00",
+        "last_changed": "2023-02-25T02:47:01.205437+00:00",
+        "last_updated": "2023-02-25T02:47:01.205437+00:00",
         "context": {
-          "id": "01GST8M60E3ZKD21T5FNNR8REF",
+          "id": "01GT37EXAN26A082M9E7H18BKD",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.dwains_dashboard_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "v3.3.0",
+          "in_progress": false,
+          "latest_version": "v3.3.0",
+          "release_summary": null,
+          "release_url": "https://github.com/dwainscheeren/dwains-lovelace-dashboard/releases/v3.3.0",
+          "skipped_version": null,
+          "title": null,
+          "entity_picture": "https://brands.home-assistant.io/_/dwains_dashboard/icon.png",
+          "friendly_name": "Dwains Dashboard update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.208039+00:00",
+        "last_updated": "2023-02-25T02:47:01.208039+00:00",
+        "context": {
+          "id": "01GT37EXAR531A427ZSVTZ47GQ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.ios_dark_mode_theme_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "2805f18",
+          "in_progress": false,
+          "latest_version": "2805f18",
+          "release_summary": null,
+          "release_url": "https://github.com/basnijholt/lovelace-ios-dark-mode-theme",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "iOS Dark Mode Theme update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.209902+00:00",
+        "last_updated": "2023-02-25T02:47:01.209902+00:00",
+        "context": {
+          "id": "01GT37EXASMPPM0QFYRX96AVHZ",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.ios_themes_dark_mode_and_light_mode_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "v2.11.0",
+          "in_progress": false,
+          "latest_version": "v2.11.0",
+          "release_summary": null,
+          "release_url": "https://github.com/basnijholt/lovelace-ios-themes/releases/v2.11.0",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "iOS Themes - Dark Mode and Light Mode update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.211493+00:00",
+        "last_updated": "2023-02-25T02:47:01.211493+00:00",
+        "context": {
+          "id": "01GT37EXAVVTM312137NP99329",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.mushroom_themes_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "v0.0.9",
+          "in_progress": false,
+          "latest_version": "v0.0.9",
+          "release_summary": null,
+          "release_url": "https://github.com/piitaya/lovelace-mushroom-themes/releases/v0.0.9",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "Mushroom Themes update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.213989+00:00",
+        "last_updated": "2023-02-25T02:47:01.213989+00:00",
+        "context": {
+          "id": "01GT37EXAXFEYWZDZEAQKSKWJG",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.metrology_metro_fluent_windows_themes_by_mmak_es_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "v.1.9.1",
+          "in_progress": false,
+          "latest_version": "v.1.9.1",
+          "release_summary": null,
+          "release_url": "https://github.com/Madelena/Metrology-for-Hass/releases/v.1.9.1",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "Metrology - Metro + Fluent + Windows Themes - by mmak.es update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.215679+00:00",
+        "last_updated": "2023-02-25T02:47:01.215679+00:00",
+        "context": {
+          "id": "01GT37EXAZWZTC8MAQBVGC1H7N",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.macos_theme_based_on_the_system_wide_light_and_dark_mode_ui_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "v1.4",
+          "in_progress": false,
+          "latest_version": "v1.4",
+          "release_summary": null,
+          "release_url": "https://github.com/JuanMTech/macOS-Theme/releases/v1.4",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "macOS Theme - Based on the system-wide light and dark mode UI update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.217551+00:00",
+        "last_updated": "2023-02-25T02:47:01.217551+00:00",
+        "context": {
+          "id": "01GT37EXB1B8TQECFX790XVPK6",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.travel_time_card_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "2.0.0",
+          "in_progress": false,
+          "latest_version": "2.0.0",
+          "release_summary": null,
+          "release_url": "https://github.com/ljmerza/travel-time-card/releases/2.0.0",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "Travel Time Card update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.219537+00:00",
+        "last_updated": "2023-02-25T02:47:01.219537+00:00",
+        "context": {
+          "id": "01GT37EXB3XNW2CMXWF2HZ7N0C",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.scheduler_card_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "v3.2.7",
+          "in_progress": false,
+          "latest_version": "v3.2.7",
+          "release_summary": null,
+          "release_url": "https://github.com/nielsfaber/scheduler-card/releases/v3.2.7",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "Scheduler Card update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.221342+00:00",
+        "last_updated": "2023-02-25T02:47:01.221342+00:00",
+        "context": {
+          "id": "01GT37EXB5JPEFTG1C29A17CFS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.banner_card_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "0.13.0",
+          "in_progress": false,
+          "latest_version": "0.13.0",
+          "release_summary": null,
+          "release_url": "https://github.com/nervetattoo/banner-card/releases/0.13.0",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "Banner Card update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.223157+00:00",
+        "last_updated": "2023-02-25T02:47:01.223157+00:00",
+        "context": {
+          "id": "01GT37EXB7VSF624MEBZ7W63ZR",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.ha_lovelace_card_waze_travel_time_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "038f2a8",
+          "in_progress": false,
+          "latest_version": "038f2a8",
+          "release_summary": null,
+          "release_url": "https://github.com/r-renato/ha-card-waze-travel-time",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "HA (Lovelace) Card Waze Travel Time update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.224973+00:00",
+        "last_updated": "2023-02-25T02:47:01.224973+00:00",
+        "context": {
+          "id": "01GT37EXB89065SBWR2TTR7TQS",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.mini_graph_card_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "v0.11.0",
+          "in_progress": false,
+          "latest_version": "v0.11.0",
+          "release_summary": null,
+          "release_url": "https://github.com/kalkih/mini-graph-card/releases/v0.11.0",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "mini-graph-card update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.226548+00:00",
+        "last_updated": "2023-02-25T02:47:01.226548+00:00",
+        "context": {
+          "id": "01GT37EXBA55BRB4Y56E7CDYXA",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "update.mushroom_update",
+        "state": "off",
+        "attributes": {
+          "auto_update": false,
+          "installed_version": "v2.5.3",
+          "in_progress": false,
+          "latest_version": "v2.5.3",
+          "release_summary": null,
+          "release_url": "https://github.com/piitaya/lovelace-mushroom/releases/v2.5.3",
+          "skipped_version": null,
+          "title": null,
+          "friendly_name": "Mushroom update",
+          "supported_features": 21
+        },
+        "last_changed": "2023-02-25T02:47:01.228345+00:00",
+        "last_updated": "2023-02-25T02:47:01.228345+00:00",
+        "context": {
+          "id": "01GT37EXBC5B76T7058AP8GM1Q",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -432,19 +813,19 @@
           "icon": "mdi:information-outline",
           "friendly_name": "Mandir status"
         },
-        "last_changed": "2023-02-21T17:27:28.344230+00:00",
-        "last_updated": "2023-02-21T17:27:28.344230+00:00",
+        "last_changed": "2023-02-25T16:45:39.766026+00:00",
+        "last_updated": "2023-02-25T16:45:39.766026+00:00",
         "context": {
-          "id": "01GSTG86AR6CASVS5NMQMA3NM8",
+          "id": "01GT4QEGHPHNRREWR9AX49Q4RC",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "20",
+        "native_value": "34",
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -454,16 +835,479 @@
           "device_class": "switch",
           "friendly_name": "Mandir_sonoff"
         },
-        "last_changed": "2023-02-21T17:27:28.345565+00:00",
-        "last_updated": "2023-02-21T17:27:28.345565+00:00",
+        "last_changed": "2023-02-25T16:45:39.767100+00:00",
+        "last_updated": "2023-02-25T16:45:39.767100+00:00",
         "context": {
-          "id": "01GSTG86ASPBMCX78GYDPFNYYH",
+          "id": "01GT4QEGHQ1YXKNSE7FG134E8J",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.gsmnotify",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-25T17:27:00.249542+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1611409941296",
+          "friendly_name": "gsmnotifybaterryfullnilesh"
+        },
+        "last_changed": "2023-02-25T02:47:05.599457+00:00",
+        "last_updated": "2023-02-25T17:27:04.941208+00:00",
+        "context": {
+          "id": "01GT4ST6WQAAQ3NMFM563J9TCT",
+          "parent_id": "01GT4ST6WA00N6N9PWX3RG3HRC",
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.zone_notification",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-25T12:42:21.898438+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1611411313060",
+          "friendly_name": "Nilesh home Zone Notification"
+        },
+        "last_changed": "2023-02-25T02:47:05.606750+00:00",
+        "last_updated": "2023-02-25T12:42:26.449380+00:00",
+        "context": {
+          "id": "01GT49H0T8E8R0KRFPR57DTKEZ",
+          "parent_id": "01GT49H0SPY79YE22H05FVT3VX",
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.gsmnotifybaterryfullmonika",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-25T03:40:28.050794+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1611469498220",
+          "friendly_name": "gsmnotifybaterryfullmonika"
+        },
+        "last_changed": "2023-02-25T02:47:05.609616+00:00",
+        "last_updated": "2023-02-25T03:40:32.441361+00:00",
+        "context": {
+          "id": "01GT3AGS0GCKY0P21R9VKWB7NM",
+          "parent_id": "01GT3AGRYR59QPA94FFTGQHSTB",
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.zone_notification_2",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-25T06:53:33.138520+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1611632533399",
+          "friendly_name": "Monika Home Zone Notification"
+        },
+        "last_changed": "2023-02-25T02:47:05.612959+00:00",
+        "last_updated": "2023-02-25T06:53:37.933902+00:00",
+        "context": {
+          "id": "01GT3NJAJG81XDYHXR7G6KHEVB",
+          "parent_id": "01GT3NJAGYFQVN1JRR59DV5VHF",
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.nilesh_zone_interaction_action",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-17T09:51:46.787878+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1611633499595",
+          "friendly_name": "Nilesh Work Zone interaction action"
+        },
+        "last_changed": "2023-02-25T02:47:05.615097+00:00",
+        "last_updated": "2023-02-25T02:47:05.615097+00:00",
+        "context": {
+          "id": "01GT37F1MFPZS6APAB8VR1GTHW",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.monika_zone_interaction_action",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-25T06:52:24.750273+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1611633704243",
+          "friendly_name": "Monika School Zone interaction action"
+        },
+        "last_changed": "2023-02-25T02:47:05.617363+00:00",
+        "last_updated": "2023-02-25T06:52:33.398238+00:00",
+        "context": {
+          "id": "01GT3NGG7P9DCZYQ3AXJFHX5H2",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.dim_lights_based_on_sun_elevation",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2021-12-17T07:44:12.093173+00:00",
+          "mode": "queued",
+          "current": 0,
+          "max": 10,
+          "id": "1612077407628",
+          "friendly_name": "Dim lights based on sun elevation"
+        },
+        "last_changed": "2023-02-25T02:47:05.619622+00:00",
+        "last_updated": "2023-02-25T02:47:05.619622+00:00",
+        "context": {
+          "id": "01GT37F1MKX2AMM01Q9XP032GK",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.sunrise_mandir_lightoff",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-24T01:31:39.667730+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1612086377652",
+          "friendly_name": "sunrise-mandir-lightoff"
+        },
+        "last_changed": "2023-02-25T02:47:05.622277+00:00",
+        "last_updated": "2023-02-25T02:47:05.622277+00:00",
+        "context": {
+          "id": "01GT37F1MPZ5FNSH6A8SEPY86T",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.sunset_mandir_lighton",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-25T13:11:58.749109+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1612086545343",
+          "friendly_name": "sunset-mandir-lighton"
+        },
+        "last_changed": "2023-02-25T02:47:05.624652+00:00",
+        "last_updated": "2023-02-25T13:12:00.078405+00:00",
+        "context": {
+          "id": "01GT4B780THFPZJ9Q0FT7GBBEB",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.mandir_light_off_at_night",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-25T17:30:00.210967+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1612103102239",
+          "friendly_name": "mandir-light-off"
+        },
+        "last_changed": "2023-02-25T02:47:05.626708+00:00",
+        "last_updated": "2023-02-25T17:30:05.169890+00:00",
+        "context": {
+          "id": "01GT4SZPMEVP3BV663JXZW559F",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.nilesh_school_zone_interaction_action",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-24T08:24:10.874266+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1655479754300",
+          "friendly_name": "Nilesh School Zone interaction action"
+        },
+        "last_changed": "2023-02-25T02:47:05.630724+00:00",
+        "last_updated": "2023-02-25T02:47:05.630724+00:00",
+        "context": {
+          "id": "01GT37F1MY15191ABM8TEEZG1R",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.test_google_calendar_event",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-21T18:30:10.007341+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1656170875014",
+          "friendly_name": "Google Calendar Birthday Event Trigger"
+        },
+        "last_changed": "2023-02-25T02:47:05.634214+00:00",
+        "last_updated": "2023-02-25T02:47:05.634214+00:00",
+        "context": {
+          "id": "01GT37F1N2W3BBTSNYTQSVJJ3Z",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.google_calendar_holiday_event_trigger",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-01-14T18:30:10.006373+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1656178644684",
+          "friendly_name": "Google Calendar Holiday Event Trigger"
+        },
+        "last_changed": "2023-02-25T02:47:05.636736+00:00",
+        "last_updated": "2023-02-25T02:47:05.636736+00:00",
+        "context": {
+          "id": "01GT37F1N425B0NBJ9DSXVX063",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.google_calendar_event_trigger",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2022-10-24T12:30:10.007032+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1656178773816",
+          "friendly_name": "Google Calendar Event Trigger"
+        },
+        "last_changed": "2023-02-25T02:47:05.640153+00:00",
+        "last_updated": "2023-02-25T02:47:05.640153+00:00",
+        "context": {
+          "id": "01GT37F1N8048G0D4MQ2TN9F0H",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.nilesh_tution_zone_interaction_action",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-24T12:39:55.280887+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1660842775488",
+          "friendly_name": "Nilesh Tution Zone interaction action"
+        },
+        "last_changed": "2023-02-25T02:47:05.642548+00:00",
+        "last_updated": "2023-02-25T02:47:05.642548+00:00",
+        "context": {
+          "id": "01GT37F1NAMAXCB54BP94WEV59",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.google_calendar_events",
+        "state": "off",
+        "attributes": {
+          "last_triggered": "2022-10-24T12:15:00.005339+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1664215963989",
+          "friendly_name": "Google Calendar Events"
+        },
+        "last_changed": "2023-02-25T02:47:05.644952+00:00",
+        "last_updated": "2023-02-25T02:47:05.644952+00:00",
+        "context": {
+          "id": "01GT37F1NC74HSARNPNW0N1QDK",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.moon_phase_change",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-20T18:30:05.165934+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1665328951037",
+          "friendly_name": "Moon phase change"
+        },
+        "last_changed": "2023-02-25T02:47:05.646787+00:00",
+        "last_updated": "2023-02-25T02:47:05.646787+00:00",
+        "context": {
+          "id": "01GT37F1NEAPRSN5QYCF2ERVD0",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.update_morning_commute_sensor",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-24T17:25:00.235115+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1669355991949",
+          "friendly_name": "Update morning commute sensor"
+        },
+        "last_changed": "2023-02-25T02:47:05.649632+00:00",
+        "last_updated": "2023-02-25T02:47:05.649632+00:00",
+        "context": {
+          "id": "01GT37F1NHSZCP69AAY0KVEXS9",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.frontend_turn_on_dark_mode",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-24T13:11:36.448262+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1673535640033",
+          "friendly_name": "Frontend: turn on dark mode"
+        },
+        "last_changed": "2023-02-25T02:47:05.652100+00:00",
+        "last_updated": "2023-02-25T02:47:05.652100+00:00",
+        "context": {
+          "id": "01GT37F1NMFFPP41BJJFN53FET",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.frontend_turn_on_light_mode",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-24T01:31:39.663542+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1673535809740",
+          "friendly_name": "Frontend: turn on light mode"
+        },
+        "last_changed": "2023-02-25T02:47:05.654707+00:00",
+        "last_updated": "2023-02-25T02:47:05.654707+00:00",
+        "context": {
+          "id": "01GT37F1NP7FY6XBAW2WHFH717",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
+    },
+    {
+      "state": {
+        "entity_id": "automation.frontend_change_theme",
+        "state": "on",
+        "attributes": {
+          "last_triggered": "2023-02-25T02:47:48.051615+00:00",
+          "mode": "single",
+          "current": 0,
+          "id": "1673536058896",
+          "friendly_name": "Frontend: change theme"
+        },
+        "last_changed": "2023-02-25T02:47:05.659023+00:00",
+        "last_updated": "2023-02-25T02:47:52.932697+00:00",
+        "context": {
+          "id": "01GT37GB2HQT5V3W2953RA36P5",
+          "parent_id": null,
+          "user_id": null
+        }
+      },
+      "extra_data": null,
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -474,10 +1318,10 @@
           "icon": "mdi:sleep",
           "friendly_name": "SM-M317F Detected Activity"
         },
-        "last_changed": "2023-02-21T15:15:11.482574+00:00",
-        "last_updated": "2023-02-21T15:15:11.482574+00:00",
+        "last_changed": "2023-02-25T09:15:03.270488+00:00",
+        "last_updated": "2023-02-25T09:15:03.270488+00:00",
         "context": {
-          "id": "01GST8NZFTC5W4C2Z0FGBG4Q5E",
+          "id": "01GT3XNDQ68BBSFBWTT9795R8W",
           "parent_id": null,
           "user_id": null
         }
@@ -486,32 +1330,32 @@
         "native_value": "still",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_battery_level",
-        "state": "90",
+        "state": "76",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "%",
           "device_class": "battery",
-          "icon": "mdi:battery-90",
+          "icon": "mdi:battery-70",
           "friendly_name": "SM-M317F Battery Level"
         },
-        "last_changed": "2023-02-21T17:28:31.266100+00:00",
-        "last_updated": "2023-02-21T17:28:31.266100+00:00",
+        "last_changed": "2023-02-25T17:28:01.751871+00:00",
+        "last_updated": "2023-02-25T17:28:01.751871+00:00",
         "context": {
-          "id": "01GSTGA3S2M1TNBT6AQX47ZRRN",
+          "id": "01GT4SW2YQPY88YYWBYC9Y5APB",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 90,
+        "native_value": 76,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -521,10 +1365,10 @@
           "icon": "mdi:battery-minus",
           "friendly_name": "SM-M317F Battery State"
         },
-        "last_changed": "2023-02-21T16:25:54.845918+00:00",
-        "last_updated": "2023-02-21T16:25:54.845918+00:00",
+        "last_changed": "2023-02-25T16:10:51.925823+00:00",
+        "last_updated": "2023-02-25T16:10:51.925823+00:00",
         "context": {
-          "id": "01GSTCQFCXYXK3QV0X7MVYV2TV",
+          "id": "01GT4NESMNNH4HCRA0417F7XSK",
           "parent_id": null,
           "user_id": null
         }
@@ -533,7 +1377,7 @@
         "native_value": "discharging",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -543,10 +1387,10 @@
           "icon": "mdi:battery",
           "friendly_name": "SM-M317F Charger Type"
         },
-        "last_changed": "2023-02-21T16:25:54.885018+00:00",
-        "last_updated": "2023-02-21T16:25:54.885018+00:00",
+        "last_changed": "2023-02-25T16:10:53.710567+00:00",
+        "last_updated": "2023-02-25T16:10:53.710567+00:00",
         "context": {
-          "id": "01GSTCQFE5H3WYPAAJ6VVWXH1B",
+          "id": "01GT4NEVCEN184F5YA3FKSPYFC",
           "parent_id": null,
           "user_id": null
         }
@@ -555,7 +1399,7 @@
         "native_value": "none",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -565,10 +1409,10 @@
           "icon": "mdi:battery-heart-variant",
           "friendly_name": "SM-M317F Battery Health"
         },
-        "last_changed": "2023-02-21T15:15:11.490351+00:00",
-        "last_updated": "2023-02-21T15:15:11.490351+00:00",
+        "last_changed": "2023-02-25T02:47:08.081490+00:00",
+        "last_updated": "2023-02-25T02:47:08.081490+00:00",
         "context": {
-          "id": "01GST8NZG2297B7CACYCZFPDJ9",
+          "id": "01GT37F41H24WQ2EW624REDRFR",
           "parent_id": null,
           "user_id": null
         }
@@ -577,12 +1421,12 @@
         "native_value": "good",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_battery_temperature",
-        "state": "29.8",
+        "state": "32.2",
         "attributes": {
           "state_class": "measurement",
           "unit_of_measurement": "°C",
@@ -590,19 +1434,19 @@
           "icon": "mdi:battery",
           "friendly_name": "SM-M317F Battery Temperature"
         },
-        "last_changed": "2023-02-21T17:45:51.034085+00:00",
-        "last_updated": "2023-02-21T17:45:51.034085+00:00",
+        "last_changed": "2023-02-25T17:28:01.755208+00:00",
+        "last_updated": "2023-02-25T17:28:01.755208+00:00",
         "context": {
-          "id": "01GSTH9V5TZSB8N938W41QEV93",
+          "id": "01GT4SW2YV3PQ72F6J8A3G9R5V",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 29.8,
+        "native_value": 32.2,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -610,17 +1454,17 @@
         "state": "0.0",
         "attributes": {
           "state_class": "measurement",
-          "current": -0.000242,
-          "voltage": 4.148,
+          "current": -0.000243,
+          "voltage": 4.011,
           "unit_of_measurement": "W",
           "device_class": "power",
           "icon": "mdi:battery-minus",
           "friendly_name": "SM-M317F Battery Power"
         },
-        "last_changed": "2023-02-21T16:42:25.928955+00:00",
-        "last_updated": "2023-02-21T17:45:51.037376+00:00",
+        "last_changed": "2023-02-25T16:53:01.580833+00:00",
+        "last_updated": "2023-02-25T17:32:01.818554+00:00",
         "context": {
-          "id": "01GSTH9V5XJJ0A3JBE7Z6FEY18",
+          "id": "01GT4T3DCTT624HNMM8JA19PK5",
           "parent_id": null,
           "user_id": null
         }
@@ -629,7 +1473,7 @@
         "native_value": 0.0,
         "native_unit_of_measurement": "W"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -656,10 +1500,10 @@
           "icon": "mdi:map-marker-account",
           "friendly_name": "SM-M317F Geocoded Location"
         },
-        "last_changed": "2023-02-21T15:15:11.495960+00:00",
-        "last_updated": "2023-02-21T15:15:11.495960+00:00",
+        "last_changed": "2023-02-25T12:08:50.889713+00:00",
+        "last_updated": "2023-02-25T12:08:50.889713+00:00",
         "context": {
-          "id": "01GST8NZG7Q2ZG0WHZ69DHAAA9",
+          "id": "01GT47KMY99AB8F2QNX1BQ5AAY",
           "parent_id": null,
           "user_id": null
         }
@@ -668,30 +1512,30 @@
         "native_value": "WING-F, Veer Savarkar Rd, Rajdeep Nagar, Vasant Nagar, Bhandup West, Mumbai, Maharashtra 400078, India",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_last_used_app",
-        "state": "com.sec.android.app.launcher",
+        "state": "com.pinterest",
         "attributes": {
-          "Label": "One UI Home",
+          "Label": "Pinterest",
           "icon": "mdi:android",
           "friendly_name": "SM-M317F Last Used App"
         },
-        "last_changed": "2023-02-21T17:29:02.273489+00:00",
-        "last_updated": "2023-02-21T17:29:02.273489+00:00",
+        "last_changed": "2023-02-25T17:04:36.046631+00:00",
+        "last_updated": "2023-02-25T17:04:36.046631+00:00",
         "context": {
-          "id": "01GSTGB221DS0KXGVGWGQQ37HV",
+          "id": "01GT4RH66E2117Z2M2Y9970SRG",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "com.sec.android.app.launcher",
+        "native_value": "com.pinterest",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -701,10 +1545,10 @@
           "icon": "mdi:ip",
           "friendly_name": "SM-M317F WiFi IP Address"
         },
-        "last_changed": "2023-02-21T15:15:11.499871+00:00",
-        "last_updated": "2023-02-21T15:15:11.499871+00:00",
+        "last_changed": "2023-02-25T06:56:10.076316+00:00",
+        "last_updated": "2023-02-25T06:56:10.076316+00:00",
         "context": {
-          "id": "01GST8NZGBYWGV5X6JACN3PZVT",
+          "id": "01GT3NQ3TW4PXHQ3XWWN0FYVMC",
           "parent_id": null,
           "user_id": null
         }
@@ -713,21 +1557,22 @@
         "native_value": "192.168.1.58",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_wifi_frequency",
         "state": "5180",
         "attributes": {
+          "state_class": "measurement",
           "unit_of_measurement": "MHz",
           "icon": "mdi:wifi",
           "friendly_name": "SM-M317F WiFi Frequency"
         },
-        "last_changed": "2023-02-21T17:29:47.314772+00:00",
-        "last_updated": "2023-02-21T17:29:47.314772+00:00",
+        "last_changed": "2023-02-25T16:45:25.217280+00:00",
+        "last_updated": "2023-02-25T16:45:25.217280+00:00",
         "context": {
-          "id": "01GSTGCE1JDCGD2N47DEBEP6A7",
+          "id": "01GT4QE2B1SFS5TM7KVDTA8BPN",
           "parent_id": null,
           "user_id": null
         }
@@ -736,7 +1581,7 @@
         "native_value": 5180,
         "native_unit_of_measurement": "MHz"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -747,10 +1592,10 @@
           "icon": "mdi:wifi",
           "friendly_name": "SM-M317F Network Type"
         },
-        "last_changed": "2023-02-21T15:15:11.503581+00:00",
-        "last_updated": "2023-02-21T15:15:11.503581+00:00",
+        "last_changed": "2023-02-25T06:56:10.083293+00:00",
+        "last_updated": "2023-02-25T06:56:10.083293+00:00",
         "context": {
-          "id": "01GST8NZGFPPD0MERN1HEWCKJP",
+          "id": "01GT3NQ3V37GAB2S0FMBV4YQP3",
           "parent_id": null,
           "user_id": null
         }
@@ -759,7 +1604,7 @@
         "native_value": "wifi",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -770,10 +1615,10 @@
           "icon": "mdi:alarm",
           "friendly_name": "SM-M317F Next Alarm"
         },
-        "last_changed": "2023-02-21T15:15:11.505181+00:00",
-        "last_updated": "2023-02-21T15:15:11.505181+00:00",
+        "last_changed": "2023-02-25T02:47:08.102655+00:00",
+        "last_updated": "2023-02-25T02:47:08.102655+00:00",
         "context": {
-          "id": "01GST8NZGH73NN11NQ7AK52FCG",
+          "id": "01GT37F426ZV57FTD86H7AJZ05",
           "parent_id": null,
           "user_id": null
         }
@@ -782,417 +1627,231 @@
         "native_value": "unavailable",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_last_notification",
-        "state": "MRP: ₹1,699  \nAJIO Price: ₹629",
+        "state": "Samsung Keyboard",
         "attributes": {
-          "android.appInfo": "ApplicationInfo{f7fb33 com.ril.ajio}",
-          "android.bigText": "MRP: ₹1,699  \nAJIO Price: ₹629",
-          "android.infoText": "null",
-          "android.largeIcon": "Icon(typ=BITMAP size=101x101)",
-          "android.progress": 0,
-          "android.progressIndeterminate": false,
-          "android.progressMax": 0,
+          "android.appInfo": "ApplicationInfo{b1ecd00 android}",
           "android.reduced.images": true,
-          "android.remoteInputHistory": "null",
-          "android.showChronometer": false,
-          "android.showWhen": true,
-          "android.subText": "null",
-          "android.template": "android.app.Notification$BigTextStyle",
-          "android.text": "MRP: ₹1,699  \nAJIO Price: ₹629",
-          "android.title": "USPA",
-          "androidx.core.app.extra.COMPAT_TEMPLATE": "androidx.core.app.NotificationCompat$BigTextStyle",
-          "category": "null",
-          "channel_id": "ajio_channel_01",
+          "android.text": "Samsung Keyboard",
+          "android.title": "Choose input method",
+          "category": "sys",
+          "channel_id": "VIRTUAL_KEYBOARD",
           "group_id": "null",
-          "is_clearable": true,
-          "is_ongoing": false,
-          "package": "com.ril.ajio",
-          "post_time": 1677001548373,
+          "is_clearable": false,
+          "is_ongoing": true,
+          "package": "android",
+          "post_time": 1677346243433,
           "icon": "mdi:bell-ring",
           "friendly_name": "SM-M317F Last Notification"
         },
-        "last_changed": "2023-02-21T17:45:51.045567+00:00",
-        "last_updated": "2023-02-21T17:45:51.045567+00:00",
+        "last_changed": "2023-02-25T17:30:45.176967+00:00",
+        "last_updated": "2023-02-25T17:30:45.176967+00:00",
         "context": {
-          "id": "01GSTH9V65FDNYVZZHNXC46RSH",
+          "id": "01GT4T12HRV15AC3Y720C38EKW",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "MRP: ₹1,699  \nAJIO Price: ₹629",
+        "native_value": "Samsung Keyboard",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_active_notification_count",
-        "state": "17",
+        "state": "13",
         "attributes": {
           "state_class": "measurement",
-          "android.appInfo_com.android.chrome_-1": "ApplicationInfo{64cafba com.android.chrome}",
-          "android.appInfo_com.android.systemui_4660": "ApplicationInfo{a1afe61 com.android.systemui}",
-          "android.appInfo_com.fsn.nds_660154560": "ApplicationInfo{772b8e5 com.fsn.nds}",
-          "android.appInfo_com.google.android.youtube_99": "ApplicationInfo{ea99c4f com.google.android.youtube}",
-          "android.appInfo_com.kitkagames.fallbuddies_0": "ApplicationInfo{dae6b com.kitkagames.fallbuddies}",
-          "android.appInfo_com.kitkagames.fallbuddies_1963117421": "ApplicationInfo{2ba0dc8 com.kitkagames.fallbuddies}",
-          "android.appInfo_com.ril.ajio_3": "ApplicationInfo{ef5d6ae com.ril.ajio}",
-          "android.appInfo_com.samsung.android.app.smartcapture_5755": "ApplicationInfo{7060d86 com.samsung.android.app.smartcapture}",
-          "android.appInfo_com.whatsapp_1": "ApplicationInfo{28f76f1 com.whatsapp}",
-          "android.appInfo_org.linphone_1": "ApplicationInfo{4463e74 org.linphone}",
-          "android.bigText_com.android.chrome_-1": "Every downturn a boon for Indian software firms: Infy's Murthy",
-          "android.bigText_com.kitkagames.fallbuddies_1963117421": "🤘 NEW METAL STUMBLERS 🤘\nHead to the shop and go full metal",
-          "android.bigText_com.ril.ajio_3": "Then: ₹2,499   \nNow: ₹763*",
-          "android.contains.customView_com.fsn.nds_660154560": true,
-          "android.conversationTitle_com.whatsapp_1": "GSSISgrade 3(parents grp) (4 messages)",
+          "android.appInfo_com.android.chrome_-1": "ApplicationInfo{c832f33 com.android.chrome}",
+          "android.appInfo_com.meesho.supply_122118087": "ApplicationInfo{aed2f0 com.meesho.supply}",
+          "android.appInfo_com.samsung.android.messaging_123": "ApplicationInfo{88186f9 com.samsung.android.messaging}",
+          "android.appInfo_com.shopping.limeroad_0": "ApplicationInfo{e6816a2 com.shopping.limeroad}",
+          "android.appInfo_com.whatsapp_1": "ApplicationInfo{5f603bb com.whatsapp}",
+          "android.appInfo_org.linphone_1": "ApplicationInfo{254faee org.linphone}",
+          "android.bigText_com.android.chrome_-1": "Know from the best astrologers and get accurate predictions. First Chat Free",
+          "android.contains.customView_com.shopping.limeroad_0": true,
+          "android.conversationTitle_com.whatsapp_1": "Kesari Rajasthan Nov 2018 (2 messages)",
+          "android.conversationUnreadMessageCount_com.samsung.android.messaging_123": 0,
           "android.conversationUnreadMessageCount_com.whatsapp_1": 0,
-          "android.hiddenConversationTitle_com.whatsapp_1": "GSSISgrade 3(parents grp) (4 messages)",
+          "android.hiddenConversationTitle_com.samsung.android.messaging_123": "null",
+          "android.hiddenConversationTitle_com.whatsapp_1": "Kesari Rajasthan Nov 2018 (2 messages)",
           "android.infoText_com.android.chrome_-1": "null",
-          "android.infoText_com.fsn.nds_660154560": "null",
-          "android.infoText_com.google.android.youtube_99": "null",
-          "android.infoText_com.kitkagames.fallbuddies_0": "null",
-          "android.infoText_com.kitkagames.fallbuddies_1963117421": "null",
-          "android.infoText_com.ril.ajio_3": "null",
+          "android.infoText_com.meesho.supply_122118087": "null",
+          "android.infoText_com.samsung.android.messaging_123": "null",
+          "android.infoText_com.shopping.limeroad_0": "null",
           "android.infoText_com.whatsapp_1": "null",
           "android.infoText_org.linphone_1": "null",
+          "android.isGroupConversation_com.samsung.android.messaging_123": false,
           "android.isGroupConversation_com.whatsapp_1": true,
-          "android.largeIcon.big_com.google.android.youtube_99": "Icon(typ=BITMAP size=101x101)",
-          "android.largeIcon.big_com.samsung.android.app.smartcapture_5755": "null",
+          "android.largeIcon.big_com.meesho.supply_122118087": "Icon(typ=BITMAP size=101x50)",
           "android.largeIcon_com.android.chrome_-1": "Icon(typ=BITMAP size=101x101)",
-          "android.largeIcon_com.fsn.nds_660154560": "null",
-          "android.largeIcon_com.google.android.youtube_99": "Icon(typ=BITMAP size=101x56)",
-          "android.largeIcon_com.kitkagames.fallbuddies_0": "null",
-          "android.largeIcon_com.kitkagames.fallbuddies_1963117421": "null",
-          "android.largeIcon_com.ril.ajio_3": "Icon(typ=BITMAP size=101x101)",
-          "android.largeIcon_com.samsung.android.app.smartcapture_5755": "Icon(typ=BITMAP size=101x101)",
+          "android.largeIcon_com.meesho.supply_122118087": "Icon(typ=BITMAP size=101x50)",
+          "android.largeIcon_com.samsung.android.messaging_123": "Icon(typ=BITMAP size=101x101)",
+          "android.largeIcon_com.shopping.limeroad_0": "null",
           "android.largeIcon_com.whatsapp_1": "Icon(typ=BITMAP size=101x101)",
           "android.largeIcon_org.linphone_1": "null",
-          "android.messages_com.whatsapp_1": [
-            "{extras={}, sender_person=android.app.Person@c1b637b9, sender=+91 90828 48646, text=Thanku, time=1676998335000}",
-            "{extras={}, sender_person=android.app.Person@d61ea5ba, sender=+91 90828 48646, text=Thanku, time=1676998338000}",
-            "{extras={}, sender_person=android.app.Person@327299d7, sender=+91 88985 84375, text=🙏🏻welcome dear, time=1676998871000}",
-            "{extras={}, sender_person=android.app.Person@c6a37b81, sender=+91 97690 90882, text=Thank you, time=1677000474000}"
+          "android.messages_com.samsung.android.messaging_123": [
+            "{extras={}, sender_person=android.app.Person@bc59d42f, sender=⁨Nilesh papa⁩, text=Battery full on Nilesh's Mobile, time=1677346027084}"
           ],
-          "android.messagingStyleUser_com.whatsapp_1": "{key=null, uri=null, icon={string1=null, obj=android.graphics.Bitmap@bdeb662, int1=0, int2=0, type=1}, name=You, isBot=false, isImportant=false}",
-          "android.messagingUser_com.whatsapp_1": "android.app.Person@fc2aa3b5",
-          "android.pictureIcon_com.google.android.youtube_99": "null",
-          "android.pictureIcon_com.samsung.android.app.smartcapture_5755": "null",
-          "android.picture_com.google.android.youtube_99": "android.graphics.Bitmap@ff1cfdc",
-          "android.picture_com.samsung.android.app.smartcapture_5755": "android.graphics.Bitmap@156c647",
+          "android.messages_com.whatsapp_1": [
+            "{extras={}, sender_person=android.app.Person@c23e2dfd, sender=+91 80975 23605, text=अप्रतिम लेख आहे नक्की आवडेल.\n\n OUT LET वाचाल तरच वाचाल,..!...!\n\n               लाखो जीव घेणार्‍या क्रूर  हिटलरने शेवटी आत्महत्या केली !........\n               सुंदर विचार देणारे साने गुरुजी आत्मघात करुन घेतात.\n               मनशक्ती नावाचं मनाला खंबीर करण्याचं शिक्षण देणारे लोणावळ्याचे स्वामी विज्ञानानंद मंत्रालयावरुन उडी मारुन जीव देतात.\n              आध्यात्मिक गुरु अशी ओळख निर्माण केलेले व कित्येकांना आधार देणारे भैय्युजी महाराज आपलं जीवन आपल्या हातानं संपवतात.\n                पॉझिटिव्ह विचार देणारा चित्रपट करुनही सुशांत सिंग राजपुतनं नैराश्यातून आत्महत्या केली.\n                -आणि आता सहा आठ महिन्यांपूर्वी नैराश्याशी लढा कसा द्यायचा हे शिकवणाऱ्या शीतल (आमटे) करजगी आपलं जीवन संपवतात. \n               -आजची नागपूरची बातमी उच्च विद्याविभूषित, दिवंगत कुलगुरूच्या पत्नी तसेच राष्ट्रसंत तुकडोजी महाराज नागपूर विद्यापीठाच्या रसायनशास्त्र विभाग प्रमुख डॉ. ज्योत्स्ना मेश्राम यांनी नवव्या माळ्यावरून उडी घेऊन नैराश्यातून आत्महत्या केली.\n\n                या काही सेलिब्रिटींच्या उदाहरणातुन काय शिका…, time=1677345232000}",
+            "{extras={}, sender_person=android.app.Person@a1d234d6, sender=+91 80975 23605, text=तवा माणूस माणसात होता\nघरात टि.व्ही चं खोकं नव्हतं...💐\nमोबाईल मध्ये डोकं नव्हतं...💐\nकाचा कवड्याचा खेळ होता...💐\nनणंद भावजईचा मेळ होता...💐\nगुटक्यानं भिती रंगत नव्हत्या...💐\nब्युटी पार्लरमध्ये झिंगत नव्हत्या...💐\nओठांवर ओरीजनल लाली होती...💐\nचंद्राची खळी गाली होती...💐\nपोरी मोबाईलवर गात नव्हत्या...💐\nवाकडा भांग पाडत नव्हत्या...💐\nतोंड बांधून हिंडत नव्हत्या...💐\nवाघासारखा लेक होता...💐\nतवा बाप माणसात होता...💐 \nराजकारणात निष्ठा होती...💐\nखरं बोलणाऱ्याची चेष्टा नव्हती...💐\nपैशावर पुढारी फुटत नव्हतं...💐\nतत्वाशिवाय गटत नव्हतं...💐\nप्रेम-माया आटत नव्हती...💐\nचांगली माणसं तुटत नव्हती...💐\nचहा-चिवड्याला रडत नव्हती...💐\nचोरुन पिल्याबिगर चढत नव्हती...💐\nआडाणी नेता भानात होता...💐\nतळातला कार्यकर्ता मनात होता...💐\nसोसायटीचा चेअरमन रानात होता..\nतवा माणुस माणसात होता...💐\nगावा शेजारी बार नव्हता...💐\nरस्त्यावर दारुड्याचा कहर नव्हता...💐 \nपाठीवर दफ्तराचा भार नव्हता...💐\nअनवाणी पायाला रस्ता  गार होता.💐 \nहातावर छडीचा मार होता...💐\nशाळेचा मास्तर दिलदार होता...💐\nतवा पैशाला किंमत नव्हती...💐\nआयुष्य म्हणजे गंमत नव्हती..…, time=1677345232000}"
+          ],
+          "android.messagingStyleUser_com.samsung.android.messaging_123": "{key=⁨Me⁩tel:917977895543, uri=tel:917977895543, icon={string1=null, obj=android.graphics.Bitmap@7c03c9f, int1=0, int2=0, type=5}, name=⁨Me⁩, isBot=false, isImportant=false}",
+          "android.messagingStyleUser_com.whatsapp_1": "{key=null, uri=null, icon={string1=null, obj=android.graphics.Bitmap@b011f16, int1=0, int2=0, type=1}, name=You, isBot=false, isImportant=false}",
+          "android.messagingUser_com.samsung.android.messaging_123": "android.app.Person@2899fe4d",
+          "android.messagingUser_com.whatsapp_1": "android.app.Person@9611e59",
+          "android.people.list_com.samsung.android.messaging_123": [
+            "android.app.Person@58256a11"
+          ],
+          "android.pictureIcon_com.meesho.supply_122118087": "null",
+          "android.picture_com.meesho.supply_122118087": "android.graphics.Bitmap@4552069",
           "android.progressIndeterminate_com.android.chrome_-1": false,
-          "android.progressIndeterminate_com.fsn.nds_660154560": false,
-          "android.progressIndeterminate_com.google.android.youtube_99": false,
-          "android.progressIndeterminate_com.kitkagames.fallbuddies_0": false,
-          "android.progressIndeterminate_com.kitkagames.fallbuddies_1963117421": false,
-          "android.progressIndeterminate_com.ril.ajio_3": false,
+          "android.progressIndeterminate_com.meesho.supply_122118087": false,
+          "android.progressIndeterminate_com.samsung.android.messaging_123": false,
+          "android.progressIndeterminate_com.shopping.limeroad_0": false,
           "android.progressIndeterminate_com.whatsapp_1": false,
           "android.progressIndeterminate_org.linphone_1": false,
           "android.progressMax_com.android.chrome_-1": 0,
-          "android.progressMax_com.fsn.nds_660154560": 0,
-          "android.progressMax_com.google.android.youtube_99": 0,
-          "android.progressMax_com.kitkagames.fallbuddies_0": 0,
-          "android.progressMax_com.kitkagames.fallbuddies_1963117421": 0,
-          "android.progressMax_com.ril.ajio_3": 0,
+          "android.progressMax_com.meesho.supply_122118087": 0,
+          "android.progressMax_com.samsung.android.messaging_123": 0,
+          "android.progressMax_com.shopping.limeroad_0": 0,
           "android.progressMax_com.whatsapp_1": 0,
           "android.progressMax_org.linphone_1": 0,
           "android.progress_com.android.chrome_-1": 0,
-          "android.progress_com.fsn.nds_660154560": 0,
-          "android.progress_com.google.android.youtube_99": 0,
-          "android.progress_com.kitkagames.fallbuddies_0": 0,
-          "android.progress_com.kitkagames.fallbuddies_1963117421": 0,
-          "android.progress_com.ril.ajio_3": 0,
+          "android.progress_com.meesho.supply_122118087": 0,
+          "android.progress_com.samsung.android.messaging_123": 0,
+          "android.progress_com.shopping.limeroad_0": 0,
           "android.progress_com.whatsapp_1": 0,
           "android.progress_org.linphone_1": 0,
           "android.reduced.images_com.android.chrome_-1": true,
-          "android.reduced.images_com.android.systemui_4660": true,
-          "android.reduced.images_com.fsn.nds_660154560": true,
-          "android.reduced.images_com.google.android.youtube_99": true,
-          "android.reduced.images_com.kitkagames.fallbuddies_0": true,
-          "android.reduced.images_com.kitkagames.fallbuddies_1963117421": true,
-          "android.reduced.images_com.ril.ajio_3": true,
-          "android.reduced.images_com.samsung.android.app.smartcapture_5755": true,
+          "android.reduced.images_com.meesho.supply_122118087": true,
+          "android.reduced.images_com.samsung.android.messaging_123": true,
+          "android.reduced.images_com.shopping.limeroad_0": true,
           "android.reduced.images_com.whatsapp_1": true,
           "android.reduced.images_org.linphone_1": true,
           "android.remoteInputHistory_com.android.chrome_-1": "null",
-          "android.remoteInputHistory_com.fsn.nds_660154560": "null",
-          "android.remoteInputHistory_com.google.android.youtube_99": "null",
-          "android.remoteInputHistory_com.kitkagames.fallbuddies_0": "null",
-          "android.remoteInputHistory_com.kitkagames.fallbuddies_1963117421": "null",
-          "android.remoteInputHistory_com.ril.ajio_3": "null",
+          "android.remoteInputHistory_com.meesho.supply_122118087": "null",
+          "android.remoteInputHistory_com.samsung.android.messaging_123": "null",
+          "android.remoteInputHistory_com.shopping.limeroad_0": "null",
           "android.remoteInputHistory_com.whatsapp_1": "null",
           "android.remoteInputHistory_org.linphone_1": "null",
+          "android.selfDisplayName_com.samsung.android.messaging_123": "⁨Me⁩",
           "android.selfDisplayName_com.whatsapp_1": "You",
-          "android.showBigPictureWhenCollapsed_com.google.android.youtube_99": false,
-          "android.showBigPictureWhenCollapsed_com.samsung.android.app.smartcapture_5755": false,
+          "android.showBigPictureWhenCollapsed_com.meesho.supply_122118087": false,
           "android.showChronometer_com.android.chrome_-1": false,
-          "android.showChronometer_com.fsn.nds_660154560": false,
-          "android.showChronometer_com.google.android.youtube_99": false,
-          "android.showChronometer_com.kitkagames.fallbuddies_0": false,
-          "android.showChronometer_com.kitkagames.fallbuddies_1963117421": false,
-          "android.showChronometer_com.ril.ajio_3": false,
+          "android.showChronometer_com.meesho.supply_122118087": false,
+          "android.showChronometer_com.samsung.android.messaging_123": false,
+          "android.showChronometer_com.shopping.limeroad_0": false,
           "android.showChronometer_com.whatsapp_1": false,
           "android.showChronometer_org.linphone_1": false,
           "android.showWhen_com.android.chrome_-1": true,
-          "android.showWhen_com.fsn.nds_660154560": true,
-          "android.showWhen_com.google.android.youtube_99": true,
-          "android.showWhen_com.kitkagames.fallbuddies_0": true,
-          "android.showWhen_com.kitkagames.fallbuddies_1963117421": true,
-          "android.showWhen_com.ril.ajio_3": true,
-          "android.showWhen_com.samsung.android.app.smartcapture_5755": true,
+          "android.showWhen_com.meesho.supply_122118087": true,
+          "android.showWhen_com.samsung.android.messaging_123": true,
+          "android.showWhen_com.shopping.limeroad_0": true,
           "android.showWhen_com.whatsapp_1": true,
           "android.showWhen_org.linphone_1": true,
-          "android.subText_com.android.chrome_-1": "www.justdial.com",
-          "android.subText_com.fsn.nds_660154560": "Add to cart now!",
-          "android.subText_com.google.android.youtube_99": "null",
-          "android.subText_com.kitkagames.fallbuddies_0": "null",
-          "android.subText_com.kitkagames.fallbuddies_1963117421": "null",
-          "android.subText_com.ril.ajio_3": "null",
+          "android.subText_com.android.chrome_-1": "www.astrosage.com",
+          "android.subText_com.meesho.supply_122118087": "For you",
+          "android.subText_com.samsung.android.messaging_123": "null",
+          "android.subText_com.shopping.limeroad_0": "Stay Fashion Forward!",
           "android.subText_com.whatsapp_1": "null",
           "android.subText_org.linphone_1": "null",
-          "android.substName_com.samsung.android.app.smartcapture_5755": "Samsung capture",
-          "android.summaryText_com.google.android.youtube_99": "Dont Be Quite | A ZEE5 Initiative | Watch Vedha on Now on ZEE5",
-          "android.summaryText_com.whatsapp_1": "4 new messages",
-          "android.support.v4.app.extra.COMPAT_TEMPLATE_com.google.android.youtube_99": "androidx.core.app.NotificationCompat$BigPictureStyle",
+          "android.summaryText_com.whatsapp_1": "16 messages from 2 chats",
           "android.template_com.android.chrome_-1": "android.app.Notification$BigTextStyle",
-          "android.template_com.fsn.nds_660154560": "android.app.Notification$DecoratedCustomViewStyle",
-          "android.template_com.google.android.youtube_99": "android.app.Notification$BigPictureStyle",
-          "android.template_com.kitkagames.fallbuddies_0": "android.app.Notification$InboxStyle",
-          "android.template_com.kitkagames.fallbuddies_1963117421": "android.app.Notification$BigTextStyle",
-          "android.template_com.ril.ajio_3": "android.app.Notification$BigTextStyle",
-          "android.template_com.samsung.android.app.smartcapture_5755": "android.app.Notification$BigPictureStyle",
+          "android.template_com.meesho.supply_122118087": "android.app.Notification$BigPictureStyle",
+          "android.template_com.samsung.android.messaging_123": "android.app.Notification$MessagingStyle",
+          "android.template_com.shopping.limeroad_0": "android.app.Notification$DecoratedCustomViewStyle",
           "android.template_com.whatsapp_1": "android.app.Notification$MessagingStyle",
-          "android.textLines_com.kitkagames.fallbuddies_0": [
-            "🤘 NEW METAL STUMBLERS 🤘\nHead to the shop and go full metal",
-            "📢 Limited time only! 📢 \nLEGENDARY Wheel for legendary Stumblers 💪",
-            "LASER DASH Event live 📢\nCheck out the mash up of two favorite levels NOW!",
-            "Four score and six foot seven years ago 🎩\nCheck out the Presidents' Day Bundle today!"
-          ],
           "android.textLines_com.whatsapp_1": [
-            "+91 90828 48646: Thanku",
-            "+91 90828 48646: Thanku",
-            "+91 88985 84375: 🙏🏻welcome dear",
-            "+91 97690 90882: Thank you"
+            "+91 98675 17679 @ GSSISgrade 3(parents grp): 📄 Grade 3 ch 10 notes.pdf (2 pages)",
+            "+91 98191 95937 @ GSSISgrade 3(parents grp): Thank u so much",
+            "+91 98675 17679 @ GSSISgrade 3(parents grp): 📄 g3 ch 11 notes-1.pdf (4 pages)",
+            "+91 98191 95937 @ GSSISgrade 3(parents grp): 👍",
+            "+91 80975 23605 @ Kesari Rajasthan Nov 2018: अप्रतिम लेख आहे नक्की आवडेल.\n\n OUT LET वाचाल तरच वाचाल,..!...!\n\n               लाखो जीव घेणार्‍या क्रूर  हिटलरने शेवटी आत्महत्या केली !........\n               सुंदर विचार देणारे साने गुरुजी आत्मघात करुन घेतात.\n               मनशक्ती नावाचं मनाला खंबीर करण्याचं शिक्षण देणारे लोणावळ्याचे स्वामी विज्ञानानंद मंत्रालयावरुन उडी मारुन जीव देतात.\n              आध्यात्मिक गुरु अशी ओळख निर्माण केलेले व कित्येकांना आधार देणारे भैय्युजी महाराज आपलं जीवन आपल्या हातानं संपवतात.\n                पॉझिटिव्ह विचार देणारा चित्रपट करुनही सुशांत सिंग राजपुतनं नैराश्यातून आत्महत्या केली.\n                -आणि आता सहा आठ महिन्यांपूर्वी नैराश्याशी लढा कसा द्यायचा हे शिकवणाऱ्या शीतल (आमटे) करजगी आपलं जीवन संपवतात. \n               -आजची नागपूरची बातमी उच्च विद्याविभूषित, दिवंगत कुलगुरूच्या पत्नी तसेच राष्ट्रसंत तुकडोजी महाराज नागपूर विद्यापीठाच्या रसायनशास्त्र विभाग प्रमुख डॉ. ज्योत्स्ना मेश्राम यांनी नवव्या माळ्यावरून उडी घेऊन नैराश्यातून आत्महत्या केली.\n\n                या काही सेलिब्रिटींच",
+            "+91 80975 23605 @ Kesari Rajasthan Nov 2018: तवा माणूस माणसात होता\nघरात टि.व्ही चं खोकं नव्हतं...💐\nमोबाईल मध्ये डोकं नव्हतं...💐\nकाचा कवड्याचा खेळ होता...💐\nनणंद भावजईचा मेळ होता...💐\nगुटक्यानं भिती रंगत नव्हत्या...💐\nब्युटी पार्लरमध्ये झिंगत नव्हत्या...💐\nओठांवर ओरीजनल लाली होती...💐\nचंद्राची खळी गाली होती...💐\nपोरी मोबाईलवर गात नव्हत्या...💐\nवाकडा भांग पाडत नव्हत्या...💐\nतोंड बांधून हिंडत नव्हत्या...💐\nवाघासारखा लेक होता...💐\nतवा बाप माणसात होता...💐 \nराजकारणात निष्ठा होती...💐\nखरं बोलणाऱ्याची चेष्टा नव्हती...💐\nपैशावर पुढारी फुटत नव्हतं...💐\nतत्वाशिवाय गटत नव्हतं...💐\nप्रेम-माया आटत नव्हती...💐\nचांगली माणसं तुटत नव्हती...💐\nचहा-चिवड्याला रडत नव्हती...💐\nचोरुन पिल्याबिगर चढत नव्हती...💐\nआडाणी नेता भानात होता...💐\nतळातला कार्यकर्ता मनात होता...💐\nसोसायटीचा चेअरमन रानात होता..\nतवा माणुस माणसात होता...💐\nगावा शेजारी बार नव्हता...💐\nरस्त्यावर दारुड्याचा कहर नव्हता...💐 \nपाठीवर दफ्तराचा भार नव्हता...💐\nअनवाणी पायाला रस्ता  गार होता.💐 \nहातावर छडीचा मार होता...💐\nशाळेचा मास्तर दिलदार होता...💐\nतवा पैशाला किंमत ",
+            "+91 96196 63116 @ GSSISgrade 3(parents grp): Can you please share the clear image of filteration and sugar solution"
           ],
-          "android.text_com.android.chrome_-1": "Every downturn a boon for Indian software firms: Infy's Murthy",
-          "android.text_com.fsn.nds_660154560": "null",
-          "android.text_com.google.android.youtube_99": "Dont Be Quite | A ZEE5 Initiative | Watch Vedha on Now on ZEE5",
-          "android.text_com.kitkagames.fallbuddies_0": "You have 4 unread messages",
-          "android.text_com.kitkagames.fallbuddies_1963117421": "🤘 NEW METAL STUMBLERS 🤘\nHead to the shop and go full metal",
-          "android.text_com.ril.ajio_3": "Then: ₹2,499   \nNow: ₹763*",
-          "android.text_com.samsung.android.app.smartcapture_5755": "Tap here to open it in Gallery.",
-          "android.text_com.whatsapp_1": "Thank you",
+          "android.text_com.android.chrome_-1": "Know from the best astrologers and get accurate predictions. First Chat Free",
+          "android.text_com.meesho.supply_122118087": "6 designs of Fancy Fashionable Men Tshirts starting from Rs. 221! Limited Stocks! Book Now!",
+          "android.text_com.samsung.android.messaging_123": "Battery full on Nilesh's Mobile",
+          "android.text_com.shopping.limeroad_0": "These Brown Sarees are what you will love",
+          "android.text_com.whatsapp_1": "तवा माणूस माणसात होता\nघरात टि.व्ही चं खोकं नव्हतं...💐\nमोबाईल मध्ये डोकं नव्हतं...💐\nकाचा कवड्याचा खेळ होता...💐\nनणंद भावजईचा मेळ होता...💐\nगुटक्यानं भिती रंगत नव्हत्या...💐\nब्युटी पार्लरमध्ये झिंगत नव्हत्या...💐\nओठांवर ओरीजनल लाली होती...💐\nचंद्राची खळी गाली होती...💐\nपोरी मोबाईलवर गात नव्हत्या...💐\nवाकडा भांग पाडत नव्हत्या...💐\nतोंड बांधून हिंडत नव्हत्या...💐\nवाघासारखा लेक होता...💐\nतवा बाप माणसात होता...💐 \nराजकारणात निष्ठा होती...💐\nखरं बोलणाऱ्याची चेष्टा नव्हती...💐\nपैशावर पुढारी फुटत नव्हतं...💐\nतत्वाशिवाय गटत नव्हतं...💐\nप्रेम-माया आटत नव्हती...💐\nचांगली माणसं तुटत नव्हती...💐\nचहा-चिवड्याला रडत नव्हती...💐\nचोरुन पिल्याबिगर चढत नव्हती...💐\nआडाणी नेता भानात होता...💐\nतळातला कार्यकर्ता मनात होता...💐\nसोसायटीचा चेअरमन रानात होता..\nतवा माणुस माणसात होता...💐\nगावा शेजारी बार नव्हता...💐\nरस्त्यावर दारुड्याचा कहर नव्हता...💐 \nपाठीवर दफ्तराचा भार नव्हता...💐\nअनवाणी पायाला रस्ता  गार होता.💐 \nहातावर छडीचा मार होता...💐\nशाळेचा मास्तर दिलदार होता...💐\nतवा पैशाला किंमत नव्हती...💐\nआयुष्य म्हणजे गंमत नव्हती..…",
           "android.text_org.linphone_1": "This is required to receive calls while in background",
-          "android.title.big_com.google.android.youtube_99": "ZEE5",
-          "android.title.big_com.kitkagames.fallbuddies_0": "You have 4 unread messages",
-          "android.title_com.android.chrome_-1": "Latest News On Murthy",
-          "android.title_com.android.systemui_4660": "Torch turned on",
-          "android.title_com.fsn.nds_660154560": "null",
-          "android.title_com.google.android.youtube_99": "ZEE5",
-          "android.title_com.kitkagames.fallbuddies_0": "Stumble Guys",
-          "android.title_com.kitkagames.fallbuddies_1963117421": "Stumble Guys",
-          "android.title_com.ril.ajio_3": "CROCODILE",
-          "android.title_com.samsung.android.app.smartcapture_5755": "Screenshot saved",
-          "android.title_com.whatsapp_1": "GSSISgrade 3(parents grp) (4 messages): +91 97690 90882",
+          "android.title_com.android.chrome_-1": "When You'll Marry? 😐",
+          "android.title_com.meesho.supply_122118087": "New & Hit Fancy Fashionable Men Tshirts",
+          "android.title_com.samsung.android.messaging_123": "⁨Nilesh papa⁩",
+          "android.title_com.shopping.limeroad_0": "Hi ! Shop Sarees in trend!",
+          "android.title_com.whatsapp_1": "Kesari Rajasthan Nov 2018 (2 messages): +91 80975 23605",
           "android.title_org.linphone_1": "Linphone Service",
-          "android.wearable.EXTENSIONS_com.whatsapp_1": "{actions=[android.app.Notification$Action@9efd8b0, android.app.Notification$Action@7451329]}",
+          "android.wearable.EXTENSIONS_com.samsung.android.messaging_123": "{actions=[android.app.Notification$Action@ca99b5, android.app.Notification$Action@816c84a]}",
+          "android.wearable.EXTENSIONS_com.whatsapp_1": "{actions=[android.app.Notification$Action@bf11284, android.app.Notification$Action@f614a6d]}",
           "androidx.core.app.extra.COMPAT_TEMPLATE_com.android.chrome_-1": "androidx.core.app.NotificationCompat$BigTextStyle",
-          "androidx.core.app.extra.COMPAT_TEMPLATE_com.fsn.nds_660154560": "androidx.core.app.NotificationCompat$DecoratedCustomViewStyle",
-          "androidx.core.app.extra.COMPAT_TEMPLATE_com.kitkagames.fallbuddies_0": "androidx.core.app.NotificationCompat$InboxStyle",
-          "androidx.core.app.extra.COMPAT_TEMPLATE_com.kitkagames.fallbuddies_1963117421": "androidx.core.app.NotificationCompat$BigTextStyle",
-          "androidx.core.app.extra.COMPAT_TEMPLATE_com.ril.ajio_3": "androidx.core.app.NotificationCompat$BigTextStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.meesho.supply_122118087": "androidx.core.app.NotificationCompat$BigPictureStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.samsung.android.messaging_123": "androidx.core.app.NotificationCompat$MessagingStyle",
+          "androidx.core.app.extra.COMPAT_TEMPLATE_com.shopping.limeroad_0": "androidx.core.app.NotificationCompat$DecoratedCustomViewStyle",
           "androidx.core.app.extra.COMPAT_TEMPLATE_com.whatsapp_1": "androidx.core.app.NotificationCompat$MessagingStyle",
-          "client_id_com.google.android.youtube_99": "c1a18f71-0704-4b09-9226-044e6bbe3d00",
           "com.android.chrome_-1_category": "null",
-          "com.android.chrome_-1_channel_id": "web:https://www.justdial.com;13251526974164088",
-          "com.android.chrome_-1_group_id": "Web:www.justdial.com",
+          "com.android.chrome_-1_channel_id": "web:https://www.astrosage.com;13259049431972464",
+          "com.android.chrome_-1_group_id": "Web:www.astrosage.com",
           "com.android.chrome_-1_is_clearable": true,
           "com.android.chrome_-1_is_ongoing": false,
-          "com.android.chrome_-1_post_time": 1676997498423,
-          "com.android.systemui_4660_category": "null",
-          "com.android.systemui_4660_channel_id": "ONGOING",
-          "com.android.systemui_4660_group_id": "null",
-          "com.android.systemui_4660_is_clearable": false,
-          "com.android.systemui_4660_is_ongoing": true,
-          "com.android.systemui_4660_post_time": 1677001360057,
-          "com.fsn.nds_660154560_category": "null",
-          "com.fsn.nds_660154560_channel_id": "channel_id_fashion",
-          "com.fsn.nds_660154560_group_id": "null",
-          "com.fsn.nds_660154560_is_clearable": false,
-          "com.fsn.nds_660154560_is_ongoing": true,
-          "com.fsn.nds_660154560_post_time": 1675687852697,
-          "com.google.android.youtube_99_category": "null",
-          "com.google.android.youtube_99_channel_id": "1",
-          "com.google.android.youtube_99_group_id": "",
-          "com.google.android.youtube_99_is_clearable": true,
-          "com.google.android.youtube_99_is_ongoing": false,
-          "com.google.android.youtube_99_post_time": 1677001144734,
-          "com.kitkagames.fallbuddies_0_category": "null",
-          "com.kitkagames.fallbuddies_0_channel_id": "scopely_remote",
-          "com.kitkagames.fallbuddies_0_group_id": "GroupNotif",
-          "com.kitkagames.fallbuddies_0_is_clearable": true,
-          "com.kitkagames.fallbuddies_0_is_ongoing": false,
-          "com.kitkagames.fallbuddies_0_post_time": 1677000362881,
-          "com.kitkagames.fallbuddies_1963117421_category": "null",
-          "com.kitkagames.fallbuddies_1963117421_channel_id": "scopely_remote",
-          "com.kitkagames.fallbuddies_1963117421_group_id": "GroupNotif",
-          "com.kitkagames.fallbuddies_1963117421_is_clearable": true,
-          "com.kitkagames.fallbuddies_1963117421_is_ongoing": false,
-          "com.kitkagames.fallbuddies_1963117421_post_time": 1677000362864,
-          "com.ril.ajio_3_category": "null",
-          "com.ril.ajio_3_channel_id": "ajio_channel_01",
-          "com.ril.ajio_3_group_id": "null",
-          "com.ril.ajio_3_is_clearable": true,
-          "com.ril.ajio_3_is_ongoing": false,
-          "com.ril.ajio_3_post_time": 1676997600859,
-          "com.samsung.android.app.smartcapture_5755_category": "null",
-          "com.samsung.android.app.smartcapture_5755_channel_id": "samsung_capture",
-          "com.samsung.android.app.smartcapture_5755_group_id": "samsung_capture_group_key",
-          "com.samsung.android.app.smartcapture_5755_is_clearable": true,
-          "com.samsung.android.app.smartcapture_5755_is_ongoing": false,
-          "com.samsung.android.app.smartcapture_5755_post_time": 1676997186900,
+          "com.android.chrome_-1_post_time": 1677344796401,
+          "com.meesho.supply_122118087_category": "null",
+          "com.meesho.supply_122118087_channel_id": "promotional",
+          "com.meesho.supply_122118087_group_id": "null",
+          "com.meesho.supply_122118087_is_clearable": true,
+          "com.meesho.supply_122118087_is_ongoing": false,
+          "com.meesho.supply_122118087_post_time": 1677344651620,
+          "com.samsung.android.messaging_123_category": "msg",
+          "com.samsung.android.messaging_123_channel_id": "CHANNEL_ID_SMS_MMS",
+          "com.samsung.android.messaging_123_group_id": "MESSAGE_RECEIVED",
+          "com.samsung.android.messaging_123_is_clearable": true,
+          "com.samsung.android.messaging_123_is_ongoing": false,
+          "com.samsung.android.messaging_123_post_time": 1677346028260,
+          "com.shopping.limeroad_0_category": "null",
+          "com.shopping.limeroad_0_channel_id": "NoteActivity_NoteActivity_fb",
+          "com.shopping.limeroad_0_group_id": "null",
+          "com.shopping.limeroad_0_is_clearable": false,
+          "com.shopping.limeroad_0_is_ongoing": true,
+          "com.shopping.limeroad_0_post_time": 1677345665327,
           "com.whatsapp_1_category": "null",
-          "com.whatsapp_1_channel_id": "group_chat_defaults_2",
+          "com.whatsapp_1_channel_id": "silent_notifications_3",
           "com.whatsapp_1_group_id": "group_key_messages",
           "com.whatsapp_1_is_clearable": true,
           "com.whatsapp_1_is_ongoing": false,
-          "com.whatsapp_1_post_time": 1677000472671,
-          "interaction_screen_bundle_extra_com.google.android.youtube_99": "Bundle[{}]",
-          "last_row_id_com.whatsapp_1": 270372,
-          "logging_directive_com.google.android.youtube_99": [
-            10,
-            95,
-            8,
-            0,
-            16,
-            -50,
-            97,
-            34,
-            19,
-            8,
-            -78,
-            -96,
-            -26,
-            -117,
-            -108,
-            -89,
-            -3,
-            2,
-            21,
-            98,
-            -36,
-            22,
-            9,
-            29,
-            -103,
-            -5,
-            3,
-            6,
-            -110,
-            1,
-            24,
-            85,
-            67,
-            88,
-            79,
-            103,
-            65,
-            108,
-            52,
-            119,
-            45,
-            70,
-            81,
-            101,
-            114,
-            111,
-            49,
-            69,
-            82,
-            98,
-            71,
-            72,
-            112,
-            88,
-            81,
-            -78,
-            1,
-            39,
-            10,
-            22,
-            79,
-            100,
-            68,
-            122,
-            66,
-            105,
-            114,
-            101,
-            79,
-            85,
-            66,
-            51,
-            95,
-            51,
-            108,
-            76,
-            110,
-            85,
-            107,
-            112,
-            80,
-            65,
-            16,
-            6,
-            26,
-            11,
-            8,
-            -73,
-            -125,
-            -44,
-            -97,
-            6,
-            16,
-            -96,
-            -85,
-            -121,
-            38,
-            34,
-            2,
-            8,
-            12,
-            42,
-            2,
-            8,
-            0
-          ],
+          "com.whatsapp_1_post_time": 1677345236220,
+          "dismissalId_com.samsung.android.messaging_123": "255",
+          "last_row_id_com.whatsapp_1": 272387,
           "org.linphone_1_category": "service",
           "org.linphone_1_channel_id": "linphone_notification_service_id",
           "org.linphone_1_group_id": "null",
           "org.linphone_1_is_clearable": false,
           "org.linphone_1_is_ongoing": true,
-          "org.linphone_1_post_time": 1675676868883,
+          "org.linphone_1_post_time": 1677124844211,
           "unit_of_measurement": "notifications",
           "icon": "mdi:bell-ring",
           "friendly_name": "SM-M317F Active Notification Count"
         },
-        "last_changed": "2023-02-21T17:42:42.841269+00:00",
-        "last_updated": "2023-02-21T17:42:42.841269+00:00",
+        "last_changed": "2023-02-25T17:32:01.822194+00:00",
+        "last_updated": "2023-02-25T17:32:01.822194+00:00",
         "context": {
-          "id": "01GSTH43CS6A4ECAH9GGJZD8MD",
+          "id": "01GT4T3DCYZJXX2FN2KBZ7F074",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 17,
+        "native_value": 13,
         "native_unit_of_measurement": "notifications"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1202,10 +1861,10 @@
           "icon": "mdi:phone",
           "friendly_name": "SM-M317F Phone State"
         },
-        "last_changed": "2023-02-21T15:15:11.511568+00:00",
-        "last_updated": "2023-02-21T15:15:11.511568+00:00",
+        "last_changed": "2023-02-25T04:04:29.708912+00:00",
+        "last_updated": "2023-02-25T04:04:29.708912+00:00",
         "context": {
-          "id": "01GST8NZGQAKZ2XHJ3TX0RABF4",
+          "id": "01GT3BWRWCTCHN6SRCM1W27X61",
           "parent_id": null,
           "user_id": null
         }
@@ -1214,57 +1873,57 @@
         "native_value": "idle",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_steps_sensor",
-        "state": "1324",
+        "state": "50",
         "attributes": {
           "state_class": "total_increasing",
           "unit_of_measurement": "steps",
           "icon": "mdi:walk",
           "friendly_name": "SM-M317F Steps Sensor"
         },
-        "last_changed": "2023-02-21T15:15:11.513539+00:00",
-        "last_updated": "2023-02-21T15:15:11.513539+00:00",
+        "last_changed": "2023-02-25T16:10:38.930261+00:00",
+        "last_updated": "2023-02-25T16:10:38.930261+00:00",
         "context": {
-          "id": "01GST8NZGSKKSG7V0Z937KYN3G",
+          "id": "01GT4NECYJJEYYXV01FACX9WDM",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "1324",
+        "native_value": "50",
         "native_unit_of_measurement": "steps"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.sm_m317f_internal_storage",
-        "state": "45",
+        "state": "49",
         "attributes": {
           "state_class": "measurement",
-          "Free internal storage": "49GB",
+          "Free internal storage": "54GB",
           "Total internal storage": "110GB",
           "unit_of_measurement": "%",
           "icon": "mdi:harddisk",
           "friendly_name": "SM-M317F Internal Storage"
         },
-        "last_changed": "2023-02-21T15:15:11.515430+00:00",
-        "last_updated": "2023-02-21T15:15:11.515430+00:00",
+        "last_changed": "2023-02-25T08:49:03.078356+00:00",
+        "last_updated": "2023-02-25T08:49:03.078356+00:00",
         "context": {
-          "id": "01GST8NZGV19WS5FGTC69GEME4",
+          "id": "01GT3W5T3650AX9W676MY1QASS",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 45,
+        "native_value": 49,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1275,16 +1934,16 @@
           "icon": "mdi:power-plug-off",
           "friendly_name": "SM-M317F Is Charging"
         },
-        "last_changed": "2023-02-21T16:25:54.877512+00:00",
-        "last_updated": "2023-02-21T16:25:54.877512+00:00",
+        "last_changed": "2023-02-25T16:10:52.546099+00:00",
+        "last_updated": "2023-02-25T16:10:52.546099+00:00",
         "context": {
-          "id": "01GSTCQFDX3ZYHZK6TV814S433",
+          "id": "01GT4NET82KH1AHWEZ9CNVNSFN",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1292,42 +1951,44 @@
         "state": "Home",
         "attributes": {
           "source_type": "gps",
-          "latitude": 19.1506407,
-          "longitude": 72.9436066,
-          "gps_accuracy": 14,
-          "altitude": -54,
+          "latitude": 19.1506519,
+          "longitude": 72.9436409,
+          "gps_accuracy": 13,
+          "altitude": -40,
           "course": 0,
           "speed": 0,
           "vertical_accuracy": 1,
           "friendly_name": "Monika"
         },
-        "last_changed": "2023-02-21T17:30:53.654447+00:00",
-        "last_updated": "2023-02-21T17:30:53.654447+00:00",
+        "last_changed": "2023-02-25T17:30:36.800572+00:00",
+        "last_updated": "2023-02-25T17:30:36.800572+00:00",
         "context": {
-          "id": "01GSTGEETP3FZHC9ZNPTY86ZFK",
+          "id": "01GT4T0TC06PAN7APN38BVQQ4X",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_detected_activity",
         "state": "still",
         "attributes": {
-          "on_foot": 1,
-          "still": 97,
-          "unknown": 2,
-          "walking": 1,
+          "in_vehicle": 4,
+          "on_bicycle": 1,
+          "on_foot": 10,
+          "still": 80,
+          "unknown": 3,
+          "walking": 10,
           "icon": "mdi:sleep",
           "friendly_name": "RMX1801 Detected Activity"
         },
-        "last_changed": "2023-02-21T17:35:16.021560+00:00",
-        "last_updated": "2023-02-21T17:35:16.021560+00:00",
+        "last_changed": "2023-02-25T16:07:36.430806+00:00",
+        "last_updated": "2023-02-25T16:07:36.430806+00:00",
         "context": {
-          "id": "01GSTGPF1NWK4NPE35GX3DNGZZ",
+          "id": "01GT4N8TQEQMVJME3JTB029WK7",
           "parent_id": null,
           "user_id": null
         }
@@ -1336,53 +1997,54 @@
         "native_value": "still",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_battery_level",
-        "state": "89",
+        "state": "100",
         "attributes": {
+          "state_class": "measurement",
           "unit_of_measurement": "%",
           "device_class": "battery",
-          "icon": "mdi:battery-charging-80",
+          "icon": "mdi:battery-charging",
           "friendly_name": "RMX1801 Battery Level"
         },
-        "last_changed": "2023-02-21T17:45:03.557649+00:00",
-        "last_updated": "2023-02-21T17:45:03.557649+00:00",
+        "last_changed": "2023-02-25T17:27:00.231262+00:00",
+        "last_updated": "2023-02-25T17:27:00.231262+00:00",
         "context": {
-          "id": "01GSTH8CT5EMKCZ8K4WXSYZ5N2",
+          "id": "01GT4ST6W74V97ZNEX0R5JHGP3",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 89,
+        "native_value": 100,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_battery_state",
-        "state": "charging",
+        "state": "full",
         "attributes": {
-          "icon": "mdi:battery-plus",
+          "icon": "mdi:battery-charging",
           "friendly_name": "RMX1801 Battery State"
         },
-        "last_changed": "2023-02-21T17:35:16.037400+00:00",
-        "last_updated": "2023-02-21T17:35:16.037400+00:00",
+        "last_changed": "2023-02-25T17:27:00.234244+00:00",
+        "last_updated": "2023-02-25T17:27:00.234244+00:00",
         "context": {
-          "id": "01GSTGPF254E0YDTZRH4CVZHM9",
+          "id": "01GT4ST6WA00N6N9PWX3RG3HRC",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "charging",
+        "native_value": "full",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1392,10 +2054,10 @@
           "icon": "mdi:power-plug",
           "friendly_name": "RMX1801 Charger Type"
         },
-        "last_changed": "2023-02-21T17:35:16.051683+00:00",
-        "last_updated": "2023-02-21T17:35:16.051683+00:00",
+        "last_changed": "2023-02-25T17:10:23.199575+00:00",
+        "last_updated": "2023-02-25T17:10:23.199575+00:00",
         "context": {
-          "id": "01GSTGPF2KXSY7A36H2E44YMP5",
+          "id": "01GT4RVS6ZFCMQED7PQ5AWDW90",
           "parent_id": null,
           "user_id": null
         }
@@ -1404,7 +2066,7 @@
         "native_value": "ac",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1414,10 +2076,10 @@
           "icon": "mdi:battery-heart-variant",
           "friendly_name": "RMX1801 Battery Health"
         },
-        "last_changed": "2023-02-21T15:15:11.529657+00:00",
-        "last_updated": "2023-02-21T15:15:11.529657+00:00",
+        "last_changed": "2023-02-25T02:47:08.132715+00:00",
+        "last_updated": "2023-02-25T02:47:08.132715+00:00",
         "context": {
-          "id": "01GST8NZH98D8V9CDSS8NH3EK9",
+          "id": "01GT37F434A671CEV8E0RVEKJB",
           "parent_id": null,
           "user_id": null
         }
@@ -1426,48 +2088,50 @@
         "native_value": "good",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_battery_temperature",
-        "state": "33.0",
+        "state": "34.0",
         "attributes": {
+          "state_class": "measurement",
           "unit_of_measurement": "°C",
           "device_class": "temperature",
           "icon": "mdi:battery",
           "friendly_name": "RMX1801 Battery Temperature"
         },
-        "last_changed": "2023-02-21T17:40:09.410146+00:00",
-        "last_updated": "2023-02-21T17:40:09.410146+00:00",
+        "last_changed": "2023-02-25T17:17:25.947965+00:00",
+        "last_updated": "2023-02-25T17:17:25.947965+00:00",
         "context": {
-          "id": "01GSTGZDJ23F9G8AEYNN8F0E8T",
+          "id": "01GT4S8P1VKHVKRXDEMNYJ0P4K",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 33.0,
+        "native_value": 34.0,
         "native_unit_of_measurement": "°C"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_battery_power",
         "state": "0.0",
         "attributes": {
-          "current": -0.000348,
-          "voltage": 4.372,
+          "state_class": "measurement",
+          "current": 3e-6,
+          "voltage": 4.288,
           "unit_of_measurement": "W",
           "device_class": "power",
-          "icon": "mdi:battery-minus",
+          "icon": "mdi:battery-plus",
           "friendly_name": "RMX1801 Battery Power"
         },
-        "last_changed": "2023-02-21T17:28:13.000639+00:00",
-        "last_updated": "2023-02-21T17:45:03.561365+00:00",
+        "last_changed": "2023-02-25T15:25:53.396862+00:00",
+        "last_updated": "2023-02-25T17:31:48.322578+00:00",
         "context": {
-          "id": "01GSTH8CT94EZBK4GKAT5CM99E",
+          "id": "01GT4T3072KN8M2G37378T5AWD",
           "parent_id": null,
           "user_id": null
         }
@@ -1476,7 +2140,7 @@
         "native_value": 0.0,
         "native_unit_of_measurement": "W"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1503,10 +2167,10 @@
           "icon": "mdi:map",
           "friendly_name": "RMX1801 Geocoded Location"
         },
-        "last_changed": "2023-02-21T15:15:11.534949+00:00",
-        "last_updated": "2023-02-21T15:15:11.534949+00:00",
+        "last_changed": "2023-02-25T12:44:25.626685+00:00",
+        "last_updated": "2023-02-25T12:44:25.626685+00:00",
         "context": {
-          "id": "01GST8NZHEMQ449F0NBAW99CY2",
+          "id": "01GT49MSMT7VX441Z5TEYN6MD1",
           "parent_id": null,
           "user_id": null
         }
@@ -1515,7 +2179,7 @@
         "native_value": "WING-F, Veer Savarkar Rd, Rajdeep Nagar, Vasant Nagar, Bhandup West, Mumbai, Maharashtra 400078, India",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1525,10 +2189,10 @@
           "icon": "mdi:ip",
           "friendly_name": "RMX1801 WiFi IP Address"
         },
-        "last_changed": "2023-02-21T15:15:11.536706+00:00",
-        "last_updated": "2023-02-21T15:15:11.536706+00:00",
+        "last_changed": "2023-02-25T12:57:41.230296+00:00",
+        "last_updated": "2023-02-25T12:57:41.230296+00:00",
         "context": {
-          "id": "01GST8NZHGPRSPKA86WGJWNFYS",
+          "id": "01GT4AD2KE8PHXAD456CJG96KA",
           "parent_id": null,
           "user_id": null
         }
@@ -1537,30 +2201,31 @@
         "native_value": "192.168.1.55",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_wifi_link_speed",
-        "state": "433",
+        "state": "72",
         "attributes": {
+          "state_class": "measurement",
           "unit_of_measurement": "Mbps",
           "icon": "mdi:wifi-strength-2",
           "friendly_name": "RMX1801 WiFi Link Speed"
         },
-        "last_changed": "2023-02-21T17:31:06.583177+00:00",
-        "last_updated": "2023-02-21T17:34:44.858850+00:00",
+        "last_changed": "2023-02-25T17:13:00.548469+00:00",
+        "last_updated": "2023-02-25T17:14:04.554655+00:00",
         "context": {
-          "id": "01GSTGNGKTVRG08E6R1ZWEW5DD",
+          "id": "01GT4S2HCAE8P7W8XHA7F5DM11",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 433,
+        "native_value": 72,
         "native_unit_of_measurement": "Mbps"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1571,10 +2236,10 @@
           "icon": "mdi:wifi",
           "friendly_name": "RMX1801 Network Type"
         },
-        "last_changed": "2023-02-21T15:15:11.541033+00:00",
-        "last_updated": "2023-02-21T15:15:11.541033+00:00",
+        "last_changed": "2023-02-25T12:57:41.241246+00:00",
+        "last_updated": "2023-02-25T12:57:41.241246+00:00",
         "context": {
-          "id": "01GST8NZHNRW7GK7GWHC73FAM9",
+          "id": "01GT4AD2KS5G66GD62XHBQK6KP",
           "parent_id": null,
           "user_id": null
         }
@@ -1583,7 +2248,7 @@
         "native_value": "wifi",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1594,10 +2259,10 @@
           "icon": "mdi:alarm",
           "friendly_name": "RMX1801 Next Alarm"
         },
-        "last_changed": "2023-02-21T15:15:11.542514+00:00",
-        "last_updated": "2023-02-21T15:15:11.542514+00:00",
+        "last_changed": "2023-02-25T02:47:08.151500+00:00",
+        "last_updated": "2023-02-25T02:47:08.151500+00:00",
         "context": {
-          "id": "01GST8NZHPY4GQK81NXDQ9XE96",
+          "id": "01GT37F43Q499Y56Q7BV3126ND",
           "parent_id": null,
           "user_id": null
         }
@@ -1606,49 +2271,41 @@
         "native_value": "unavailable",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_last_notification",
-        "state": "Google Contacts backing up 1 contact",
+        "state": "The battery is full",
         "attributes": {
-          "android.appInfo": "ApplicationInfo{cce0e88 com.google.android.gms}",
-          "android.infoText": "null",
-          "android.largeIcon": "null",
-          "android.progress": 1,
-          "android.progressIndeterminate": false,
-          "android.progressMax": 1,
+          "android.appInfo": "ApplicationInfo{b9b59b8 com.android.systemui}",
           "android.reduced.images": true,
-          "android.remoteInputHistory": "null",
-          "android.showChronometer": false,
           "android.showWhen": true,
-          "android.subText": "nileshvaity@gmail.com",
-          "android.text": "null",
-          "android.title": "Google Contacts backing up 1 contact",
-          "category": "null",
-          "channel_id": "com.google.android.gms.people.sync.focus.notification.fsa2_channel.id1",
+          "android.text": "The battery is full",
+          "android.title": "Charging Complete",
+          "category": "sys",
+          "channel_id": "GEN",
           "group_id": "null",
           "is_clearable": true,
           "is_ongoing": false,
-          "package": "com.google.android.gms",
-          "post_time": 1677001258036,
+          "package": "com.android.systemui",
+          "post_time": 1677346019403,
           "icon": "mdi:bell-ring",
           "friendly_name": "RMX1801 Last Notification"
         },
-        "last_changed": "2023-02-21T17:41:04.949959+00:00",
-        "last_updated": "2023-02-21T17:41:04.949959+00:00",
+        "last_changed": "2023-02-25T17:27:10.578542+00:00",
+        "last_updated": "2023-02-25T17:27:10.578542+00:00",
         "context": {
-          "id": "01GSTH13SNPEQSBM73G5027GJG",
+          "id": "01GT4STGZJ599AKT8RV5JFQ13V",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "Google Contacts backing up 1 contact",
+        "native_value": "The battery is full",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1658,10 +2315,10 @@
           "icon": "mdi:bell-ring",
           "friendly_name": "RMX1801 Last Removed Notification"
         },
-        "last_changed": "2023-02-21T15:15:11.546465+00:00",
-        "last_updated": "2023-02-21T15:15:11.546465+00:00",
+        "last_changed": "2023-02-25T02:47:08.160724+00:00",
+        "last_updated": "2023-02-25T02:47:08.160724+00:00",
         "context": {
-          "id": "01GST8NZHT4A4PM20PBWVSKNFV",
+          "id": "01GT37F440M05VYD7XVSVD20JS",
           "parent_id": null,
           "user_id": null
         }
@@ -1670,249 +2327,112 @@
         "native_value": "",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_active_notification_count",
-        "state": "2",
+        "state": "1",
         "attributes": {
-          "android.appInfo_com.google.android.youtube_99": "ApplicationInfo{6e9685a com.google.android.youtube}",
-          "android.appInfo_io.homeassistant.companion.android_1963362324": "ApplicationInfo{f520768 io.homeassistant.companion.android}",
-          "android.bigText_io.homeassistant.companion.android_1963362324": "🌃 Lights Off 🌌",
-          "android.infoText_com.google.android.youtube_99": "null",
-          "android.infoText_io.homeassistant.companion.android_1963362324": "null",
-          "android.largeIcon_com.google.android.youtube_99": "Icon(typ=BITMAP size=99x99)",
-          "android.largeIcon_io.homeassistant.companion.android_1963362324": "null",
-          "android.picture_com.google.android.youtube_99": "android.graphics.Bitmap@ec90a8b",
-          "android.progressIndeterminate_com.google.android.youtube_99": false,
-          "android.progressIndeterminate_io.homeassistant.companion.android_1963362324": false,
-          "android.progressMax_com.google.android.youtube_99": 0,
-          "android.progressMax_io.homeassistant.companion.android_1963362324": 0,
-          "android.progress_com.google.android.youtube_99": 0,
-          "android.progress_io.homeassistant.companion.android_1963362324": 0,
-          "android.reduced.images_com.google.android.youtube_99": true,
-          "android.reduced.images_io.homeassistant.companion.android_1963362324": true,
-          "android.remoteInputHistory_com.google.android.youtube_99": "null",
-          "android.remoteInputHistory_io.homeassistant.companion.android_1963362324": "null",
-          "android.showChronometer_com.google.android.youtube_99": false,
-          "android.showChronometer_io.homeassistant.companion.android_1963362324": false,
-          "android.showWhen_com.google.android.youtube_99": true,
-          "android.showWhen_io.homeassistant.companion.android_1963362324": true,
-          "android.subText_com.google.android.youtube_99": "null",
-          "android.subText_io.homeassistant.companion.android_1963362324": "null",
-          "android.summaryText_com.google.android.youtube_99": "EATING CHALLENGE RICE|eating show |Dinner Video",
-          "android.support.v4.app.extra.COMPAT_TEMPLATE_com.google.android.youtube_99": "androidx.core.app.NotificationCompat$BigPictureStyle",
-          "android.template_com.google.android.youtube_99": "android.app.Notification$BigPictureStyle",
-          "android.template_io.homeassistant.companion.android_1963362324": "android.app.Notification$BigTextStyle",
-          "android.text_com.google.android.youtube_99": "EATING CHALLENGE RICE|eating show |Dinner Video",
-          "android.text_io.homeassistant.companion.android_1963362324": "🌃 Lights Off 🌌",
-          "android.title.big_com.google.android.youtube_99": "isak munda eating",
-          "android.title_com.google.android.youtube_99": "isak munda eating",
-          "android.title_io.homeassistant.companion.android_1963362324": "Lights OFF",
-          "androidx.core.app.extra.COMPAT_TEMPLATE_io.homeassistant.companion.android_1963362324": "androidx.core.app.NotificationCompat$BigTextStyle",
-          "client_id_com.google.android.youtube_99": "7fddb084-2607-40a0-a287-d995c72769ac",
-          "com.google.android.youtube_99_category": "null",
-          "com.google.android.youtube_99_channel_id": "1",
-          "com.google.android.youtube_99_group_id": "",
-          "com.google.android.youtube_99_is_clearable": true,
-          "com.google.android.youtube_99_is_ongoing": false,
-          "com.google.android.youtube_99_post_time": 1677000664750,
-          "interaction_screen_bundle_extra_com.google.android.youtube_99": "Bundle[{}]",
-          "io.homeassistant.companion.android_1963362324_category": "null",
-          "io.homeassistant.companion.android_1963362324_channel_id": "general",
-          "io.homeassistant.companion.android_1963362324_group_id": "null",
-          "io.homeassistant.companion.android_1963362324_is_clearable": true,
-          "io.homeassistant.companion.android_1963362324_is_ongoing": false,
-          "io.homeassistant.companion.android_1963362324_post_time": 1677000607883,
-          "logging_directive_com.google.android.youtube_99": [
-            10,
-            96,
-            8,
-            0,
-            16,
-            -50,
-            97,
-            34,
-            19,
-            8,
-            -116,
-            -5,
-            -13,
-            -90,
-            -110,
-            -89,
-            -3,
-            2,
-            21,
-            -2,
-            -51,
-            -25,
-            3,
-            29,
-            -96,
-            12,
-            8,
-            -106,
-            -110,
-            1,
-            24,
-            85,
-            67,
-            116,
-            90,
-            83,
-            119,
-            51,
-            88,
-            95,
-            80,
-            51,
-            53,
-            115,
-            49,
-            100,
-            86,
-            53,
-            83,
-            122,
-            104,
-            84,
-            100,
-            57,
-            81,
-            -78,
-            1,
-            40,
-            10,
-            22,
-            65,
-            71,
-            90,
-            116,
-            106,
-            112,
-            90,
-            103,
-            85,
-            52,
-            122,
-            121,
-            114,
-            101,
-            45,
-            105,
-            109,
-            65,
-            81,
-            109,
-            70,
-            65,
-            16,
-            6,
-            26,
-            12,
-            8,
-            -41,
-            -1,
-            -45,
-            -97,
-            6,
-            16,
-            -80,
-            -17,
-            -2,
-            -82,
-            3,
-            34,
-            2,
-            8,
-            12,
-            42,
-            2,
-            8,
-            0
-          ],
+          "state_class": "measurement",
+          "android.appInfo_com.android.systemui_10006": "ApplicationInfo{832b020 com.android.systemui}",
+          "android.reduced.images_com.android.systemui_10006": true,
+          "android.showWhen_com.android.systemui_10006": true,
+          "android.text_com.android.systemui_10006": "The battery is full",
+          "android.title_com.android.systemui_10006": "Charging Complete",
+          "com.android.systemui_10006_category": "sys",
+          "com.android.systemui_10006_channel_id": "GEN",
+          "com.android.systemui_10006_group_id": "null",
+          "com.android.systemui_10006_is_clearable": true,
+          "com.android.systemui_10006_is_ongoing": false,
+          "com.android.systemui_10006_post_time": 1677346019403,
           "unit_of_measurement": "notifications",
           "icon": "mdi:bell-ring",
           "friendly_name": "RMX1801 Active Notification Count"
         },
-        "last_changed": "2023-02-21T17:38:25.911226+00:00",
-        "last_updated": "2023-02-21T17:38:25.911226+00:00",
+        "last_changed": "2023-02-25T17:31:48.327942+00:00",
+        "last_updated": "2023-02-25T17:31:48.327942+00:00",
         "context": {
-          "id": "01GSTGW8FQZ5JRWX6JESP61JN5",
+          "id": "01GT4T3077RYF89NZN2RJSAPQD",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": 2,
+        "native_value": 1,
         "native_unit_of_measurement": "notifications"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_media_session",
-        "state": "Unavailable",
+        "state": "Unknown",
         "attributes": {
-          "total_media_session_count": 0,
+          "album_com.plexapp.android": "null",
+          "artist_com.plexapp.android": "null",
+          "duration_com.plexapp.android": "null",
+          "media_id_com.plexapp.android": "null",
+          "playback_position_com.plexapp.android": "null",
+          "playback_state_com.plexapp.android": "Unknown",
+          "title_com.plexapp.android": "null",
+          "total_media_session_count": 1,
           "icon": "mdi:play-circle",
           "friendly_name": "RMX1801 Media Session"
         },
-        "last_changed": "2023-02-21T17:43:21.275136+00:00",
-        "last_updated": "2023-02-21T17:43:21.275136+00:00",
+        "last_changed": "2023-02-25T15:23:01.385816+00:00",
+        "last_updated": "2023-02-25T15:23:01.385816+00:00",
         "context": {
-          "id": "01GSTH58XV6RHCTWPMK71N2VJZ",
+          "id": "01GT4JQ6C9GTQSJ27VZ4FVXRRV",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "Unavailable",
+        "native_value": "Unknown",
         "native_unit_of_measurement": null
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_steps_sensor",
-        "state": "32317",
+        "state": "19255",
         "attributes": {
+          "state_class": "total_increasing",
           "unit_of_measurement": "steps",
           "icon": "mdi:walk",
           "friendly_name": "RMX1801 Steps Sensor"
         },
-        "last_changed": "2023-02-21T17:35:16.074616+00:00",
-        "last_updated": "2023-02-21T17:35:16.074616+00:00",
+        "last_changed": "2023-02-25T16:06:22.352487+00:00",
+        "last_updated": "2023-02-25T16:06:22.352487+00:00",
         "context": {
-          "id": "01GSTGPF3AMTPWWH391KAK337X",
+          "id": "01GT4N6JCG4WSQSNDYPJ45V637",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": {
-        "native_value": "32317",
+        "native_value": "19255",
         "native_unit_of_measurement": "steps"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
         "entity_id": "sensor.rmx1801_internal_storage",
         "state": "22",
         "attributes": {
-          "state_class": "measurement",
-          "Free internal storage": "11GB",
+          "Free internal storage": "10GB",
           "Total internal storage": "49GB",
           "unit_of_measurement": "%",
           "icon": "mdi:harddisk",
           "friendly_name": "RMX1801 Internal Storage"
         },
-        "last_changed": "2023-02-21T15:15:11.554400+00:00",
-        "last_updated": "2023-02-21T15:15:11.554400+00:00",
+        "last_changed": "2023-02-25T13:25:03.984776+00:00",
+        "last_updated": "2023-02-25T13:25:03.984776+00:00",
         "context": {
-          "id": "01GST8NZJ2Y9JXSXW6BMXATF52",
+          "id": "01GT4BZ6VG6NN2KGD5NN46BA8M",
           "parent_id": null,
           "user_id": null
         }
@@ -1921,7 +2441,7 @@
         "native_value": 22,
         "native_unit_of_measurement": "%"
       },
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1932,16 +2452,16 @@
           "icon": "mdi:power-plug",
           "friendly_name": "RMX1801 Is Charging"
         },
-        "last_changed": "2023-02-21T17:35:16.046752+00:00",
-        "last_updated": "2023-02-21T17:35:16.046752+00:00",
+        "last_changed": "2023-02-25T17:10:23.196974+00:00",
+        "last_updated": "2023-02-25T17:10:23.196974+00:00",
         "context": {
-          "id": "01GSTGPF2E4X4HCBMRQ1DX9DS3",
+          "id": "01GT4RVS6WRFX5T1JF8AT6KPTR",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1952,16 +2472,16 @@
           "icon": "mdi:car",
           "friendly_name": "RMX1801 Android Auto"
         },
-        "last_changed": "2023-02-21T15:15:11.556931+00:00",
-        "last_updated": "2023-02-21T15:15:11.556931+00:00",
+        "last_changed": "2023-02-25T02:47:08.174256+00:00",
+        "last_updated": "2023-02-25T02:47:08.174256+00:00",
         "context": {
-          "id": "01GST8NZJ4M2MYKRPH2XWWFW32",
+          "id": "01GT37F44E59B13B0H57A4Y0VR",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -1969,869 +2489,25 @@
         "state": "Home",
         "attributes": {
           "source_type": "gps",
-          "latitude": 19.1506403,
-          "longitude": 72.9435898,
-          "gps_accuracy": 14,
-          "altitude": -54,
+          "latitude": 19.1506423,
+          "longitude": 72.9436458,
+          "gps_accuracy": 25,
+          "altitude": -40,
           "course": 0,
           "speed": 0,
-          "vertical_accuracy": 1,
+          "vertical_accuracy": 3,
           "friendly_name": "Nilesh"
         },
-        "last_changed": "2023-02-21T17:35:12.250854+00:00",
-        "last_updated": "2023-02-21T17:35:12.250854+00:00",
+        "last_changed": "2023-02-25T17:28:17.145326+00:00",
+        "last_updated": "2023-02-25T17:28:17.145326+00:00",
         "context": {
-          "id": "01GSTGPBBTFDF74V4J9V6108TS",
+          "id": "01GT4SWHZSKHMD4S5BDKS45NT5",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.gsmnotify",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T15:49:56.725128+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1611409941296",
-          "friendly_name": "gsmnotifybaterryfullnilesh"
-        },
-        "last_changed": "2023-02-21T15:15:15.249506+00:00",
-        "last_updated": "2023-02-21T15:50:01.302023+00:00",
-        "context": {
-          "id": "01GSTANKVHMEWTDVH172GRCAQW",
-          "parent_id": "01GSTANKSY2XY333D7VPKR07Q6",
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.zone_notification",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T14:04:30.117274+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1611411313060",
-          "friendly_name": "Nilesh home Zone Notification"
-        },
-        "last_changed": "2023-02-21T15:15:15.253653+00:00",
-        "last_updated": "2023-02-21T15:15:15.253653+00:00",
-        "context": {
-          "id": "01GST8P35NRMMN156MW35QQKMN",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.gsmnotifybaterryfullmonika",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T05:32:24.777634+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1611469498220",
-          "friendly_name": "gsmnotifybaterryfullmonika"
-        },
-        "last_changed": "2023-02-21T15:15:15.347907+00:00",
-        "last_updated": "2023-02-21T15:15:15.347907+00:00",
-        "context": {
-          "id": "01GST8P38K0TMG5Y2SZY5TXD0J",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.zone_notification_2",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-17T08:35:55.423378+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1611632533399",
-          "friendly_name": "Monika Home Zone Notification"
-        },
-        "last_changed": "2023-02-21T15:15:15.350477+00:00",
-        "last_updated": "2023-02-21T15:15:15.350477+00:00",
-        "context": {
-          "id": "01GST8P38PPRCH49SQPJRY0AGW",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.nilesh_zone_interaction_action",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-17T09:51:46.787878+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1611633499595",
-          "friendly_name": "Nilesh Work Zone interaction action"
-        },
-        "last_changed": "2023-02-21T15:15:15.352826+00:00",
-        "last_updated": "2023-02-21T15:15:15.352826+00:00",
-        "context": {
-          "id": "01GST8P38RKSC4GR5W1S1X5HZS",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.monika_zone_interaction_action",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-17T08:27:54.905409+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1611633704243",
-          "friendly_name": "Monika School Zone interaction action"
-        },
-        "last_changed": "2023-02-21T15:15:15.354974+00:00",
-        "last_updated": "2023-02-21T15:15:15.354974+00:00",
-        "context": {
-          "id": "01GST8P38TB7KPXTBV6PH5GX4N",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.dim_lights_based_on_sun_elevation",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2021-12-17T07:44:12.093173+00:00",
-          "mode": "queued",
-          "current": 0,
-          "max": 10,
-          "id": "1612077407628",
-          "friendly_name": "Dim lights based on sun elevation"
-        },
-        "last_changed": "2023-02-21T15:15:15.358564+00:00",
-        "last_updated": "2023-02-21T15:15:15.358564+00:00",
-        "context": {
-          "id": "01GST8P38Y0M5B29D0KXWG7CFB",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.sunrise_mandir_lightoff",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T01:33:33.879742+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1612086377652",
-          "friendly_name": "sunrise-mandir-lightoff"
-        },
-        "last_changed": "2023-02-21T15:15:15.361133+00:00",
-        "last_updated": "2023-02-21T15:15:15.361133+00:00",
-        "context": {
-          "id": "01GST8P391QHQ4GG03P7EASK24",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.sunset_mandir_lighton",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T13:10:26.809578+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1612086545343",
-          "friendly_name": "sunset-mandir-lighton"
-        },
-        "last_changed": "2023-02-21T15:15:15.363282+00:00",
-        "last_updated": "2023-02-21T15:15:15.363282+00:00",
-        "context": {
-          "id": "01GST8P393D9MQAMPNK24AQV3H",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.mandir_light_off_at_night",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T17:30:00.098198+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1612103102239",
-          "friendly_name": "mandir-light-off"
-        },
-        "last_changed": "2023-02-21T15:15:15.366801+00:00",
-        "last_updated": "2023-02-21T17:30:07.754214+00:00",
-        "context": {
-          "id": "01GSTGD20AZCRA8NTN86QMKS73",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.nilesh_school_zone_interaction_action",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T08:23:13.525900+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1655479754300",
-          "friendly_name": "Nilesh School Zone interaction action"
-        },
-        "last_changed": "2023-02-21T15:15:15.369467+00:00",
-        "last_updated": "2023-02-21T15:15:15.369467+00:00",
-        "context": {
-          "id": "01GST8P399W174Y7J05FNAKHGJ",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.test_google_calendar_event",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2022-06-26T14:04:48.444164+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1656170875014",
-          "friendly_name": "Google Calendar Birthday Event Trigger"
-        },
-        "last_changed": "2023-02-21T15:15:15.371560+00:00",
-        "last_updated": "2023-02-21T15:15:15.371560+00:00",
-        "context": {
-          "id": "01GST8P39BF1YH2YS00BST4X0N",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.google_calendar_holiday_event_trigger",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-01-14T18:30:10.006373+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1656178644684",
-          "friendly_name": "Google Calendar Holiday Event Trigger"
-        },
-        "last_changed": "2023-02-21T15:15:15.375005+00:00",
-        "last_updated": "2023-02-21T15:15:15.375005+00:00",
-        "context": {
-          "id": "01GST8P39FPGYR4ZMAZYCNQNSM",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.google_calendar_event_trigger",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2022-10-24T12:30:10.007032+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1656178773816",
-          "friendly_name": "Google Calendar Event Trigger"
-        },
-        "last_changed": "2023-02-21T15:15:15.377344+00:00",
-        "last_updated": "2023-02-21T15:15:15.377344+00:00",
-        "context": {
-          "id": "01GST8P39H00V98RZN1MV00WB5",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.nilesh_tution_zone_interaction_action",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T12:41:48.718364+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1660842775488",
-          "friendly_name": "Nilesh Tution Zone interaction action"
-        },
-        "last_changed": "2023-02-21T15:15:15.379591+00:00",
-        "last_updated": "2023-02-21T15:15:15.379591+00:00",
-        "context": {
-          "id": "01GST8P39KAWXKWY928QPZQ19H",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.google_calendar_events",
-        "state": "off",
-        "attributes": {
-          "last_triggered": "2022-10-24T12:15:00.005339+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1664215963989",
-          "friendly_name": "Google Calendar Events"
-        },
-        "last_changed": "2023-02-21T15:15:15.383779+00:00",
-        "last_updated": "2023-02-21T15:15:15.383779+00:00",
-        "context": {
-          "id": "01GST8P39Q8QHN1KJHFRMFAT5R",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.moon_phase_change",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-20T18:30:05.165934+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1665328951037",
-          "friendly_name": "Moon phase change"
-        },
-        "last_changed": "2023-02-21T15:15:15.385869+00:00",
-        "last_updated": "2023-02-21T15:15:15.385869+00:00",
-        "context": {
-          "id": "01GST8P39S521QV41C6QYMRTGH",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.update_morning_commute_sensor",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T17:25:00.147834+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1669355991949",
-          "friendly_name": "Update morning commute sensor"
-        },
-        "last_changed": "2023-02-21T15:15:15.387959+00:00",
-        "last_updated": "2023-02-21T17:25:00.167863+00:00",
-        "context": {
-          "id": "01GSTG3NKH42ARS68NG7HT4HCE",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.frontend_turn_on_dark_mode",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T13:10:26.814574+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1673535640033",
-          "friendly_name": "Frontend: turn on dark mode"
-        },
-        "last_changed": "2023-02-21T15:15:15.390251+00:00",
-        "last_updated": "2023-02-21T15:15:15.390251+00:00",
-        "context": {
-          "id": "01GST8P39Y84MJM7R5R9QFNHRB",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.frontend_turn_on_light_mode",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T01:30:00.282830+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1673535809740",
-          "friendly_name": "Frontend: turn on light mode"
-        },
-        "last_changed": "2023-02-21T15:15:15.392300+00:00",
-        "last_updated": "2023-02-21T15:15:15.392300+00:00",
-        "context": {
-          "id": "01GST8P3A09YCBJD48RAW318GM",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "automation.frontend_change_theme",
-        "state": "on",
-        "attributes": {
-          "last_triggered": "2023-02-21T15:15:57.855324+00:00",
-          "mode": "single",
-          "current": 0,
-          "id": "1673536058896",
-          "friendly_name": "Frontend: change theme"
-        },
-        "last_changed": "2023-02-21T15:15:15.394547+00:00",
-        "last_updated": "2023-02-21T15:16:00.055777+00:00",
-        "context": {
-          "id": "01GST8QCQVG4R25GBHHB25M6E4",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.hacs_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "1.30.1",
-          "in_progress": false,
-          "latest_version": "1.30.1",
-          "release_summary": null,
-          "release_url": "https://github.com/hacs/integration/releases/1.30.1",
-          "skipped_version": null,
-          "title": null,
-          "entity_picture": "https://brands.home-assistant.io/_/hacs/icon.png",
-          "friendly_name": "HACS update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.583381+00:00",
-        "last_updated": "2023-02-21T15:15:15.583381+00:00",
-        "context": {
-          "id": "01GST8P3FZV2HB8E32909HYVKJ",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.passive_ble_monitor_integration_update",
-        "state": "on",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "11.6.2",
-          "in_progress": false,
-          "latest_version": "11.7.1",
-          "release_summary": null,
-          "release_url": "https://github.com/custom-components/ble_monitor/releases/11.7.1",
-          "skipped_version": null,
-          "title": null,
-          "entity_picture": "https://brands.home-assistant.io/_/ble_monitor/icon.png",
-          "friendly_name": "Passive BLE monitor integration update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.589675+00:00",
-        "last_updated": "2023-02-21T15:15:15.589675+00:00",
-        "context": {
-          "id": "01GST8P3G59KD5DAKP9P3VG3MD",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.dwains_dashboard_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "v3.3.0",
-          "in_progress": false,
-          "latest_version": "v3.3.0",
-          "release_summary": null,
-          "release_url": "https://github.com/dwainscheeren/dwains-lovelace-dashboard/releases/v3.3.0",
-          "skipped_version": null,
-          "title": null,
-          "entity_picture": "https://brands.home-assistant.io/_/dwains_dashboard/icon.png",
-          "friendly_name": "Dwains Dashboard update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.591535+00:00",
-        "last_updated": "2023-02-21T15:15:15.591535+00:00",
-        "context": {
-          "id": "01GST8P3G7QDJ9PR8BCWZHZWT6",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.ios_dark_mode_theme_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "2805f18",
-          "in_progress": false,
-          "latest_version": "2805f18",
-          "release_summary": null,
-          "release_url": "https://github.com/basnijholt/lovelace-ios-dark-mode-theme",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "iOS Dark Mode Theme update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.593340+00:00",
-        "last_updated": "2023-02-21T15:15:15.593340+00:00",
-        "context": {
-          "id": "01GST8P3G9BHGC300ZKT28Z6P2",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.ios_themes_dark_mode_and_light_mode_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "v2.11.0",
-          "in_progress": false,
-          "latest_version": "v2.11.0",
-          "release_summary": null,
-          "release_url": "https://github.com/basnijholt/lovelace-ios-themes/releases/v2.11.0",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "iOS Themes - Dark Mode and Light Mode update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.594885+00:00",
-        "last_updated": "2023-02-21T15:15:15.594885+00:00",
-        "context": {
-          "id": "01GST8P3GAC5JH37NFNZABA8RS",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.mushroom_themes_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "v0.0.9",
-          "in_progress": false,
-          "latest_version": "v0.0.9",
-          "release_summary": null,
-          "release_url": "https://github.com/piitaya/lovelace-mushroom-themes/releases/v0.0.9",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "Mushroom Themes update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.596645+00:00",
-        "last_updated": "2023-02-21T15:15:15.596645+00:00",
-        "context": {
-          "id": "01GST8P3GCFV2HM4KK0QMEJTEQ",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.metrology_metro_fluent_windows_themes_by_mmak_es_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "v.1.9.1",
-          "in_progress": false,
-          "latest_version": "v.1.9.1",
-          "release_summary": null,
-          "release_url": "https://github.com/Madelena/Metrology-for-Hass/releases/v.1.9.1",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "Metrology - Metro + Fluent + Windows Themes - by mmak.es update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.599041+00:00",
-        "last_updated": "2023-02-21T15:15:15.599041+00:00",
-        "context": {
-          "id": "01GST8P3GF8QMSAY4YDMKFBRA6",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.macos_theme_based_on_the_system_wide_light_and_dark_mode_ui_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "v1.4",
-          "in_progress": false,
-          "latest_version": "v1.4",
-          "release_summary": null,
-          "release_url": "https://github.com/JuanMTech/macOS-Theme/releases/v1.4",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "macOS Theme - Based on the system-wide light and dark mode UI update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.600956+00:00",
-        "last_updated": "2023-02-21T15:15:15.600956+00:00",
-        "context": {
-          "id": "01GST8P3GGXEHH6Z8C0XQ94ZWH",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.travel_time_card_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "2.0.0",
-          "in_progress": false,
-          "latest_version": "2.0.0",
-          "release_summary": null,
-          "release_url": "https://github.com/ljmerza/travel-time-card/releases/2.0.0",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "Travel Time Card update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.602666+00:00",
-        "last_updated": "2023-02-21T15:15:15.602666+00:00",
-        "context": {
-          "id": "01GST8P3GJ1A50EZMS6F5YRE87",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.scheduler_card_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "v3.2.7",
-          "in_progress": false,
-          "latest_version": "v3.2.7",
-          "release_summary": null,
-          "release_url": "https://github.com/nielsfaber/scheduler-card/releases/v3.2.7",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "Scheduler Card update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.604206+00:00",
-        "last_updated": "2023-02-21T15:15:15.604206+00:00",
-        "context": {
-          "id": "01GST8P3GMJE010DBPJRCVTJRE",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.banner_card_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "0.13.0",
-          "in_progress": false,
-          "latest_version": "0.13.0",
-          "release_summary": null,
-          "release_url": "https://github.com/nervetattoo/banner-card/releases/0.13.0",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "Banner Card update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.606063+00:00",
-        "last_updated": "2023-02-21T15:15:15.606063+00:00",
-        "context": {
-          "id": "01GST8P3GPJKP9FKGBT4GRE8PG",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.ha_lovelace_card_waze_travel_time_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "038f2a8",
-          "in_progress": false,
-          "latest_version": "038f2a8",
-          "release_summary": null,
-          "release_url": "https://github.com/r-renato/ha-card-waze-travel-time",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "HA (Lovelace) Card Waze Travel Time update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.607619+00:00",
-        "last_updated": "2023-02-21T15:15:15.607619+00:00",
-        "context": {
-          "id": "01GST8P3GQ3RTAHTBZFK9BNC8B",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.mini_graph_card_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "v0.11.0",
-          "in_progress": false,
-          "latest_version": "v0.11.0",
-          "release_summary": null,
-          "release_url": "https://github.com/kalkih/mini-graph-card/releases/v0.11.0",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "mini-graph-card update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.609355+00:00",
-        "last_updated": "2023-02-21T15:15:15.609355+00:00",
-        "context": {
-          "id": "01GST8P3GSVQ32JQ8Q892JYYAV",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
-    },
-    {
-      "state": {
-        "entity_id": "update.mushroom_update",
-        "state": "off",
-        "attributes": {
-          "auto_update": false,
-          "installed_version": "v2.5.3",
-          "in_progress": false,
-          "latest_version": "v2.5.3",
-          "release_summary": null,
-          "release_url": "https://github.com/piitaya/lovelace-mushroom/releases/v2.5.3",
-          "skipped_version": null,
-          "title": null,
-          "friendly_name": "Mushroom update",
-          "supported_features": 21
-        },
-        "last_changed": "2023-02-21T15:15:15.611057+00:00",
-        "last_updated": "2023-02-21T15:15:15.611057+00:00",
-        "context": {
-          "id": "01GST8P3GV31B27BXRPX2QQG5Y",
-          "parent_id": null,
-          "user_id": null
-        }
-      },
-      "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -2841,16 +2517,16 @@
           "device_class": "restart",
           "friendly_name": "WLED Restart"
         },
-        "last_changed": "2023-02-21T17:29:45.531330+00:00",
-        "last_updated": "2023-02-21T17:29:45.531330+00:00",
+        "last_changed": "2023-02-25T16:11:01.685581+00:00",
+        "last_updated": "2023-02-25T16:11:01.685581+00:00",
         "context": {
-          "id": "01GSTGCC9VPFBM1DSNP7Z34DG4",
+          "id": "01GT4NF35N8FMHMYQPTXXTA0HZ",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     },
     {
       "state": {
@@ -2862,16 +2538,16 @@
           "friendly_name": "WLED Firmware",
           "supported_features": 3
         },
-        "last_changed": "2023-02-21T17:29:45.532763+00:00",
-        "last_updated": "2023-02-21T17:29:45.532763+00:00",
+        "last_changed": "2023-02-25T16:11:01.686308+00:00",
+        "last_updated": "2023-02-25T16:11:01.686308+00:00",
         "context": {
-          "id": "01GSTGCC9WMGWFZS1Q7Z5FXNCA",
+          "id": "01GT4NF35PZQH70AYAAWQVP82N",
           "parent_id": null,
           "user_id": null
         }
       },
       "extra_data": null,
-      "last_seen": "2023-02-21T17:45:54.925396+00:00"
+      "last_seen": "2023-02-25T17:32:45.443609+00:00"
     }
   ]
 }

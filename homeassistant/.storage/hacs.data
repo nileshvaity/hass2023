@@ -22,22 +22,22 @@
           "category": "integration",
           "description": "HACS gives you a powerful UI to handle downloads of all your custom needs.",
           "domain": "hacs",
-          "downloads": 107703,
-          "etag_repository": "W/\"d5a5145fb7406e779acd6776f54c2657bb12b7e2febb6dd40f44f6a1586f8cd6\"",
-          "last_updated": "2023-02-19T16:25:37Z",
-          "stargazers_count": 3366,
+          "downloads": 116505,
+          "etag_repository": "W/\"133c5a24baeeaa73f18f57a9722199f2377b807878067a8599c6b28fc2fc3993\"",
+          "last_updated": "2023-02-24T12:41:07Z",
+          "stargazers_count": 3377,
           "topics": [
             "community",
             "package-manager"
           ],
           "installed_commit": "75335ed",
           "installed": true,
-          "last_commit": "9d97b5f",
+          "last_commit": "7679227",
           "last_version": "1.30.1",
           "manifest_name": "HACS",
           "releases": true,
           "version_installed": "1.30.1",
-          "last_fetched": 1676983516.660771
+          "last_fetched": 1677242983.5652
         },
         {
           "id": "191831638",
@@ -1394,9 +1394,9 @@
           "category": "integration",
           "description": "BLE monitor passively monitors BLE sensors (Xiaomi, Qingping, ATC, BlueMaestro, Brifit, Govee, Kegtron, Moat, Inkbird, iNode, Yeelight, RuuviTag, SensorPush, Teltonika, Thermoplus and Thermopro)",
           "domain": "ble_monitor",
-          "etag_repository": "W/\"9e01aa24675484db7c4dac0e1df41ba394662ba1decf51da508c7e7cdc6c007e\"",
+          "etag_repository": "W/\"2205620bb16559d9da7d834f494e1df329aba6a6e4b6dcb830387f11cdbe235e\"",
           "last_updated": "2023-02-18T12:47:48Z",
-          "stargazers_count": 1533,
+          "stargazers_count": 1535,
           "topics": [
             "atc",
             "govee",
@@ -1418,8 +1418,9 @@
           "last_version": "11.7.1",
           "manifest_name": "Passive BLE monitor",
           "releases": true,
+          "selected_tag": "11.7.1",
           "version_installed": "11.6.2",
-          "last_fetched": 1676966506.841342
+          "last_fetched": 1677230599.033813
         },
         {
           "id": "178838527",
@@ -2319,9 +2320,9 @@
           "category": "integration",
           "description": "An fully auto generating Home Assistant UI dashboard for desktop, tablet and mobile by Dwains for desktop, tablet, mobile",
           "domain": "dwains_dashboard",
-          "etag_repository": "W/\"76aa2765bcee81b0ecad1225f8788dd2e52716373e11846a928210e35a5f84b0\"",
+          "etag_repository": "W/\"d4563818bdd3acdac70b86e154c2505c89f52933ecb8dc33a8fbba83bab60579\"",
           "last_updated": "2023-01-25T19:39:09Z",
-          "stargazers_count": 1306,
+          "stargazers_count": 1308,
           "topics": [
             "dashboard",
             "dwains-lovelace-dashboard",
@@ -2333,7 +2334,7 @@
           "manifest_name": "Dwains Dashboard",
           "releases": true,
           "version_installed": "v3.3.0",
-          "last_fetched": 1676966537.681057
+          "last_fetched": 1677230640.855784
         },
         {
           "id": "405007807",
@@ -3583,8 +3584,7 @@
           "installed_commit": "2805f18",
           "installed": true,
           "last_commit": "2805f18",
-          "open_issues": 30,
-          "last_fetched": 1676966477.195142
+          "last_fetched": 1677230531.399292
         },
         {
           "id": "255366214",
@@ -3611,10 +3611,9 @@
           "installed_commit": "30fdac5",
           "installed": true,
           "last_version": "v2.11.0",
-          "open_issues": 28,
           "releases": true,
           "version_installed": "v2.11.0",
-          "last_fetched": 1676966477.289565
+          "last_fetched": 1677230531.525028
         },
         {
           "id": "202203063",
@@ -3867,10 +3866,9 @@
           "installed_commit": "6d03328",
           "installed": true,
           "last_version": "v0.0.9",
-          "open_issues": 14,
           "releases": true,
           "version_installed": "v0.0.9",
-          "last_fetched": 1676966492.22308
+          "last_fetched": 1677230546.808604
         },
         {
           "id": "458817847",
@@ -3905,9 +3903,9 @@
           "full_name": "Madelena/Metrology-for-Hass",
           "category": "theme",
           "description": "🎨 Give your Home Assistant a modern and clean facelift. 🟥🟧🟩🟦🟪 24 Variations with 2 Styles + 6 Colors (Magenta Red / Orange / Green / Blue / Purple) + 🌞 Light and 🌚 Dark modes included. Based on Metro and Fluent UI Design Systems from Microsoft Windows.",
-          "etag_repository": "W/\"9fa79a061adf64afc9b57cc4ff870ba4ba9622ad53b1829267975755714497d0\"",
+          "etag_repository": "W/\"02d9777ffe921b7deb6d16f22466c2586d0065535e4b5b2847fa02f41252398d\"",
           "last_updated": "2023-01-14T11:37:45Z",
-          "stargazers_count": 289,
+          "stargazers_count": 290,
           "topics": [
             "home-assistant-config",
             "lovelace-theme"
@@ -3915,10 +3913,9 @@
           "installed_commit": "ce09987",
           "installed": true,
           "last_version": "v.1.9.1",
-          "open_issues": 5,
           "releases": true,
           "version_installed": "v.1.9.1",
-          "last_fetched": 1676966489.90761
+          "last_fetched": 1677230544.144684
         },
         {
           "id": "480992848",
@@ -3939,10 +3936,9 @@
           "installed_commit": "908836c",
           "installed": true,
           "last_version": "v1.4",
-          "open_issues": 1,
           "releases": true,
           "version_installed": "v1.4",
-          "last_fetched": 1676966487.174773
+          "last_fetched": 1677230541.68933
         },
         {
           "id": "498774862",
@@ -4436,7 +4432,7 @@
           "full_name": "ljmerza/travel-time-card",
           "category": "plugin",
           "description": "show travel times for you travel time sensors",
-          "downloads": 1343,
+          "downloads": 1346,
           "etag_repository": "W/\"aa54439f880c921675c35642b9a8be403de725b361c161d6c0558e83b089ab7c\"",
           "last_updated": "2022-06-02T03:55:39Z",
           "stargazers_count": 23,
@@ -4445,7 +4441,7 @@
           "last_version": "2.0.0",
           "releases": true,
           "version_installed": "2.0.0",
-          "last_fetched": 1676966518.523555
+          "last_fetched": 1677230601.679194
         },
         {
           "id": "257005990",
@@ -4493,10 +4489,10 @@
           "full_name": "nielsfaber/scheduler-card",
           "category": "plugin",
           "description": "HA Lovelace card for control of scheduler entities",
-          "downloads": 10371,
-          "etag_repository": "W/\"f3763be61e6195c9446e6a9a5947e17fdd47cb15149d01fbdc8b2f10ecd40f9a\"",
+          "downloads": 11229,
+          "etag_repository": "W/\"0bcf523c23f785bf8f8e88efb366d3c5492f951f398154b0d9788967d1ec2b44\"",
           "last_updated": "2023-02-06T05:08:00Z",
-          "stargazers_count": 590,
+          "stargazers_count": 591,
           "topics": [
             "assistant",
             "automation",
@@ -4514,7 +4510,7 @@
           "last_version": "v3.2.7",
           "releases": true,
           "version_installed": "v3.2.7",
-          "last_fetched": 1676966528.547345
+          "last_fetched": 1677230610.38554
         },
         {
           "id": "238414582",
@@ -4557,16 +4553,16 @@
           "full_name": "nervetattoo/banner-card",
           "category": "plugin",
           "description": "A fluffy banner card for Home Assistant 🥰",
-          "downloads": 28062,
-          "etag_repository": "W/\"342e6245c0bef9fa746c7b31960e83aea96c0446b2c8c56cf8052febda6d4a5f\"",
+          "downloads": 28160,
+          "etag_repository": "W/\"088e81c6381aef430ad704bbf46777b33480fd80d4ea86132eb7b5080a785a05\"",
           "last_updated": "2023-02-03T04:52:53Z",
-          "stargazers_count": 521,
+          "stargazers_count": 523,
           "installed_commit": "554c77c",
           "installed": true,
           "last_version": "0.13.0",
           "releases": true,
           "version_installed": "0.13.0",
-          "last_fetched": 1676966526.187489
+          "last_fetched": 1677230607.391147
         },
         {
           "id": "142051833",
@@ -4593,7 +4589,7 @@
           "installed_commit": "038f2a8",
           "installed": true,
           "last_commit": "038f2a8",
-          "last_fetched": 1676966533.191283
+          "last_fetched": 1677230618.574834
         },
         {
           "id": "289188530",
@@ -4876,10 +4872,10 @@
           "full_name": "kalkih/mini-graph-card",
           "category": "plugin",
           "description": "Minimalistic graph card for Home Assistant Lovelace UI",
-          "downloads": 141860,
-          "etag_repository": "W/\"3baaa1e8ec93157fa0473ecad11053f2efcbae6e0ae9e96a46ea2a9a8fdda806\"",
+          "downloads": 143117,
+          "etag_repository": "W/\"f5c2c441d95a9caeb6fa8d24c49cebc8d0e949d137e67824068e8a7a9c4a7b55\"",
           "last_updated": "2023-02-13T03:14:48Z",
-          "stargazers_count": 2252,
+          "stargazers_count": 2256,
           "topics": [
             "automation",
             "custom",
@@ -4890,7 +4886,7 @@
           "last_version": "v0.11.0",
           "releases": true,
           "version_installed": "v0.11.0",
-          "last_fetched": 1676966513.74172
+          "last_fetched": 1677230593.446222
         },
         {
           "id": "376904517",
@@ -4991,10 +4987,10 @@
           "full_name": "piitaya/lovelace-mushroom",
           "category": "plugin",
           "description": "Mushroom Cards - Build a beautiful dashboard easily 🍄",
-          "downloads": 32921,
-          "etag_repository": "W/\"a1458612e02e674ff7b4d31e6ebac5144cbddfe5d1daa277aaabae77f2a7469e\"",
+          "downloads": 35452,
+          "etag_repository": "W/\"b133c716d4adad306a43e035624c383f8f627bac8cb96d8832ca3cbc1eb147e6\"",
           "last_updated": "2023-02-13T22:43:50Z",
-          "stargazers_count": 2067,
+          "stargazers_count": 2072,
           "topics": [
             "card",
             "mushroom"
@@ -5004,7 +5000,7 @@
           "last_version": "v2.5.3",
           "releases": true,
           "version_installed": "v2.5.3",
-          "last_fetched": 1676966528.910774
+          "last_fetched": 1677230613.374831
         },
         {
           "id": "450898706",
